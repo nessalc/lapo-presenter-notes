@@ -44,6 +44,8 @@ Theme -- [Cyborg](http://mkdocs.github.io/mkdocs-bootswatch/#cyborg) is a part o
 
 	pip install mkdocs-bootswatch
 
+Additional customization of the theme is found in \lake-afton-presenter-notes\presenterNotes\docs\css\nightvision.css
+
 ### Create new MkDocs document project
 From the d:\Projects\lapoPresenterNotes folder:
 
@@ -82,13 +84,15 @@ For the sake of tracking version history, the version numbering will follow a ye
 	yyyy.MM.dd.#
 	e.g.,...  2017.05.02.0
 
+Use this versioning strategy when applying label to the source.
+
 ## Contributing
 Please follow these simple rules when contributing additional content or changes to the notes:
 
 1. Add a note referencing the source of the material that is being added or changed.
 
 ## Authors
-Chris Ketron - initial compilation of LAPO source material and additional research and validation
+**Chris Ketron** - initial compilation of LAPO source material and additional research and validation
 
 ## Acknowledgments
 Thanks to former staff of the Lake Afton Public Observatory while under the pervue of
