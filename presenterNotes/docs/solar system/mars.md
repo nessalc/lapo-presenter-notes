@@ -1,0 +1,169 @@
+<p><a href="/">Home</a> > Solar System > <a href=".">Mars</a> </p>
+
+To Be Edited...
+===============
+
+# Mars
+
+Information about the planet Mars.
+
+	MARS
+	
+
+
+
+	
+	
+Actual	
+	
+Compared to Earth
+
+Distance From Sun (average)	
+	
+140 million miles	
+	
+1.5
+
+Revolution Period	
+	
+687 days	
+	
+1.88
+
+Rotation Period	
+	
+24 hr. 37 min.	
+	
+1.026
+
+Diameter	
+	
+4200 miles	
+	
+0.53
+
+Mass	
+	
+--	
+	
+0.11
+
+Surface Gravity	
+	
+--	
+	
+0.38
+
+Surface Temperature – Average	
+	
+-87 to -5 ºC
+(-125 to 23 ºF)	
+	
+0.64 to 0.91
+
+Density (gram/cubic cm)	
+	
+3.94 gm/cm3	
+	
+0.71
+
+
+
+
+
+WHAT TO LOOK FOR THROUGH THE TELESCOPE:
+
+1.	Recommended eyepiece: 26mm or 40 mm.
+
+2.	Mars will appear as a  reddish or orangish ball through the telescope.
+
+3.	Dark markings on the planet’s surface can be seen.  These are the areas of the surface which are actually darker than the rest of the surface.
+
+4.	The whitish area near one edge of the planet is a polar cap.
+
+
+MARS INFORMATION:
+
+1.	Mars appears red because of iron-oxides in the soil.
+
+2.	The surface of Mars has canyons, craters, dried lake and river beds, polar caps, and volcanoes.
+
+a.	The largest canyon on Mars, Valles Marineris, is 2480 miles long, and up to 6.25 miles deep.  This system of canyons is 6 times deeper than the Grand Canyon and about as long as the continental United States!
+
+b.	There are many craters on Mars.  Parts of Mars have so many craters, they look like our Moon.  The largest Martian crater is called Hellas basin and is 1430 miles across (almost half the size of the USA!).
+
+ 
+c.	There are many dry lake beds and river channels on Mars.  The question as to what happened to the water that made them remains unanswered.  The best guess is that some sort of it is in the polar caps, while most of it is frozen in the ground.  Some water may have been lost from the atmosphere.
+
+d.	The polar caps of Mars are made up of two parts: an underlying layer of water ice, covered by a layer of frozen carbon dioxide (dry ice).  When spring arrives in a hemisphere, the dry ice at that hemisphere’s pole evaporates, leaving behind the water ice.
+
+e.	The largest volcanoes in the solar system are on Mars.  The base of the largest volcano, Olympus Mons, is almost as large as Kansas.  Olympus Mons rises 13 miles (21 km) above the surrounding plains. In contrast, Mount Everest, the tallest mountain on Earth, is only 5.5 miles (9 km) tall.
+
+3.	Like Earth, Mars is tilted on its axis, so Mars also has seasons.  But seasons on Mars are roughly twice as long because it takes Mars twice as long to orbit the Sun.
+
+4.	Mars does have a thin atmosphere.
+
+a.	The atmosphere of Mars is mostly carbon dioxide.  There is no oxygen.
+
+b.	The air pressure at the surface is only 1/100 the air pressure at the Earth’s surface.  In other words, the air pressure at the surface of Mars is the same as the air pressure at an altitude of 100,000 feet on Earth.
+
+c.	The air pressure depends on the season: during winter, 20 - 30% of the atmosphere freezes at the poles.
+
+d.	Dust devils and dust storms are often seen on Mars.  During the Martian southern-summer, huge dust storms can completely cover the planet for several months, blotting out the surface of Mars.
+
+5.	The temperature on Mars varies with time and altitude: if you were standing on Mars, your nose would be about 35 degrees F (20 ºC) colder than your feet!  Heat from the Sun goes straight through the atmosphere to the ground, and warms the ground.  Heat rising from the ground then heats the air.  
+
+6.	The maximum recorded temperature on Mars is 68 ºF (20 ºC).  The minimum recorded temperature is  -220 ºF (-140 ºC).
+
+   
+7.	Mars has two tiny irregularly shaped moons.  Phobos is 17 miles (28 km) by 14 miles (20 km) while Deimos is 9 miles (15 km ) by 7 miles (12 km).  There is a possibility that they are captured asteroids.
+
+
+
+
+https://solarsystem.nasa.gov/planets/mars
+
+
+Item	
+Updated	
+Notes
+
+Distance from Sun	
+01-10-2003	
+OK with http://solarsystem.nasa.gov/planets/profile.cfm?Object=Mars
+
+Revolution Period	
+01-10-2003	
+OK with solarsystem.nasa.gov page
+
+Rotation Period	
+01-10-2003	
+OK with solarsystem.nasa.gov page
+
+Diameter	
+01-10-2003	
+OK with solarsystem.nasa.gov page
+
+Mass	
+01-10-2003	
+OK with solarsystem.nasa.gov page
+
+Surface Gravity	
+01-10-2003	
+OK with solarsystem.nasa.gov page
+
+Temperature – Average	
+01-10-2003	
+OK with solarsystem.nasa.gov page
+
+Density	
+01-10-2003	
+OK with solarsystem.nasa.gov page
+
+Other Information	
+01-10-2003	
+     Info from 
+http://mars.jpl.nasa.gov/MPF/science/atmospheric.html
+http://www.solarviews.com/eng/mars.htm
+http://astrogeology.usgs.gov/Projects/VallesMarineris/ 
+
