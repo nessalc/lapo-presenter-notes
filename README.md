@@ -22,8 +22,7 @@ then you can skip these steps and go directly to [Clone this Project](#clone-thi
 	https://www.python.org/downloads/
 	
 ### Virtual Environment
-Create a virtual environment for the Presenter Notes Project
-Create directory for the Python virtual environment, 
+Create a virtual environment for the Presenter Notes Project.  Begin by creating a directory for the Python virtual environment;
 I am using d:\Projects\lapoPresenterNotes\ for the virtual environments:
 	
 	md d:\Projects\lapoPresenterNotes
