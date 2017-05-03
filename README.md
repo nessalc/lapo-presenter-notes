@@ -40,7 +40,7 @@ I am using d:\Projects\lapoPresenterNotes\ for the virtual environments:
 
 	pip install mkdocs
 
-Theme -- [Cyborg] is a part of the mkdocs-bootswatch package:(http://mkdocs.github.io/mkdocs-bootswatch/#cyborg)
+Theme -- [Cyborg](http://mkdocs.github.io/mkdocs-bootswatch/#cyborg) is a part of the mkdocs-bootswatch package:
 
 	pip install mkdocs-bootswatch
 
