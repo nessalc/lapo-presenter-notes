@@ -1,3 +1,7 @@
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Comets](#!comet_info) |  |
+
 # General Comet Information
 
 1.  Comets are small, fragile, irregularly shaped bodies composed of a mixture of non-volatile grains and frozen gases. They have highly elliptical orbits that bring them very close to the Sun and swing them deeply into space, often beyond the orbit of Pluto. 
@@ -13,3 +17,13 @@
     As the comet absorbs ultraviolet light, chemical processes release hydrogen, which escapes the comet's gravity, and forms a hydrogen envelope. This envelope cannot be seen from Earth because its light is absorbed by our atmosphere, but it has been detected by spacecraft. 
 
     The Sun's radiation pressure and solar wind accelerate materials away from the comet's head at differing velocities according to the size and mass of the materials. Thus, relatively massive dust tails are accelerated slowly and tend to be curved. The ion tail is much less massive, and is accelerated so greatly that it appears as a nearly straight line extending away from the comet opposite the Sun.
+
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Comets](!comet_info) > References |   |
+
+###### References
+|          |             |           |
+|----------|-------------|-----------|
+| **Item** | **Updated** | **Notes** |
+| --       | --          | --        |
