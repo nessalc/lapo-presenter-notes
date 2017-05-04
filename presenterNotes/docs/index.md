@@ -1,3 +1,0 @@
-Welcome to...
-=============
-<img src="../../images/logo-lapo.svg" width="600" height="600" title="LAPO"/>
