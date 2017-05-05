@@ -1,8 +1,8 @@
-To Be Edited...
-===============
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Supernova Remnant](!supernova_remnant_info) |  |
 
-
-ADDITIONAL SUPERNOVA REMNANT INFORMATION:
+# General Supernova Remnant Information
 
 1.	Only stars that are very massive become supernovae.
 
@@ -24,5 +24,12 @@ ADDITIONAL SUPERNOVA REMNANT INFORMATION:
 
 10.	Supernovae can also send shockwaves through space.  If these shockwaves encounter clouds of gas, star formation might begin.
 
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Supernova Remnant](!supernova_remnant_info) > References |  |
 
-
+###### References
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**|
+|additional info from|2017-05-04|<http://messier.seds.org/snr.html>|
