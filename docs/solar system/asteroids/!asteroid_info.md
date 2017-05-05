@@ -22,4 +22,13 @@
 
 9.	One asteroid, Ida, even has its own moon!  Ida, shaped somewhat like a potato, is about 33 miles long.  Its moon is called Dactyl.
 
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](!asteroid_info) > References|[top](!asteroid_info)|
 
+###### References
+
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**|
+| -- | -- | -- |

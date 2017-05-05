@@ -1,6 +1,6 @@
 |    |    |
 |:---|---:|
-|<a href="/notes/#object-notes">Home</a> > <a href="/notes/#galaxies">Galaxies</a> > <a href=".">Spiral Galaxies</a>|   |
+|[Home](/notes/#object-notes) > [Galaxies](/notes/#galaxies) > [Spiral](!spiral_galaxy_info) > References|   |
 
 # General Spiral Galaxy Information
 

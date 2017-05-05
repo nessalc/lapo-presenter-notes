@@ -1,6 +1,6 @@
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > Exploration Missions |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Exploration Missions](#solar-system-exploration-missions) |  |
 
 # Solar System Exploration Missions 
 
@@ -103,3 +103,15 @@ GRAIL (Gravity Recovery and Interior Laboratory) was a pair of nearly identical,
 |**Duration**       | ongoing           |
 
 Yutu (Jade Rabbit in Chinese) is a Chinese rover that was carried by the Chang’e-3 lander.  There hasn’t been an active rover on the Moon since the Soviet Lunokhod in 1973.  Its instruments include Ground Penetrating Radar, spectrometers, and cameras.  It will roam an area of about 1.2 square miles during its investigation of the lunar surface.  Yutu is the pet rabbit of Chang’e, the Chinese Moon goddess.
+
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Exploration Missions](#solar-system-exploration-missions) > References|[top](#solar-system-exploration-missions)|
+
+
+###### References
+
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**|
+| -- | -- | -- |

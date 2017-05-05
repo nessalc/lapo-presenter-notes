@@ -1,7 +1,6 @@
 |    |    |
 |:---|---:|
-|<a href="/notes/#object-notes">Home</a> > <a href="/notes/#galaxies">Galaxies</a> > <a href=".">Irregular Galaxies</a>|   |
-
+|[Home](/notes/#object-notes) > [Galaxies](/notes/#galaxies) > [Irregular](!irregular_galaxy_info)|  |
 # General Irregular Galaxy Information
 
 1.	Most galaxies fit one of the three types: 
