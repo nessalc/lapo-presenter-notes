@@ -1,7 +1,7 @@
 site_name: Lake Afton Public Observatory
 copyright: "&copy; 2017 Lake Afton Public Observatory"
 theme: cyborg
-site_favicon: 'favicon.ico'
+site_favicon: 'img/favicon.ico'
 extra_css: 
   - 'css/nightvision.css'
 pages:
