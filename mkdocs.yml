@@ -6,7 +6,11 @@ extra_css:
   - 'css/nightvision.css'
 pages:
     - Home: 'index.md'
-    - Notes: 'notes.md'
+
+    - Notes: 
+      - Notes: 'notes.md'
+      - About: 'about.md'
+
     - Objects:
       - Solar System:
         - 'Sun': 'solar system/sun.md'
@@ -27,6 +31,52 @@ pages:
           - 'Comets': 'solar system/comets/!comet_info.md'
         - Space Missions:
           - 'Missions': 'solar system/space missions/!missions_info.md'
+
+      - Stars:
+        - Red: 
+          - Giant:
+            - 'Red Giant Stars': 'stars/red/giant/!red_giant_stars.md'
+            - 'Aldebaran': 'stars/red/giant/aldebaran.md'
+            - 'Arcturus': 'stars/red/giant/arcturus.md'
+            - 'Capella': 'stars/red/giant/capella.md'
+            - 'Pollux': 'stars/red/giant/pollux.md'
+            - 'S Cephei': 'stars/red/giant/s_cephei.md'
+          - Supergiant:
+            - 'Red Supergiant Stars': 'stars/red/supergiant/!red_supergiant_stars.md'
+            - 'Antares': 'stars/red/supergiant/antares.md'
+            - 'Betelgeuse': 'stars/red/supergiant/betelgeuse.md'
+            - 'Mu Cephei': 'stars/red/supergiant/mu_cephei.md'
+        - Yellow:
+          - 'Yellow Stars': 'stars/yellow/!yellow_stars.md'
+          - 'Beta Canes Venatici': 'stars/yellow/beta_canes_venatici.md'
+          - 'Beta Coma Berenices': 'stars/yellow/beta_coma_berenices.md'
+          - 'Procyon': 'stars/yellow/procyon.md'
+          - 'Xi Ursa Majoris': 'stars/yellow/xi_ursa_majoris.md'
+        - Blue: 
+          - 'Blue Stars': 'stars/blue/!blue_stars.md'
+          - 'Altair': 'stars/blue/altair.md'
+          - 'Castor': 'stars/blue/castor.md'
+          - 'Deneb': 'stars/blue/deneb.md'
+          - 'Fomalhaut': 'stars/blue/fomalhaut.md'
+          - 'Regulus': 'stars/blue/regulus.md'
+          - 'Rigel': 'stars/blue/rigel.md'
+          - 'Sirius': 'stars/blue/sirius.md'
+          - 'Spica': 'stars/blue/spica.md'
+          - 'Vega': 'stars/blue/vega.md'
+
+      - Star Clusters:
+        - Globular:
+          - Globular Clusters: 'star clusters/globular/!globular_cluster_info.md'
+          - M2: 'star clusters/globular/m2.md'
+          - M3: 'star clusters/globular/m3.md'
+          - M13: 'star clusters/globular/m13.md'
+          - M15: 'star clusters/globular/m15.md'
+          - M79: 'star clusters/globular/m79.md'
+          - M92: 'star clusters/globular/m92.md'
+        - Open:
+          - Open Clusters: 'star clusters/open/!open_cluster_info.md'
+          - H X Persei: 'star clusters/open/hxpersei.md'
+
       - Galaxies:
         - Elliptical:
           - Elliptical Galaxies: 'galaxies/elliptical/!elliptical_galaxy_info.md'
@@ -48,6 +98,7 @@ pages:
           - M104: 'galaxies/spiral/m104.md'
           - M106: 'galaxies/spiral/m106.md'
           - NGC7331: 'galaxies/spiral/ngc7331.md'
+
       - Nebulae:
         - Diffuse:
           - Diffuse Nebulae: 'nebulae/diffuse/!diffuse_nebulae_info.md'
@@ -63,36 +114,8 @@ pages:
         - Supernovae Remnants:
           - Supernova Remnant: 'nebulae/supernovae_remnants/!supernova_remnant_info.md'
           - M1: 'nebulae/supernovae_remnants/m1.md'
-      - Stars:
-          - Red: 
-            - Giant:
-              - 'Red Giant Stars': 'stars/red/giant/!red_giant_stars.md'
-              - 'Aldebaran': 'stars/red/giant/aldebaran.md'
-              - 'Arcturus': 'stars/red/giant/arcturus.md'
-              - 'Capella': 'stars/red/giant/capella.md'
-              - 'Pollux': 'stars/red/giant/pollux.md'
-              - 'S Cephei': 'stars/red/giant/s_cephei.md'
-            - Supergiant:
-              - 'Red Supergiant Stars': 'stars/red/supergiant/!red_supergiant_stars.md'
-              - 'Antares': 'stars/red/supergiant/antares.md'
-              - 'Betelgeuse': 'stars/red/supergiant/betelgeuse.md'
-              - 'Mu Cephei': 'stars/red/supergiant/mu_cephei.md'
-          - Yellow:
-            - 'Yellow Stars': 'stars/yellow/!yellow_stars.md'
-            - 'Beta Canes Venatici': 'stars/yellow/beta_canes_venatici.md'
-            - 'Beta Coma Berenices': 'stars/yellow/beta_coma_berenices.md'
-            - 'Procyon': 'stars/yellow/procyon.md'
-            - 'Xi Ursa Majoris': 'stars/yellow/xi_ursa_majoris.md'
-          - Blue: 
-            - 'Blue Stars': 'stars/blue/!blue_stars.md'
-            - 'Altair': 'stars/blue/altair.md'
-            - 'Castor': 'stars/blue/castor.md'
-            - 'Deneb': 'stars/blue/deneb.md'
-            - 'Fomalhaut': 'stars/blue/fomalhaut.md'
-            - 'Regulus': 'stars/blue/regulus.md'
-            - 'Rigel': 'stars/blue/rigel.md'
-            - 'Sirius': 'stars/blue/sirius.md'
-            - 'Spica': 'stars/blue/spica.md'
-            - 'Vega': 'stars/blue/vega.md'
-          
-      #- Star Clusters:
+
+    - Programs:
+      - Summer:
+        - Life of a Star: 'programs/summer/life_of_a_star.md'
+        - Sizing Up Saturn: 'programs/summer/sizing_up_saturn.md'

@@ -81,7 +81,7 @@ Information about the planet Saturn.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Rings](#saturns-rings)|[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Rings](#saturns-rings) |[Top](#saturn)|
 
 # Saturn's Rings
 
@@ -97,7 +97,7 @@ Information about the planet Saturn.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Rings](#saturns-rings)> References |[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Rings](#saturns-rings) > References |[Top](#saturn)|
 
 ###### References
 |   |   |   |
@@ -107,7 +107,7 @@ Information about the planet Saturn.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Moons](#saturns-moons)|[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Moons](#saturns-moons)|[Top](#saturn)|
 
 # Saturn's Moons
 
@@ -146,7 +146,7 @@ Saturn has at least 52 moons  and another 8 possible moonlets have been found, b
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Moons](#saturns-moons)> References |[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Moons](#saturns-moons) > References |[Top](#saturn)|
 
 ###### References
 |   |   |   |
