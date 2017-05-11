@@ -67,7 +67,17 @@ Lake Afton Public Observatory 16-inch telescope:
     - [Spica](./stars/blue/spica.md)
     - [Vega](./stars/blue/vega.md)
 - ##### Contrast Multiple
+    - [Contrast Multiple](./stars/contrast multiple/!contrast_multiple_star_info.md)
+    - [32 Eriadnus](./stars/contrast multiple/32eriadnus.md)
+    - [95 Hercules](./stars/contrast multiple/95hercules.md)
+    - [Gamma Andromeda](./stars/contrast multiple/gamma_andromeda.md)
+    - [Iota Cancer](./stars/contrast multiple/iota_cancer.md)
+    - [Xi Bootis](./stars/contrast multiple/xi_bootis.md)
 - ##### Contrast Optical Double
+    - [Contrast Multiple](./stars/contrast optical double/!contrast_optical_double_star_info.md)
+    - [24 Coma Berenices](./stars/contrast optical double/24comae_berenices.md)
+    - [Beta Cygnus](./stars/contrast optical double/beta_cygnus.md)
+
 - ##### non-Contrast Multiple
 - ##### non-Contrast Optical Double
 - ##### with Planets

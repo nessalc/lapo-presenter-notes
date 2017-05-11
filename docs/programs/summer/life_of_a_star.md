@@ -13,7 +13,8 @@ During this program we will look at objects that represent stars at different st
     - [Uranus](/solar system/uranus.md)
     - [Neptune](/solar system/neptune.md)
 - Contrasting Optical Multiple Star
-    - [β Cyg](/stars/contrast optical double/beta_cygnus.md)
+    - [Beta Cygnus](/stars/contrast optical double/beta_cygnus.md)
+    - [Xi Bootis](/stars/contrast multiple/xi_bootis.md)
 - Diffuse Nebula
     - M17
 - Open Cluster
