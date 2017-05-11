@@ -27,15 +27,18 @@ Solar Type Star
 
 <hr/>
 
-## What To Look For Through The Telescope
+---
+
+##### What To Look For Through The Telescope
+---
 
 1.	Recommended eyepiece: 24mm or 40 mm.
 
 2.	When people look through the telescope they should see a faint star.  It may appear to be a pale yellow.
 
-<hr/>
-
+---
 ## Beta Canum Venaticorum Information
+---
 
 1.	The star is also called Chara.
 

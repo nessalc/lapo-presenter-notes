@@ -137,3 +137,5 @@ Lake Afton Public Observatory 16-inch telescope:
         - [Life of a Star](programs/summer/life_of_a_star.md)
         - [Sizing Up Saturn](programs/summer/sizing_up_saturn.md)
 
+## Object Availability
+- [Object Availability Chart](object_availability.md)
