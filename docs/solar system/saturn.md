@@ -81,7 +81,7 @@ Information about the planet Saturn.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Rings](#saturns-rings)|[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Rings](#saturns-rings) |[Top](#saturn)|
 
 # Saturn's Rings
 
@@ -97,7 +97,7 @@ Information about the planet Saturn.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Rings](#saturns-rings)> References |[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Rings](#saturns-rings) > References |[Top](#saturn)|
 
 ###### References
 |   |   |   |
@@ -107,7 +107,7 @@ Information about the planet Saturn.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Moons](#saturns-moons)|[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Moons](#saturns-moons)|[Top](#saturn)|
 
 # Saturn's Moons
 
@@ -122,28 +122,31 @@ Information about the planet Saturn.
 
 ## Saturn's Moons Information
 
-1.	Saturn has at least 52 moons  and another 8 possible moonlets have been found, bringing the potential total up to 60.  Up to five of these moons can be seen with the telescope.
+Saturn has at least 52 moons  and another 8 possible moonlets have been found, bringing the potential total up to 60.  Up to five of these moons can be seen with the telescope.
 
-2.	Titan
+### Titan
 
-	a.	Titan is the second largest moon in the solar system.  Its 3,200 mile diameter makes it just larger than Mercury (3,029 miles), slightly smaller than Jupiter’s moon Ganymede (3,270 miles) and 40% the size of the Earth.  If Titan orbited the Sun instead of Saturn, it would be called a planet.
+* Titan is the second largest moon in the solar system.  Its 3,200 mile diameter makes it just larger than Mercury (3,029 miles), slightly smaller than Jupiter’s moon Ganymede (3,270 miles) and 40% the size of the Earth.  If Titan orbited the Sun instead of Saturn, it would be called a planet.
 
-	b.	Titan is unique because it is one of only two moons with an atmosphere.  The atmosphere is  95% nitrogen and 5% methane with methane playing the same role on Titan as water does on Earth.  That means there may be clouds of methane, lakes of methane, and ice caps of methane on Titan.  Triton (Neptune’s largest moon) is the other moon with an atmosphere.
+* Titan is unique because it is one of only two moons with an atmosphere.  The atmosphere is  95% nitrogen and 5% methane with methane playing the same role on Titan as water does on Earth.  That means there may be clouds of methane, lakes of methane, and ice caps of methane on Titan.  Triton (Neptune’s largest moon) is the other moon with an atmosphere.
 
-	c.	The Huygens probe, which descended to Titan in Jan 2005 found Titan had rivers and lakes of liquid methane-ethane.
+* The Huygens probe, which descended to Titan in Jan 2005 found Titan had rivers and lakes of liquid methane-ethane.
 
-3.	Dione (diameter 670 miles) and Rhea (950 miles) are medium-sized moons that are half ice and half rock.  They are heavily cratered.
+### Dione and Rhea
+* Dione (diameter 670 miles) and Rhea (950 miles) are medium-sized moons that are half ice and half rock.  They are heavily cratered.
  
-4.	Mimas is a small moon, only 250 miles across, that has a 60 mile crater on it.  The impact which formed the crater almost split the moon in two.  (Mimas can’t be seen through the telescope.  It is only 90,000 miles away from Saturn.)
+### Mimas 
+* Mimas is a small moon, only 250 miles across, that has a 60 mile crater on it.  The impact which formed the crater almost split the moon in two.  (Mimas can’t be seen through the telescope.  It is only 90,000 miles away from Saturn.)
 
-6.	Iapetus is a strange looking moon: part of it is very dark, the other part is very bright.
+### Iapetus
+* Iapetus is a strange looking moon: part of it is very dark, the other part is very bright.
 
-6.	Enceladus was the big surprise of the Cassini mission.  This moon is only 310 miles across and is too small to be seen with our telescope.  Its small size means it should be inactive and covered with craters.  Instead it has a large number of tectonic folds and faults and an active ice volcano was detected at it’s southern pole.  Scientists believe Enceladus is so active because of gravitational tidal forces imparted on it by Saturn.
-
+### Enceladus 
+* Enceladus was the big surprise of the Cassini mission.  This moon is only 310 miles across and is too small to be seen with our telescope.  Its small size means it should be inactive and covered with craters.  Instead it has a large number of tectonic folds and faults and an active ice volcano was detected at it’s southern pole.  Scientists believe Enceladus is so active because of gravitational tidal forces imparted on it by Saturn.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Saturn's Moons](#saturns-moons)> References |[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Moons](#saturns-moons) > References |[Top](#saturn)|
 
 ###### References
 |   |   |   |

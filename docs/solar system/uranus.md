@@ -1,86 +1,40 @@
-<p><a href="/">Home</a> > Solar System > <a href=".">Uranus</a> </p>
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Uranus](#uranus) |  |
 
 # Uranus
 
 Information about the planet Uranus.
 
-	URANUS
-	
+|  |  |  |
+|---|:--:|:--:|
+|  |<br/>**Actual**|**Compared<br/>to Earth**|
+|**Distance from Sun** (average)| 1.8 billion miles | 19.2 |
+|**Revolution Period**| 84 years | -- |
+|**Rotation Period**| 17 hours 14 minutes | -- |
+|**Diameter**| 31,900 miles | 4 |
+|**Mass**| -- | 14.5 |
+|**Surface Gravity**| -- | ~0.89 |
+|**Temperature** Cloud Tops| -200 &deg;C (-328 &deg;F)|  |
+|**Density** (gram/cubic cm)|1.30 gm/cm3| 0.24|
 
-
-
-	
-	
-Actual	
-	
-Compared to Earth
-
-Distance From Sun (average)	
-	
-1.8 billion miles	
-	
-19.2
-
-Revolution Period	
-	
-84 years	
-	
---
-
-Rotation Period	
-	
-17 h 14 min	
-	
---
-
-Diameter	
-	
-31,900 miles	
-	
-4
-
-Mass	
-	
---	
-	
-14.5
-
-Surface Gravity	
-	
---	
-	
-~ 0.89
-
-Temperature (cloud tops)	
-	
--200 ºC  (-328 ºF)	
-	
---
-
-Density (gram/cubic cm)	
-	
-1.3 gm/cm3	
-	
-0.24
-
-
-
-
-WHAT TO LOOK FOR THROUGH THE TELESCOPE:
+---
+#### What To Look For Through The Telescope
+---
 
 1.	Recommended eyepiece: 26mm or 40 mm.
 
 2.	Uranus appears as a small greenish ball through the telescope.  None of its moons can be seen.
 
-
-URANUS INFORMATION:
+---
+## Uranus Information
+---
 
 1.	Uranus is the third largest planet in the solar system.
 
 2.	Uranus was the first planet discovered with a telescope – by William Herschel in 1781.  It was plotted as a faint star on at least 20 star charts drawn between 1690 and 1781, but was not recognized as a planet.
 
 3.	Uranus rotates on its side as it orbits the sun.  It is thought that a planet-sized body collided with Uranus early in the solar system’s history, causing Uranus to tip.
- 
 
 4.	Uranus has a rocky core surrounded by a liquid mantle of water, ammonia, and methane.  The outer layer is primarily hydrogen and helium with a small amount of methane.
 
@@ -94,53 +48,20 @@ URANUS INFORMATION:
 
 9.	Uranus has at least 27 moons.  They’re named mostly for characters from the works of Shakespeare and Alexander Pope.
 
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Uranus](#uranus) > References |[Top](#uranus)|
 
-
-
-
-01-10-2003: just updated layout a bit
-
-Item	
-Updated	
-Notes
-
-Distance	
-09-29-2002	
-OK
-
-Revolution Period	
-09-29-2002	
-OK
-
-Rotation Period	
-09-29-2002	
-previous: 16 h 48 min – source:  http://solarsystem.nasa.gov/features/planets/uranus/uranus.html
-
-Diameter	
-09-29-2002	
-previous: 32,500 miles, 4.1 times Earth – source: http://solarsystem.nasa.gov/features/planets/uranus/uranus.html    BUT   http://www.solarviews.com/eng/uranus.htm    does say 32,190 miles ??????
-
-Mass	
-09-29-2002	
-OK
-
-Surface Gravity	
-09-29-2002	
-previous: 0.79  – BUT this average value from  http://solarsystem.nasa.gov/features/planets/uranus/uranus.html  and  http://www.solarviews.com/eng/uranus.htm   and Seeds’ Astronomy Textbook
-
-Temperature	
-09-29-2002	
-OK
-
-Density	
-09-29-2002	
-from http://solarsystem.nasa.gov/features/planets/uranus/uranus.html  and  http://www.solarviews.com/eng/uranus.htm   and Seeds’ Astronomy Textbook
-
-Other Information	
-09-29-2002	
-added some general info after being reminded by all these sites
-
-Update moon count	
-07-2006	
-National Data Center is usually most current- http://nssdc.gsfc.nasa.gov/planetary/planetfact.html
-
+###### References
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**|
+|Distance|2002-09-29|<https://solarsystem.nasa.gov/planets/uranus/facts>|
+|Revolution Period|2017-05-07|OK|
+|Rotation Period|2017-05-07|OK|
+|Diameter|2017-05-07|OK|
+|Mass|2017-05-07|OK|
+|Surface Gravity|2017-05-07|OK|
+|Temperature|2017-05-07|OK|
+|Density|2017-05-07|OK|
+|Other Information|2017-05-07|<https://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html><br/><http://solarviews.com/eng/uranus.htm>|

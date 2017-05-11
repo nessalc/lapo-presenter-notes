@@ -34,7 +34,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Planetary](!planetary_nebulae_info) > References |  |
+|[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Planetary](!planetary_nebulae_info) > References |[Top](!planetary_nebulae_info) |
 
 ###### References
 |   |   |   |
