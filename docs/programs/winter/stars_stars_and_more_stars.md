@@ -1,12 +1,8 @@
-	Stars, Stars, and More Stars
-
+#	Stars, Stars, and More Stars
 
 Many of the stars in the sky are found in groups.  During this program we will observe a double star, open star cluster, and a galaxy as we discuss the different kinds of groups that stars are found in.  Since Venus and Mars will be in the evening sky during this time, we will start the program by observing one of them.
- 
- 
-	Stars, Stars, and More Stars
-	Object List
-
+  
+## Object List
 
 	Date	Planet	Binary	Open	Spiral
 			Star	Star Cluster	Galaxy
@@ -28,10 +24,6 @@ Many of the stars in the sky are found in groups.  During this program we will o
 
 	19	Mars (?)	G. Leo	M 37	M 66
 	 20	Mars (?)	G. Leo	M 35	M 65
-
-
-
-
  
 	VENUS 
 

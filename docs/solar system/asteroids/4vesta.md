@@ -29,7 +29,9 @@ Asteroid
 
 2.	Vesta resembles a star through the telescope.  It is about the same brightness as Saturn’s moon Titan and a bit dimmer than Jupiter’s four Galilean moons.  Vesta has an orange tint.
 
+---
 ## 4 Vesta Information
+---
 
 1.	Vesta is the fourth asteroid ever discovered, thus the name “4 Vesta.”  It was discovered by H.W. Olbers in 1807.  It is the third largest asteroid in the asteroid belt, and it is the only asteroid that can be seen with the unaided eye (under very favorable viewing locations).
 

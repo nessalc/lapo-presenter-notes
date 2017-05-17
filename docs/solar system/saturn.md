@@ -35,6 +35,7 @@ Information about the planet Saturn.
 
 ---
 ## Saturn Information
+---
 
 1.	Saturn is the farthest planet known to ancient stargazers.  It was first seen through a telescope by Galileo Galilei in 1610.  His telescope wasn’t nearly as nice as telescopes today, so he described seeing bulging “cup handles” (the rings).
  
@@ -83,7 +84,9 @@ Information about the planet Saturn.
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Rings](#saturns-rings) |[Top](#saturn)|
 
+---
 # Saturn's Rings
+---
 
 1.	The rings are obvious through the telescope.
 
@@ -109,7 +112,9 @@ Information about the planet Saturn.
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) > [Moons](#saturns-moons)|[Top](#saturn)|
 
+---
 # Saturn's Moons
+---
 
 |   |     |     |     |     |     |
 |---|:---:|:---:|:---:|:---:|:---:|

@@ -1,7 +1,7 @@
 site_name: Lake Afton Public Observatory
 copyright: "&copy; 2017 Lake Afton Public Observatory"
 theme: cyborg
-site_favicon: 'img/favicon.ico'
+site_favicon: '/img/favicon.ico'
 extra_css: 
   - 'css/nightvision.css'
 pages:
@@ -72,9 +72,31 @@ pages:
           - 'Iota Cancer': 'stars/contrast multiple/iota_cancer.md'
           - 'Xi Bootis': 'stars/contrast multiple/xi_bootis.md'
         - Contrast Optical Double:
-          - 'Contrast Multiple': 'stars/contrast optical double/!contrast_optical_double_star_info.md'
+          - 'Contrast Optical Double': 'stars/contrast optical double/!contrast_optical_double_star_info.md'
           - '24 Coma Berenices': 'stars/contrast optical double/24comae_berenices.md'
           - 'Beta Cygnus': 'stars/contrast optical double/beta_cygnus.md'
+        - non-Contrast Multiple:
+          - 'non-Contrast Multiple': 'stars/non-contrast multiple/!non_contrast_multiple_star_info.md'
+          - '61 Cygnus': 'stars/non-contrast multiple/61cygnus.md'
+          - 'Beta Lyra': 'stars/non-contrast multiple/beta_lyra.md'
+          - 'Beta Mon': 'stars/non-contrast multiple/beta_mon.md'
+          - 'Gamma Aries': 'stars/non-contrast multiple/gamma_aries.md'
+          - 'Gamma Leo': 'stars/non-contrast multiple/gamma_leo.md'
+          - 'Sigma Orionis': 'stars/non-contrast multiple/sigma_orionis.md'
+          - 'xi cancer': 'stars/non-contrast multiple/xi_cancer.md'
+          - 'Zeta Bootis': 'stars/non-contrast multiple/zeta_bootis.md'
+          - 'Zeta Cancri': 'stars/non-contrast multiple/zeta_cancri.md'
+          - 'Zeta Ursae Majoris': 'stars/non-contrast multiple/zeta_ursae_majoris.md'
+        - non-Contrast Optical Double:
+          - 'non-Contrast Optical Double': 'stars/non-contrast optical double/!non_contrast_optical_double_star_info.md'
+          - 'Alpha Canes Venatici': 'stars/non-contrast optical double/alpha_canes_venatici.md'
+          - 'Alpha Capricornus': 'stars/non-contrast optical double/alpha_capricornus.md'
+          - 'Beta Scorpius': 'stars/non-contrast optical double/beta_scorpius.md'
+          - 'Delta Cepheus': 'stars/non-contrast optical double/delta_cepheus.md'
+          - 'Epsilon Lyra': 'stars/non-contrast optical double/epsilon_lyra.md'
+          - 'Gamma Delphinus': 'stars/non-contrast optical double/gamma_delphinus.md'
+        - with Planets:
+          - '47 Ursae Majoris': 'stars/with planets/uma47.md'
 
       - Star Clusters:
         - Globular:
@@ -88,6 +110,19 @@ pages:
         - Open:
           - Open Clusters: 'star clusters/open/!open_cluster_info.md'
           - H X Persei: 'star clusters/open/hxpersei.md'
+          - M11: 'star clusters/open/m11.md'
+          - M16: 'star clusters/open/m16.md'
+          - M24: 'star clusters/open/m24.md'
+          - M25: 'star clusters/open/m25.md'
+          - M35: 'star clusters/open/m35.md'
+          - M37: 'star clusters/open/m37.md'
+          - M45: 'star clusters/open/m45.md'
+          - M46: 'star clusters/open/m46.md'
+          - M47: 'star clusters/open/m47.md'
+          - M52: 'star clusters/open/m52.md'
+          - NGC457: 'star clusters/open/ngc457.md'
+          - NGC663: 'star clusters/open/ngc663.md'
+          - NGC6530: 'star clusters/open/ngc6530.md'
 
       - Galaxies:
         - Elliptical:

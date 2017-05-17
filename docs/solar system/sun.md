@@ -4,7 +4,7 @@
 
 # Sun
 
-Information about the Sun.
+TODO:  Information about the Sun.
 
 |  |  |  |
 |---|:--:|:--:|
@@ -25,7 +25,7 @@ Information about the Sun.
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Sun](#sun) > References |[Top](#saturn)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Sun](#sun) > References |[Top](#sun)|
 
 ###### References
 |   |   |   |
