@@ -45,6 +45,9 @@ coverage.xml
 *,cover
 .hypothesis/
 
+#compiled site
+site/
+
 # VSCode
 .vscode
 
