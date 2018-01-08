@@ -1,7 +1,7 @@
 # Presenter Notes
 
 Object and Program notes for use during the public program at the<br/>
-Lake Afton Public Observatory 16-inch telescope:
+Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
 
 [TOC]
 

@@ -1,6 +1,8 @@
 # TO DO...
 The information in these notes should not duplicate what is found under the specific objects observed during this program ... rather, these notes should supplement the objects' information with regards to the topic of this program... and provide hyperlinks to the object pages that will be used during this program:
 
+These notes are still in DRAFT... See TO BE COMPLETED... below...
+
 # Sizing Up Saturn
 
 During this program we will observe the Moon, Saturn and the most distant planet in our solar system, Neptune, as we compare and contrast their different sizes, compositions and features.

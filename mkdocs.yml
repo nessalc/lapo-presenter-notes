@@ -11,6 +11,7 @@ pages:
       - Notes: 'notes.md'
       - About: 'about.md'
       - Objects: 'object_availability.md'
+      - Telescope: 'telescope.md'
 
     - Objects:
       - Solar System:

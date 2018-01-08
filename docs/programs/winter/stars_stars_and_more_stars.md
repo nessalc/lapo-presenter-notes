@@ -2,6 +2,11 @@
 
 Many of the stars in the sky are found in groups.  During this program we will observe a double star, open star cluster, and a galaxy as we discuss the different kinds of groups that stars are found in.  Since Venus and Mars will be in the evening sky during this time, we will start the program by observing one of them.
   
+# TO DO...
+The information in these notes should not duplicate what is found under the specific objects observed during this program ... rather, these notes should supplement the objects' information with regards to the topic of this program... and provide hyperlinks to the object pages that will be used during this program:
+
+These notes are still in DRAFT... See TO BE COMPLETED... below...
+
 ## Object List
 
 	Date	Planet	Binary	Open	Spiral

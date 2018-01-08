@@ -1,9 +1,9 @@
 # Lake Afton Public Observatory Presenter Notes
-This project uses [MKDocs](http://www.mkdocs.org/) to create a web pages providing notes of the objects and programs used at the telescope during the public programs.
+This project uses [MKDocs](http://www.mkdocs.org/) to create web pages providing notes of the objects and programs used at the telescope during the public programs.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Build and Deployment](#build-and-deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Build and Deployment](#build-and-deployment) below for notes on how to deploy the project on a live system.
 
 ## Prerequisites
 
@@ -58,7 +58,7 @@ From the presenterNotes folder, execute the following command
 
 	mkdocs serve
 
-You can then open the site for testing:
+You can then open the local site for testing:<br>
 	http://127.0.0.1:8000/
 	
 ## Clone this Project
@@ -92,7 +92,7 @@ Please follow these simple rules when contributing additional content or changes
 1. Add a note referencing the source of the material that is being added or changed.
 
 ## Authors
-**Chris Ketron** - initial compilation of LAPO source material and additional research and validation
+**Chris Ketron** - Initial compilation of LAPO source material and additional research and validation into these MarkDown notes pages.
 
 ## Acknowledgments
 Thanks to former staff of the Lake Afton Public Observatory while under the pervue of

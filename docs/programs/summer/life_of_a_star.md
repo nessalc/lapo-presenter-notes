@@ -2,6 +2,8 @@
 # TO DO...
 The information in these notes should not duplicate what is found under the specific objects observed during this program ... rather, these notes should supplement the objects' information with regards to the topic of this program... and provide hyperlinks to the object pages that will be used during this program:
 
+These notes are still in DRAFT... See TO BE COMPLETED... below...
+
 # Life Story of A Star
 
 During this program we will look at objects that represent stars at different stages of their lives. We will begin each program by taking a look at Saturn which has the same composition as a star but is not massive enough to actually become one. A contrast double star will be the next object as we discuss the relationship between the color, temperature, and mass of stars. We will look at a cloud of interstellar gas and dust from which stars are being born known as a diffuse nebula. We will also observe an open star cluster to see what a diffuse nebula looks like after most of the gas and dust has been made into stars. And we will also look at the remains of a star similar to our Sun called a planetary nebula, to give our visitors a look at what happens at the end of a Sun-like star’s life.

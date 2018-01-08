@@ -1,7 +1,8 @@
 
 ## How to Edit and Maintain these documents
 
-- To Be Completed...
+- See the GIT Hub Project Readme.md<br>
+<https://github.com/caketron/lake-afton-presenter-notes>
 
 ## Things To Do ...
 
@@ -22,7 +23,7 @@ and if it cannot find it... it defaults to the normal dayvision them.
 If it does find the nightvision.css... then it enable the red on black for
 the observing room.
 
-    See https://www.thesitewizard.com/javascripts/change-style-sheets.shtml for example.
+    See <https://www.thesitewizard.com/javascripts/change-style-sheets.shtml> for example.
 
 - Moon
     - hyperlink all object references between pages for quick navigation... e.g., "...in the crater [Fracastorius](#fracastorius)"
@@ -40,9 +41,9 @@ the observing room.
 
     If you want the documentation on a subdomain point a CNAME record in your DNS to the subdomain for your project.
 
-    For example, to make the documentation available on docs.lakeafton.com, create a CNAME record pointing to lakeafton-doc.readthedocs.org.
+    For example, to make the documentation available on docs.lakeafton.com, create a CNAME record pointing to <br><http://lake-afton-presenter-notes.readthedocs.io/>.
 
-    CNAME   docs        is an alias of lakeafton-doc.readthedocs.org
+    CNAME docs is an alias of lakeafton-doc.readthedocs.org
 
 - Fix the following errors during `mkdocs serve` (see source doc for commented warnings...)
 <!--WARNING -  Template variable warning: 'page_description' is being deprecated and will not be available in a future version. 
