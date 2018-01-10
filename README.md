@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 The Presenter Notes use the following Python packages:
 
-    mkdocs
+    mkdocs (version 0.16.3)
     mkdocs-bootswatch
 
 ## Project Setup

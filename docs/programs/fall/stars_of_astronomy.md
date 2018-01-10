@@ -1,5 +1,8 @@
 # Some "Stars" of Astronomy
 
+# TO DO...
+These notes are still in DRAFT...
+
 During this program, we will observe celestial objects that are related to the studies of several famous astronomers.  Each person had a key idea in the history of astronomy.  When we look at Saturn, for example, we will talk about Christiaan Huygens, the Dutch astronomer who first figured out that that funny thing around Saturn is in fact shaped like a ring.
 
  
