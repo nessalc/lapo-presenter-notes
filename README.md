@@ -7,51 +7,58 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-The Presenter Notes use the following Python packages:
-
-    mkdocs (version 0.16.3)
-    mkdocs-bootswatch
+See the pip-dependencies.txt file for the Python package requirements for the LAPO Presenter Notes:
 
 ## Project Setup
 The following are the steps I used to create the fresh Presenter Notes project, 
 and these notes can be used for creating a fresh, brand-new MkDocs project.
-However, if you are just cloning the existing Presenter Notes project from GitHub, 
-then you can skip these steps and go directly to [Clone this Project](#clone-this-project)
+However, if you are just cloning the existing Presenter Notes project from GitHub, then you can skip these steps and go directly to [Clone this Project](#clone-this-project)
     
-### Install Python - the Presenter Notes are using version 3.6.1
-	https://www.python.org/downloads/
+### Install Python - the Presenter Notes are using version 3.6.1: [www.python.org/downloads/](https://www.python.org/downloads/)
 	
 ### Virtual Environment
-Create a virtual environment for the Presenter Notes Project.  Begin by creating a directory for the Python virtual environment;
-I am using d:\Projects\lapoPresenterNotes\ for the virtual environments:
-	
-	md d:\Projects\lapoPresenterNotes
-	cd d:\Projects\lapoPresenterNotes
-	py -m venv env
+Create a virtual environment for the Presenter Notes Project.  
+Begin by creating a directory for the Python virtual environment;
+I am using d:\gitLAPO\lake-afton-presenter-notes\ for the local project repository:
+
+```
+md d:\gitLAPO
+cd d:\gitLAPO
+virtualenv lake-afton-presenter-notes
+```
 
 #### Activate the virtual environment:
 
-	env\Scripts\activate.bat
+```
+cd lake-afton-presenter-notes
+Scripts\activate.bat
+```
 		
 ### Install Python Packages
-    
-[MKDocs](http://www.mkdocs.org/)
-... from the d:\Projects\lapoPresenterNotes folder, PIP install MKDocs:
 
-	pip install mkdocs
+**Short-cut**: to install *ALL* pip dependencies:
+
+```python
+pip install -r pip-dependencies.txt
+```
+
+... or for manual installation ... do the following...
+
+... from the d:\gitLAPO\lake-afton-presenter-notes\ folder, PIP install MKDocs:
+
+```python
+pip install mkdocs
+```
+reference [MKDocs](http://www.mkdocs.org/) for more information 
 
 Theme -- [Cyborg](http://mkdocs.github.io/mkdocs-bootswatch/#cyborg) is a part of the mkdocs-bootswatch package:
 
-	pip install mkdocs-bootswatch
+```python
+pip install mkdocs-bootswatch
+```
 
-Additional customization of the theme is found in \lake-afton-presenter-notes\presenterNotes\docs\css\nightvision.css
+Additional customization of the theme is found in \lake-afton-presenter-notes\docs\css\nightvision.css
 
-### Create new MkDocs document project
-From the d:\Projects\lapoPresenterNotes folder:
-
-	mkdocs new presenterNotes
-	cd presenterNotes
-	
 ### Start MkDocs Server
 To start the MKDocs dev server for testing.
 From the presenterNotes folder, execute the following command
@@ -63,12 +70,20 @@ You can then open the local site for testing:<br>
 	
 ## Clone this Project
 
-TO DO:  ... to be completed ... !!!
+From the GitHub repository: https://github.com/caketron/lake-afton-presenter-notes
+select Clone and copy the URL to the repo: https://github.com/caketron/lake-afton-presenter-notes.git
+
+Then from your local project folder (I am using d:\gitLAPO), execute the following git command:
+```git
+git clone https://github.com/caketron/lake-afton-presenter-notes
+```
 
 ## Build and Deployment
 Once all editing has been completed, do a final build of the document site for deployment
 
-	mkdocs build
+```
+mkdocs build
+```
 
 TO DO:  ... to be completed ... !!!
 	
@@ -76,7 +91,9 @@ TO DO:  ... to be completed ... !!!
 1. Readthedocs.org provides free hosting for MkDocs - need to set up a site and configured to auto-build upon any code changes in the linked GitHub project.
     So as changes are made to the lapoPresenterNotes, they automatically build and deploy to the readthedocs.org site.
 		
-2. Also, could add a CNAME to the lakeafton.org domain host to point to the readthedocs.org site… suggest docs.lakeafton.org or notes.lakeafton.org
+1. Also, could add a CNAME to the lakeafton.org domain host to point to the readthedocs.org site… suggest docs.lakeafton.org or notes.lakeafton.org
+
+1. For Consideration: Readthedocs.org is going to start showing Ads on the free hosting... so may want to consider moving to a self-hosted site (where the LAPO web site lives?) -- or perhaps making use of Git Pages for hosting (this may require some restructuring of the pages.)
 
 ## Versioning
 For the sake of tracking version history, the version numbering will follow a year, month, date numbering sequence, following by a sequence id to account for multiple versions within a single date, in the following format:
