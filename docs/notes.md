@@ -122,6 +122,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [M25](star clusters/open/m25.md)
     - [M35](star clusters/open/m35.md)
     - [M37](star clusters/open/m37.md)
+    - [M44](star clusters/open/m44.md)
     - [M45](star clusters/open/m45.md)
     - [M46](star clusters/open/m46.md)
     - [M47](star clusters/open/m47.md)

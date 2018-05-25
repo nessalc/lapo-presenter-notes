@@ -2,19 +2,23 @@
 |:---|---:|
 |[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](!open_cluster_info) |  |
 
-# Genera Open Star Cluster Information
+# General Open Star Cluster Information
 
 1.	They lie in the plane of the galaxy
 
-2.	They are made of young (newly formed) stars.
+1.	They are made of young (newly formed) stars.
 
-3.	Most open clusters will probably dissipate after a few 100 million to a few billion years since they are only loosely bound by their mutual gravity.
+1. They are believed to originate from large cosmic gas/dust clouds in the Milky Way. 
 
-4.	The separation of stars is about 3 light years.  In the solar neighborhood stars are 4-5 light years apart.
+1.	They will continue to orbit the galaxy through the disk.
 
-5.	They contain a few hundred to a few thousand stars.
+1.	Most open clusters will probably dissipate after a few 100 million to a few billion years since they are only loosely bound by their mutual gravity.
 
-6.	Star clusters are important to astronomers because they are used to test ideas of stellar evolution.  Astronomers are able to do this because all the stars in the cluster are assumed to have formed at the same time.
+1.	The separation of stars is about 3 light years.  In the solar neighborhood stars are 4-5 light years apart.
+
+1.	They contain a few hundred to a few thousand stars.
+
+1.	Star clusters are important to astronomers because they are used to test ideas of stellar evolution.  Astronomers are able to do this because all the stars in the cluster are assumed to have formed at the same time.
 
     a.	Theories of stellar evolution are based on computer models.  The computer models are based on what we know about stars and the laws of physics.  One of the things these models tell us is that different stars age at different rates.
 
