@@ -26,6 +26,34 @@ Move the telescope down so that everyone can look at the mirror from the observi
 <br>(Be sure to remove any eyepiece from the telescope first.) 
 <br>The person looking at the mirror should see the other person's eye in the center of the 16-inch mirror.
 
+### Telescope Specifications
+
+#### Primary Telescope 
+Sigma 16 <br>
+41-cm Cassegrain Telescope System - Reflector
+
+|                |         |
+|----------------|:--------|
+| Primary Mirror | 16-inch clear aperture, F/3 focal ratio |
+| Secondary Mirror | 4-inch diameter |
+| Focal Length   | 3200 mm |
+| Focal Ratio    | F/13.5 |
+| Mount          | Equatorial, off-axxis |
+
+#### Eyepiece Magnification
+
+| Size           | Magnification  |
+|----------------|:--------------:|
+| 24mm           | 133x           |
+| 40mm           | 80x            |
+| 80mm           | ##x            |
+
+#### Secondary Refractor Telescope
+5-inch aperture, refractor
+
+#### Finder Scope
+4-inch aperture, F/10 refractor
+
 ---
 ### FAQ
 ---
