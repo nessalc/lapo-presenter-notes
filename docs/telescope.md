@@ -158,4 +158,4 @@ The telescope should be focused so you shouldn't have to refocus it. (We discour
 |   |   |   |
 |---|---|---|
 |**Item**|**Updated**|**Notes**|
-| Simple Formulas for the Telescope | 2018-07-03 | Adapted from https://www.skyandtelescope.com/observing/stargazers-corner/simple-formulas-for-the-telescope-owner/ |
+| Simple Formulas for the Telescope | 2018-07-03 | Adapted from [https://www.skyandtelescope.com/observing/stargazers-corner/simple-formulas-for-the-telescope-owner/](https://www.skyandtelescope.com/observing/stargazers-corner/simple-formulas-for-the-telescope-owner/) |
