@@ -1,6 +1,6 @@
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Galaxies](/notes/#galaxies) > [Spiral](!spiral_galaxy_info) > References|   |
+|[Home](/notes/#object-notes) > [Galaxies](/notes/#galaxies) > [Spiral](!spiral_galaxy_info) |   |
 
 # General Spiral Galaxy Information
 
@@ -18,7 +18,7 @@
  
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Galaxies](/notes/#galaxies) > [Spiral](!spiral_galaxy_info) > References|   |
+|[Home](/notes/#object-notes) > [Galaxies](/notes/#galaxies) > [Spiral](!spiral_galaxy_info) > References |   |
 
 ###### References
 |   |   |   |
