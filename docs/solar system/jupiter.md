@@ -195,6 +195,6 @@ a.	There is a system of three rings - The “Halo” begins at about 100,000 km 
 |Diameter|2017-04-06|http://solarviews.com/eng/jupiter.htm|
 |Diameter compared to Moon|2017-04-06|http://solarviews.com/eng/jupiter.htm|
 |Other Information|2017-04-06|Hordes more info @<br/>http://solarviews.com/eng/jupiter.htm<br/>and https://solarsystem.nasa.gov/planets/jupiter/moons|
-|Ganymede oceans,</br> Galileo spacecraft</br>observation of</br>volcanoes and</br>corrected amount</br>of volcanoes spew.|2017-04-06|https://www.nasa.gov/press/2015/march/nasa-s-hubble-observations-suggest-underground-ocean-on-jupiters-largest-moon</br>and</br>https://www.jpl.nasa.gov/releases/98/iohot.html|
+|Ganymede oceans,<br/> Galileo spacecraft<br/>observation of<br/>volcanoes and<br/>corrected amount<br/>of volcanoes spew.|2017-04-06|https://www.nasa.gov/press/2015/march/nasa-s-hubble-observations-suggest-underground-ocean-on-jupiters-largest-moon<br/>and<br/>https://www.jpl.nasa.gov/releases/98/iohot.html|
 |   |   |   |
 

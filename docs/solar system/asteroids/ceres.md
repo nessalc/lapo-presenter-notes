@@ -10,11 +10,11 @@ Asteroid (Dward Planet)
 |  |<br/>**Actual**|**Compared<br/>to ...**|
 |**Age**|~ 4.5 billion years|about the same age as the Sun|
 |**Actual Brightness**|--|--|
-|**Location**|Solar system,</br>asteroid belt|--|
-|**Avg. Distance**</br>from the Sun|4.13 x 108 km</br>(2.57 x 108 mi)|--|
+|**Location**|Solar system,<br/>asteroid belt|--|
+|**Avg. Distance**<br/>from the Sun|4.13 x 108 km<br/>(2.57 x 108 mi)|--|
 |**Diameter**|950 km (590 mi)|--|
 |**Mass**|Approximately 9.4 x 1020 kg|--|
-|**Orbital Period**</br>around the Sun|4.60 Earth years</br>(1,680 days)|--|
+|**Orbital Period**<br/>around the Sun|4.60 Earth years<br/>(1,680 days)|--|
 |**Rotation Period**|9.0 hours|2.6|
 |**Number of moons**|0|--|
 

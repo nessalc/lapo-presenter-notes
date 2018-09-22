@@ -15,7 +15,7 @@
 ##OVERVIEW
 |                               |               |               |
 |-------------------------------|:-------------:|:-------------:|
-|                               |</br>**Actual**|**Compared </br>to Earth**|
+|                               |<br/>**Actual**|**Compared <br/>to Earth**|
 |Distance from Earth (Average)  | 239,000 miles |               |
 |Distance from Earth (Closest)  | 221,000 miles |               |	  
 |Distance from Earth (Farthest) | 253,000 miles	|               |  

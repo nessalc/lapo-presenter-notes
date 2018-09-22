@@ -11,11 +11,11 @@ Asteroid
 |**Age**|~ 4.5 billion years|about the same age as the Sun|
 |**Actual Brightness**|--|--|
 |**Location**|Solar system, asteroid belt|--|
-|**Avg. Distance**</br>from the Sun|220 million miles|2.4|
+|**Avg. Distance**<br/>from the Sun|220 million miles|2.4|
 |**Diameter**|330 miles|0.04|
 |**Mass**|3 x 10<sup>20</sup> kg|--|
 |**Density** (gram/cubic cm)|--|--|
-|**Orbital Period**</br>around the Sun|3.6 Earth years|3.6|
+|**Orbital Period**<br/>around the Sun|3.6 Earth years|3.6|
 |**Rotation Period**|5.3 hours|3.6|
 |**Surface Gravity**|--|--|
 |**Surface Temperature** (average)|--|--|
@@ -80,9 +80,9 @@ Asteroid
 |Distance from Sun|2017-04-305|<http://amazingspace.org/resource_page/79/solar_system/type#resource_tab>|
 |Revolution Period|2017-04-30|<http://amazingspace.org/resource_page/79/solar_system/type#resource_tab>|
 |Rotation Period|2003-02-05|<http://nssdc.gsfc.nasa.gov/planetary/factsheet/asteroidfact.html>|
-|Diameter|2017-04-30|<http://amazingspace.org/resource_page/79/solar_system/type#resource_tab></br><http://www.solarviews.com/eng/vesta.htm>|
+|Diameter|2017-04-30|<http://amazingspace.org/resource_page/79/solar_system/type#resource_tab><br/><http://www.solarviews.com/eng/vesta.htm>|
 |Mass|2017-04-30|<http://amazingspace.org/resource_page/79/solar_system/type#resource_tab>|
 |Surface Gravity|--|  |	
 |Temperature|--|  |
 |Density|--|  |
-|Other Information|2003-02-05|University of Cambridge’s Institute for Astronomy</br><http://www.ast.cam.ac.uk/HST/press/vestamap.html></br>Sites given above for other details</br><http://www.hohmanntransfer.com/cat/a4.htm>|
+|Other Information|2003-02-05|University of Cambridge’s Institute for Astronomy<br/><http://www.ast.cam.ac.uk/HST/press/vestamap.html><br/>Sites given above for other details<br/><http://www.hohmanntransfer.com/cat/a4.htm>|

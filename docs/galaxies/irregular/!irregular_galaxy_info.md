@@ -7,9 +7,9 @@
 
     |   |   | 
     |---|---|
-    |**Spiral**|The most common type of galaxy is called a "spiral galaxy." Not surprisingly, spiral galaxies look like spirals, with long arms winding toward a bright bulge at the center.</br>Spiral galaxies are denoted Sa, Sb or Sc|
-    |**Elliptical**|Elliptical galaxies are also named because of their shapes. Elliptical galaxies range from circular (remember, a circle is an ellipse!) to long, narrow, and cigar-shaped.</br>Elliptical galaxies are denoted E0-E7, near spherical to highly elongated, respectively.|
-    |**Lenticular**| have a central bulge, but no spiral arms. If the central bulge is not very bright, it can be very difficult to tell the difference between a lenticular galaxy and an E0 galaxy.</br></br>Just like spiral galaxies, some lenticular galaxies have a bar. They are called "barred lenticular galaxies" and are denoted SB0. Normal lenticular galaxies are denoted S0.|
+    |**Spiral**|The most common type of galaxy is called a "spiral galaxy." Not surprisingly, spiral galaxies look like spirals, with long arms winding toward a bright bulge at the center.<br/>Spiral galaxies are denoted Sa, Sb or Sc|
+    |**Elliptical**|Elliptical galaxies are also named because of their shapes. Elliptical galaxies range from circular (remember, a circle is an ellipse!) to long, narrow, and cigar-shaped.<br/>Elliptical galaxies are denoted E0-E7, near spherical to highly elongated, respectively.|
+    |**Lenticular**| have a central bulge, but no spiral arms. If the central bulge is not very bright, it can be very difficult to tell the difference between a lenticular galaxy and an E0 galaxy.<br/><br/>Just like spiral galaxies, some lenticular galaxies have a bar. They are called "barred lenticular galaxies" and are denoted SB0. Normal lenticular galaxies are denoted S0.|
     |   |   | 
 
     ... but about 3% of the galaxies we observe are very different: these are call **Irregular**
