@@ -1,9 +1,7 @@
 
-# About Lake Afton Public Observatory's
+# About Lake Afton Public Observatory's<br> 16-inch Ritchey-Chrétien telescope
 
-## 16-inch Ritchey-Chrétien telescope
-
-### Telescope Tour (Cloudy Night Program)
+## Telescope Tour (Cloudy Night Program)
 Many times during the year the Observatory is unable to present the scheduled program due to the weather. If it is clear enough to see some objects (i.e., planets or bright stars) through the telescope we generally look at those objects, explaining to people the reason for the change. If it is too cloudy to see anything, we show people the telescope and explain how it works. Of course all of the exhibits are available for people to use on these evenings, except Star Games (outside telescopes and binoculars) when it is raining or snowing.
 
 The following items are usually discussed when visitors are shown the telescope:
@@ -26,7 +24,7 @@ Move the telescope down so that everyone can look at the mirror from the observi
 <br>(Be sure to remove any eyepiece from the telescope first.) 
 <br>The person looking at the mirror should see the other person's eye in the center of the 16-inch mirror.
 
-### Telescope Specifications
+## Telescope Specifications
 
 #### Primary Telescope 
 Sigma 16 <br>
@@ -55,10 +53,10 @@ Sigma 16 <br>
 4-inch aperture, F/10 refractor
 
 ---
-### Common Formulas
+## Common Formulas
 ---
 
-#### Magnification
+### Magnification
 
 The magnification of an astronomical telescope changes with the eyepiece used. It is calculated by dividing the focal length of the telescope (usually marked on the optical tube) by the focal length of the eyepiece (both in millimeters). Thus:
 
@@ -68,7 +66,7 @@ The magnification of an astronomical telescope changes with the eyepiece used. I
 
 For example, a telescope with a 1000mm focal length using a 10mm ocular is operating at 100x magnification (1000/10=100).
 
-#### Focal Ratio (f/stop)
+### Focal Ratio (f/stop)
 
 The focal ratio, or f/stop, of any lens system (including telescopes), is computed by dividing the focal length by the clear aperture (usually expressed in millimeters). In other words, the focal ratio is the ratio of the focal length and clear aperture. Thus:
 
@@ -78,7 +76,7 @@ The focal ratio, or f/stop, of any lens system (including telescopes), is comput
 
 For example, a telescope with a focal length of 1000mm and a 100mm (4") clear aperture has a focal ratio of f/10 (1000/100=10).
 
-#### True Field of View
+### True Field of View
 
 There are two ways to calculate the true field of view (FOV) in degrees of a telescope and eyepiece combination. The easy way and the method I use is to divide the apparent field of view (AFOV) of the ocular by the magnification of the system. The AFOV for almost all eyepieces is provided by the manufacturer and it is easy to derive the magnification of any telescope/ocular combination. Thus:
 
@@ -97,7 +95,7 @@ The other formula for calculating FOV in degrees involves dividing the eyepiece 
 
 A Tele Vue 25mm Plossl has a field stop diameter of 21.2mm. Used in our 1000mm focal length telescope this formula produces a FOV of slightly over 1.2 degrees (21.2/1000=0.0212x57.3=1.21476). The results produced by the two formulas are very similar, but not quite identical. I do not know which method is more accurate, but both are close enough for practical purposes.
 
-#### Power per Inch
+### Power per Inch
 
 This is good to know, because it is a truism among amateur astronomers that the power per inch (PPI) figure of a telescope and ocular should not exceed 50 PPI in excellent seeing conditions. In average seeing conditions, I figure about 30 PPI as a practical maximum.
 
@@ -109,7 +107,7 @@ PPI can be calculated by dividing the magnification of the telescope and eyepiec
 
 For example, a 100mm clear aperture is approximately 4", so such a telescope operating at 100x magnification is at 25 PPI (100/4=25).
 
-#### Exit Pupil
+### Exit Pupil
 
 The exit pupil is the diameter of the "light pencil" that emerges from the eyepiece. The pupil of fully dark-adapted human eye can dilate to about 7mm diameter, so an exit pupil in excess of 7mm is passing more light than the eye can accept. On the other hand, as the exit pupil decreases below 7mm, lack of light becomes the basic limiting factor to what you can see at night. Exit pupils of less than about 0.5mm are so small and pass so little light to the eye that they are functionally useless. Actually, I like exit pupils of at least 1.0mm for decent viewing.
 
@@ -131,27 +129,25 @@ Thus, a 10mm ocular in our f/10 (100mm clear aperture and 1000mm focal length) t
 
 
 ---
-### FAQ
+## FAQ
 ---
 
-#### How big is the telescope? 
+### How big is the telescope? 
 The telescope is a 16-inch reflecting telescope. That means the mirror in the telescope is 16 inches across. It gathers about 5000 times more light than our eyes do.
 
-#### How powerful is the telescope? 
+### How powerful is the telescope? 
 When astronomers talk about power, they talk about light gathering power. This telescope, with its 16-inch mirror, gathers about 5000 times more light than our eyes do. Now, once we have this extra light we can magnify things. This telescope can magnify an object between 80 and 500 times. The highest magnifications can be used only when the atmosphere is very steady.
 
-#### How do you move the telescope? 
+### How do you move the telescope? 
 The telescope can be moved a few different ways. The most direct is to press buttons on the hand paddle which tells the computer which direction to move the telescope. We can also select an object in the sky or enter its coordinates (right ascencsion and declination) using the computer and then have the computer move the telescope to that location.
 
-#### Should I take my glasses off when I look through the telescope? 
+### Should I take my glasses off when I look through the telescope? 
 Some people see things better with their glasses, while others see better without them. Tell people to try looking through the telescope both with their glasses on and with them off to see which way works best for them. 
 
-#### How do I focus the telescope? 
+### How do I focus the telescope? 
 The telescope should be focused so you shouldn't have to refocus it. (We discourage people from focusing the telescope so that it can remain focused for others. If someone does refocus it, make sure you check the focus before the next person looks.) The fuzziness or unfocused image that you see is often caused by the atmosphere.
 
-|    |    |
-|:---|---:|
-|[Home](/notes/#object-notes) > [Telescope](telescope) > Reference|[Top](telescope)|
+---
 
 ###### References
 

@@ -5,53 +5,62 @@ This project uses [MKDocs](http://www.mkdocs.org/) to create web pages providing
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Build and Deployment](#build-and-deployment) below for notes on how to deploy the project on a live system.
 
-## Prerequisites
+## Build Environment
+This project was built using the following environment components:
 
-See the pip-dependencies.txt file for the Python package requirements for the LAPO Presenter Notes:
+[Visual Studio Code](https://code.visualstudio.com/)
+
+[Git for Windows](https://git-scm.com/download/win)
+
+[Python 3.6.1](https://www.python.org/downloads/)
 
 ## Project Setup
 The following are the steps I used to create the fresh Presenter Notes project, 
 and these notes can be used for creating a fresh, brand-new MkDocs project.
 However, if you are just cloning the existing Presenter Notes project from GitHub, then you can skip these steps and go directly to [Clone this Project](#clone-this-project)
-    
-### Install Python - the Presenter Notes are using version 3.6.1: [www.python.org/downloads/](https://www.python.org/downloads/)
-	
+ 	
 ### Virtual Environment
 Create a virtual environment for the Presenter Notes Project.  
 Begin by creating a directory for the Python virtual environment;
-I am using d:\gitLAPO\lake-afton-presenter-notes\ for the local project repository:
 
+Example...
 ```
-md d:\gitLAPO
-cd d:\gitLAPO
-virtualenv lake-afton-presenter-notes
+md c:\virtz
+md c:\virtz\lake-afton-presenter-notes
+virtualenv c:\virtz\lake-afton-presenter-notes
 ```
 
 #### Activate the virtual environment:
 
+You can do this from any folder location, recommend from your local github\lake-afton-presenter-notes project folder
 ```
-cd lake-afton-presenter-notes
-Scripts\activate.bat
+c:\virtz\lake-afton-presenter-notes\Scripts\activate.bat
 ```
-		
+
+## Prerequisites
+
+See the pip-dependencies.txt file for the Python package requirements for the LAPO Presenter Notes:
+
 ### Install Python Packages
 
 **Short-cut**: to install *ALL* pip dependencies:
+The following *must* be done from your local github\lake-afton-presenter-notes project folder, where the pip-dependencies.txt exists...
 
 ```python
 pip install -r pip-dependencies.txt
 ```
 
-... or for manual installation ... do the following...
+... for manual installation ... do the following...
 
-... from the d:\gitLAPO\lake-afton-presenter-notes\ folder, PIP install MKDocs:
+From the d:\gitLAPO\lake-afton-presenter-notes\ folder, PIP install MKDocs:
 
 ```python
 pip install mkdocs
 ```
 reference [MKDocs](http://www.mkdocs.org/) for more information 
 
-Theme -- [Cyborg](http://mkdocs.github.io/mkdocs-bootswatch/#cyborg) is a part of the mkdocs-bootswatch package:
+Theme 
+This project uses the MkDocs Bootswatch Theme: [Cyborg](http://mkdocs.github.io/mkdocs-bootswatch/#cyborg)
 
 ```python
 pip install mkdocs-bootswatch
@@ -73,7 +82,7 @@ You can then open the local site for testing:<br>
 From the GitHub repository: https://github.com/caketron/lake-afton-presenter-notes
 select Clone and copy the URL to the repo: https://github.com/caketron/lake-afton-presenter-notes.git
 
-Then from your local project folder (I am using d:\gitLAPO), execute the following git command:
+Then from your local project folder (I am using d:\git\github), execute the following git command:
 ```git
 git clone https://github.com/caketron/lake-afton-presenter-notes
 ```
@@ -85,7 +94,7 @@ Once all editing has been completed, do a final build of the document site for d
 mkdocs build
 ```
 
-TO DO:  ... to be completed ... !!!
+<< TO DO >>:  ... to be completed ... !!!
 	
 ## Remaining Tasks:
 1. Readthedocs.org provides free hosting for MkDocs - need to set up a site and configured to auto-build upon any code changes in the linked GitHub project.

@@ -7,15 +7,16 @@
 ## About these notes...
 In an effort to make Observatory Presenter notes more accessible, I have taken the notes left behind by WSU staff and I am using MkDocs (Markdown) to create web-based versions.  The project is in GitHub and I have set up hooks to trigger build/deploy using ReadtheDocs.org ... check out the progress here:  <http://lake-afton-presenter-notes.readthedocs.io/en/latest>.  
 
-I have a theme I am testing locally that converts the pages into nightvision (red text on black) so that  we can serve them up directly in the observing room at LAPO ... also, if you have any content suggestions or feedback I would really appreciate it!!
+I have a theme I am testing locally that converts the pages into nightvision (red text on black) so that  we can serve them up directly in the observing room at LAPO ... also, if you have any content suggestions or feedback I would really appreciate it!! (either email me at [caketron@cox.net](mailto:caketron@cox.net), or create an [Issue](https://github.com/caketron/lake-afton-presenter-notes/issues) on the GitHub project: [https://github.com/caketron/lake-afton-presenter-notes/issues](https://github.com/caketron/lake-afton-presenter-notes/issues)
 
-Add to these notes the information that Chad has done some additional research on some of the objects we viewed last Fall. It is in our Google Drive "Presenter Notes" folder.
 
-I have also grabbed the current "Fun Facts about..." notes from the telescope computer... and planning to work on incorporating that info into the PresenterNotes.  
-
-## Things To Do ...
+## Additional Things **<< To Do >>** ...
 
 Further work to be done ...
+
+- Add to these notes the information that Chad had done, the additional research on some of the objects we viewed in Fall 2016. It is in the LAPO Google Drive "Presenter Notes" folder.
+
+- I have also grabbed the current "Fun Facts about..." notes from the telescope computer... and planning to work on incorporating that info into the Presenter Notes.  
 
 - Get the vertical scroll working on the Left Nav Menu when using different themes (Cyborg theme for example...)
     
@@ -53,32 +54,3 @@ the observing room.
     For example, to make the documentation available on docs.lakeafton.com, create a CNAME record pointing to <br><http://lake-afton-presenter-notes.readthedocs.io/>.
 
     CNAME docs is an alias of lakeafton-doc.readthedocs.org
-
-- Fix the following errors during `mkdocs serve` (see source doc for commented warnings...)
-<!--WARNING -  Template variable warning: 'page_description' is being deprecated and will not be available in a future version. 
-            Use 'config.site_description' instead.
-WARNING -  Template variable warning: 'site_author' is being deprecated and will not be available in a future version. 
-            Use 'config.site_author' instead.
-WARNING -  Template variable warning: 'canonical_url' is being deprecated and will not be available in a future version. 
-            Use 'page.canonical_url' instead.
-WARNING -  Template variable warning: 'favicon' is being deprecated and will not be available in a future version. 
-            Use '{{ base_url }}/img/favicon.ico' instead.
-WARNING -  Template variable warning: 'page_title' is being deprecated and will not be available in a future version. Use 'page.title' instead.
-WARNING -  Template variable warning: 'site_name' is being deprecated and will not be available in a future version. Use 'config.site_name' instead.
-WARNING -  Template variable warning: 'google_analytics' is being deprecated and  will not be available in a future version. 
-            Use 'config.google_analytics' instead.
-WARNING -  Template variable warning: 'current_page' is being deprecated and will not be available in a future version. Use 'page' instead.
-WARNING -  Template variable warning: 'copyright' is being deprecated and will not be available in a future version. Use 'config.copyright' instead.
-WARNING -  Template variable warning: 'include_nav' is being deprecated and will not be available in a future version. Use 'nav|length>1' instead.
-WARNING -  Template variable warning: 'include_next_prev' is being deprecated and will not be available in a future version. 
-            Use '(page.next_page or page.previous_page)' instead.
-WARNING -  Template variable warning: 'repo_url' is being deprecated and will not be available in a future version. Use 'config.repo_url' instead.
-WARNING -  Template variable warning: 'homepage_url' is being deprecated and will not be available in a future version. Use 'nav.homepage.url' instead.
-WARNING -  Template variable warning: 'previous_page' is being deprecated and will not be available in a future version. Use 'page.previous_page' instead.
-WARNING -  Template variable warning: 'next_page' is being deprecated and will not be available in a future version. Use 'page.next_page' instead.
-WARNING -  Template variable warning: 'repo_name' is being deprecated and will not be available in a future version. Use 'config.repo_name' instead.
-WARNING -  Your theme does not appear to contain a 'main.html' template. The 'base.html' template was used instead, which is deprecated. 
-            Update your theme so that the primary entry point is 'main.html'.
-WARNING -  Template variable warning: 'toc' is being deprecated and will not beavailable in a future version. Use 'page.toc' instead.
-WARNING -  Template variable warning: 'meta' is being deprecated and will not be available in a future version. Use 'page.meta' instead.
-WARNING -  Template variable warning: 'content' is being deprecated and will not be available in a future version. Use 'page.content' instead.-->

@@ -1,7 +1,7 @@
-# TO DO...
+# << TO DO >>: Notes in ROUGH DRAFT ...
 The information in these notes should not duplicate what is found under the specific objects observed during this program ... rather, these notes should supplement the objects' information with regards to the topic of this program... and provide hyperlinks to the object pages that will be used during this program:
 
-These notes are still in DRAFT... See TO BE COMPLETED... below...
+These notes are still in DRAFT... edited/reviewed to "TO BE COMPLETED..." below...
 
 # Sizing Up Saturn
 
@@ -122,6 +122,7 @@ seen. However, in 1980 and ‘81, the Voyager missions found that each ring is
 actually made up of thousands of tiny ringlets. These ringlets could be compared
 to the grooves on a phonograph album.
 
+# TO BE COMPLETED...
 
 SATURN’S MOONS BACKGROUND INFORMATION FOR EXPLAINERS:
 SATURN - MOONS

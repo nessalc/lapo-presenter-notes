@@ -5,10 +5,9 @@ copyright: "&copy; 2017 Lake Afton Public Observatory"
 site_url: http://lake-afton-presenter-notes.readthedocs.io/en/latest/
 repo_url: https://github.com/caketron/lake-afton-presenter-notes.git
 theme: cyborg
-site_favicon: '/img/favicon.ico'
 extra_css: 
   - 'css/nightvision.css'
-pages:
+nav:
     - Home: 'index.md'
 
     - Notes: 
@@ -172,3 +171,7 @@ pages:
       - Summer:
         - Life of a Star: 'programs/summer/life_of_a_star.md'
         - Sizing Up Saturn: 'programs/summer/sizing_up_saturn.md'
+      - Fall:
+        - Stars of Astronomy: 'programs/fall/stars_of_astronomy.md'
+      - Winter:
+        - Stars, Stars and More Stars: 'programs/winter/stars_stars_and_more_stars.md'
