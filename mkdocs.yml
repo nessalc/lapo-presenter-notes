@@ -5,8 +5,6 @@ copyright: "&copy; 2017 Lake Afton Public Observatory"
 site_url: http://lake-afton-presenter-notes.readthedocs.io/en/latest/
 repo_url: https://github.com/caketron/lake-afton-presenter-notes.git
 theme: cyborg
-extra_css: 
-  - 'css/nightvision.css'
 nav:
     - Home: 'index.md'
 

@@ -10,9 +10,10 @@
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Earth](/notes/#planets) > [Moon](#moon) > Lunar Features|[top](#table-of-contents)|
 
-#Lunar Features
+# Lunar Features
 
-##OVERVIEW
+### OVERVIEW
+
 |                               |               |               |
 |-------------------------------|:-------------:|:-------------:|
 |                               |<br/>**Actual**|**Compared <br/>to Earth**|
@@ -33,7 +34,7 @@
 
 1.  Recommended eyepiece:  Have people look through the finder.
 
-## Overview Information
+### Overview Information
 1.  People often wonder why the moon map is upside down. While they are looking through the finder, tell them to notice which side of the moon is light and which is dark.  Have them do the same with their naked eye and they should realize that telescopes turn images upside down. 
 
 |    |    |
@@ -138,7 +139,7 @@ source<a href="#footnote1" id="footnoteRef1"><sup>1</sup></a>
 
 1.	Recommended eyepiece:  26mm or 40mm
 
-## Mare Information
+### Mare Information
 1.	These are the smooth dark areas on the moon. 
 
 2.	They were formed about 3.5 to 4 billion years ago when lava flowed through cracks in the lunar surface and filled in the low-lying areas. 
@@ -291,7 +292,7 @@ Sea of Tranquility
 #### What to look for through the telescope
 1.	Recommended eyepiece:  26mm or 40mm
 
-## Craters Information
+### Craters Information
 1.	Craters were formed when pieces of rock struck the moon and left large holes. 
 
 2.	The size of the typical crater visible on the moon is about 50 miles.  The smallest craters that can be seen with the telescope are a few miles across.  However, astronauts saw craters as small as a few inches across. 
@@ -1058,7 +1059,8 @@ Astronomer, physician, classical scholar, translator, Catholic cleric, jurist, g
 |    |    |
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Earth](/notes/#planets) > [Moon](#moon) > [Craters](#craters)|[top](#table-of-contents)|
- 
+
+
 ### Erathosthenes
 
 |               |             |                    |                       |
@@ -1157,7 +1159,8 @@ Danish nobleman, astronomer, astrologer and alchemist.
 |    |    |
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Earth](/notes/#planets) > [Moon](#moon) > [Craters](#craters)|[top](#table-of-contents)|
- 
+
+
 ### Aristarchus
 
 |               |             |                    |                       |
@@ -1362,7 +1365,7 @@ MOUNTAIN-WALLED PLAIN
 
 1.	Recommended eyepiece:  26mm or 40mm
 
-## Mountains Information
+### Mountains Information
 
 1.	Mountains on the moon were formed very differently from the mountains on Earth. 
 
@@ -1485,7 +1488,7 @@ MOUNTAIN-WALLED PLAIN
 
 1.	Recommended eyepiece:  26mm or 40mm
 
-## Other Features Information
+### Other Features Information
 
 1.	Other unusual and interesting lunar features. 
 
@@ -1542,6 +1545,7 @@ MOUNTAIN-WALLED PLAIN
 |    |    |
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Earth](/notes/#planets) > [Moon](#moon) > References|[top](#table-of-contents)|
+
 
 ###### References
 |   |   |   |

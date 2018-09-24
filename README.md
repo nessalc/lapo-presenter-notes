@@ -66,15 +66,13 @@ This project uses the MkDocs Bootswatch Theme: [Cyborg](http://mkdocs.github.io/
 pip install mkdocs-bootswatch
 ```
 
-Additional customization of the theme is found in \lake-afton-presenter-notes\docs\css\nightvision.css
-
 ### Start MkDocs Server
 To start the MKDocs dev server for testing.
 From the presenterNotes folder, execute the following command
 
 	mkdocs serve
 
-You can then open the local site for testing:<br>
+You can then open the local site for testing:<br/>
 	http://127.0.0.1:8000/
 	
 ## Clone this Project
@@ -82,7 +80,7 @@ You can then open the local site for testing:<br>
 From the GitHub repository: https://github.com/caketron/lake-afton-presenter-notes
 select Clone and copy the URL to the repo: https://github.com/caketron/lake-afton-presenter-notes.git
 
-Then from your local project folder (I am using d:\git\github), execute the following git command:
+Then from your local project folder (I am using c:\git\github), execute the following git command:
 ```git
 git clone https://github.com/caketron/lake-afton-presenter-notes
 ```
@@ -96,14 +94,6 @@ mkdocs build
 
 << TO DO >>:  ... to be completed ... !!!
 	
-## Remaining Tasks:
-1. Readthedocs.org provides free hosting for MkDocs - need to set up a site and configured to auto-build upon any code changes in the linked GitHub project.
-    So as changes are made to the lapoPresenterNotes, they automatically build and deploy to the readthedocs.org site.
-		
-1. Also, could add a CNAME to the lakeafton.org domain host to point to the readthedocs.org site… suggest docs.lakeafton.org or notes.lakeafton.org
-
-1. For Consideration: Readthedocs.org is going to start showing Ads on the free hosting... so may want to consider moving to a self-hosted site (where the LAPO web site lives?) -- or perhaps making use of Git Pages for hosting (this may require some restructuring of the pages.)
-
 ## Versioning
 For the sake of tracking version history, the version numbering will follow a year, month, date numbering sequence, following by a sequence id to account for multiple versions within a single date, in the following format:
 
@@ -117,6 +107,8 @@ Please follow these simple rules when contributing additional content or changes
 
 1. Add a note referencing the source of the material that is being added or changed.
 
+1. Please follow the same formatting, and yes, although a bit tedious, cookie crumb heading and footing references.
+
 ## Authors
 **Chris Ketron** - Initial compilation of LAPO source material and additional research and validation into these MarkDown notes pages.
 
@@ -125,4 +117,4 @@ Thanks to former staff of the Lake Afton Public Observatory while under the perv
 the Wichita State University Physics Dept, for the original explainer and program notes source
 material used for the creation of these Presenter Notes.
 
-
+Thank you to the *ALL-Volunteer* staff of the Lake Afton Public Observatory, for the contributions and suggestions in improving these notes.

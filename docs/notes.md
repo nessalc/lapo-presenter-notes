@@ -94,7 +94,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [non-Contrast Optical Double](./stars/non-contrast optical double/!non_contrast_optical_double_star_info.md)
     - [Alpha Canes Venatici](./stars/non-contrast optical double/alpha_canes_venatici.md)
     - [Alpha Capricornus](./stars/non-contrast optical double/alpha_capricornus.md)
-    - [Beta Scorpius](./stars/non-contrast optical double/beta_scorpius.md)
+    - [Scorpius](./stars/non-contrast optical double/beta_scorpius.md)
     - [Delta Cepheus](./stars/non-contrast optical double/delta_cepheus.md)
     - [Epsilon Lyra](./stars/non-contrast optical double/epsilon_lyra.md)
     - [Gamma Delphinus](./stars/non-contrast optical double/gamma_delphinus.md)
@@ -180,9 +180,9 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - #### Summer
         - [Life of a Star](programs/summer/life_of_a_star.md)
         - [Sizing Up Saturn](programs/summer/sizing_up_saturn.md)
-    - #### Fall:
+    - #### Fall
         - [Stars of Astronomy](programs/fall/stars_of_astronomy.md)
-    - #### Winter:
+    - #### Winter
         - [Stars, Stars and More Stars](programs/winter/stars_stars_and_more_stars.md)
 
 ## Object Availability
