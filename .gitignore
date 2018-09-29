@@ -51,6 +51,7 @@ coverage.xml
 
 #compiled site
 site/
+todo/
 
 # VSCode
 .vscode
