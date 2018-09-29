@@ -44,57 +44,61 @@ Contrast Optical Double Star
 1.  In Arabic, “Minqar al-Dajajah,” meaning “the hen’s beak” - otherwise known as the “beak star”.
 
 1. Light we’re seeing left in 1586 AD:
-
-  * 1580 - Sir Francis Drake completes his circumnavigation of the globe…his is the 2nd journey to do that and the first under the same commander.
-  * 1582 – the Gregorian calendar is implemented
-  * 1582 – Shakespeare marries Anne Hathaway
-  * 1580s – Chocolate is introduced commercially to Europe
-  * 1587 – Mary Queen of Scots is beheaded
-  * 1587 – English settlers arrive at Roanake Island in North Carolina and re-establish the deserted colony
+    * 1580 - Sir Francis Drake completes his circumnavigation of the globe…his is the 2nd journey to do that and the first under the same commander.
+    * 1582 – the Gregorian calendar is implemented
+    * 1582 – Shakespeare marries Anne Hathaway
+    * 1580s – Chocolate is introduced commercially to Europe
+    * 1587 – Mary Queen of Scots is beheaded
+    * 1587 – English settlers arrive at Roanoake Island in North Carolina and re-establish the deserted colony
 
 1.  If they are orbiting each other (we don’t know for certain), their orbital period is at least 75,000 years
 
 1.  Beta1 Cyg or Albireo A (the golden amber star):
 
-```
-  Orange, K3II, bright giant
-  Luminosity: 889 Suns, 1460 Suns total
-  Diameter: 66 Suns
-  Absolute magnitude: -2.55 visual, -3.16 total
-```
 
-  a. In 1976, it was discovered that this is a binary system in itself, separated by 40 AU, and orbiting each other every 100-200 years.  Our telescope can’t distinguish between them. 
+    |   |   |
+    |---:|:---|
+    |Color:|Orange, K3II, bright giant
+    |Luminosity:| 889 Suns; 1460 Suns total
+    |Diameter:| 66 Suns
+    |Absolute magnitude:|-2.55 visual; -3.16 total|
+    |  |  |
 
-  The brighter star is a helium-fusing giant, class K3 (orange)
+    a. In 1976, it was discovered that this is a binary system in itself, separated by 40 AU, and orbiting each other every 100-200 years.  Our telescope can’t distinguish between them. 
 
-```
-  Temperature: 7440⁰ F
-  Luminosity: 950 Suns
-  Diameter: 50 Suns
-  Mass: 5 Suns
-```
+      * The brighter star is a helium-fusing giant, class K3 (orange)
 
-The other is a hydrogen-fusing main sequence, class B9 (blue)
+          |   |   |
+          |---:|:---|
+          |Temperature:| 7440⁰ F
+          |Luminosity:| 950 Suns
+          |Diameter:| 50 Suns
+          |Mass:| 5 Suns
+          |   |   |
 
-```
-  Temperature: 19,340⁰ F
-  Luminosity: 100 Suns
-  Mass: 3.2 Suns
-```
+      * The other is a hydrogen-fusing main sequence, class B9 (blue)
 
-1.  Beta2Cyg or Albireo B (the blue-white star):
+          |   |   |
+          |---:|:---|
+          |Temperature:| 19,340⁰ F
+          |Luminosity:| 100 Suns
+          |Mass:| 3.2 Suns
+          |   |   |
 
-```
-  B8Ve, main sequence
-  20,100⁰ F
-  Luminosity: 117 Suns visual, 229 Suns total
-  Diameter: 3.88 Suns
-  Absolute magnitude: -0.35 visual, -1.15 total
-```
+1.  Beta2 Cyg or Albireo B (the blue-white star):
 
-  a.  Very fast spinning star (150 miles per second), rotation period of about 14 hours, this causes a gas disk around it
+    |   |   |
+    |---:|:---|
+    |Color: |B8Ve, main sequence
+    |Temperature:|20,100⁰ F
+    |Luminosity:| 117 Suns visual; 229 Suns total
+    |Diameter:| 3.88 Suns
+    |Absolute magnitude:| -0.35 visual; -1.15 total
+    |   |   |
 
-  b.  From Albireo B, Albireo A would appear as brilliant orange and blue points about ½ degree apart.  The orange star would shine with light equal to about 35 full moons, and the blue/white companion about ½ half that.
+    a.  Very fast spinning star (150 miles per second), rotation period of about 14 hours, this causes a gas disk around it
+
+    b.  From Albireo B, Albireo A would appear as brilliant orange and blue points about ½ degree apart.  The orange star would shine with light equal to about 35 full moons, and the blue/white companion about ½ half that.
 
 
 |    |    |
