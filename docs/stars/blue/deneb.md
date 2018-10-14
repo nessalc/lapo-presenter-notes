@@ -1,6 +1,6 @@
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Deneb](#deneb)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Deneb](#deneb)|  |
 
 # Deneb
 Alpha (α) Cygni<br/>
@@ -44,7 +44,7 @@ Blue Star
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Deneb](#deneb)| [Top](#deneb) |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Deneb](#deneb)| [top](#deneb) |
 
 ###### References
 

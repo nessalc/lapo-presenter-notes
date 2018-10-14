@@ -1,202 +1,73 @@
-<p><a href="/">Home</a> > Stars > Blue Stars > <a href=".">Vega</a> </p>
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Vega](#vega)|  |
 
 # Vega
+Alpha (α) Lyrae<br/>
+Blue Star
 
-	VEGA (ALPHA (α) LYRAE)
-	BLUE STAR
-
-
-
-Right Ascension:	
-18h 36m 56s	
-	
-Best Seen:	
-6/15 - 12/1
-
-Declination:	
-38º 47' 01"	
-	
-Magnitude:	
-0.03
-
-	
-	
-	
-	
+|   |   |   |   |
+|--:|:--|--:|:--|
+|**Right Ascension**|18h 36m 56s|**Best Seen**|6/15 - 12/1|
+|**Declination**|38&deg; 47' 01"|**Magnitude**|0.03|
+|   |   |**Constellation**|Lyra|
+|   |   |   |   |
 
 
-Computer File:	
-vega	
-	
-Constellation:	
-Lyra
+|   |   |   |
+|---|:---:|:---:|
+|   | <br/>**Actual**| **Compared<br/>to Sun** |
+|**Distance** | 25.3 ly | -- |
+|**Actual Brightness**	 | --	 | 46 |
+|**Surface Temperature** | ~18,000 ºF | ~1.8 |
+|**Diameter** (average)  | ~1.8 million miles | ~2.1 |
+|**Mass**	             | -- | ~3 |
+|**Surface Gravity**	 | -- | -- |
+|**Surface Composition** (by mass) |74% hydrogen<br/>24% helium<br/>2% everything else| same |
+|**Spectral Type**       | A0 V | G2 V | 
+|**Density** (gram/cubic cm) | -- | -- | 
 
+---
+#### What To Look For Through The Telescope
+---	
 
+1.  Recommended eyepiece: 24mm or 40 mm.
 
+1.  When people look through the telescope a bright bluish point of light should be seen.
 
+## Vega Information:
 
-	
-	
-Actual	
-	
-Compared to Sun
-
-Distance	
-	
-25.3 l.y.	
-	
---
-
-Actual Brightness	
-	
---	
-	
-46
-
-Surface Temperature 	
-	
-18,000 ºF	
-	
-1.8
-
-Diameter	
-	
-1.8 million miles	
-	
-2.1
-
-Mass	
-	
---	
-	
-3
-
-Surface Gravity	
-	
---	
-	
---
-
-Surface Composition (by mass)	
-	
-74% hydrogen
-24% helium
-2% everything else	
-	
-
-same
-
-
-Spectral Type	
-	
-A0 V	
-	
-G2 V
-
-Density (gram/cubic cm)	
-	
---	
-	
---
-
-
-
-
-
-WHAT TO LOOK FOR THROUGH THE TELESCOPE:
-
-1.	Recommended eyepiece: 24mm or 40 mm.
-
-2.	When people look through the telescope a bright bluish point of light should be seen.
-
-
-VEGA INFORMATION:
-
-1.	Vega is the brightest member of the summer triangle, and is the 3rd brightest star in the Northern Hemisphere’s night sky (5th brightest star when including Southern Hemisphere bright stars).
+1.  Vega is the brightest member of the summer triangle, and is the 3rd brightest star in the Northern Hemisphere’s night sky (5th brightest star when including Southern Hemisphere bright stars).
    
- 
-2.	It was the pole star about 12,000 years ago at a distance of about 4.5 degrees from the actual pole.  It will be the pole again in another 12,000 years.
+2.  It was the pole star about 12,000 years ago at a distance of about 4.5 degrees from the actual pole.  It will be the pole again in another 12,000 years.
 
-3.	The sun and solar system are moving toward Vega at 12 miles per second.  It would take 450,000 years to get there but since Vega is also moving, it will no longer be there.
+3.  The sun and solar system are moving toward Vega at 12 miles per second.  It would take 450,000 years to get there but since Vega is also moving, it will no longer be there.
 
-4.	Vega was the first star to be photographed.  The 100 second exposure was taken on July 16-17, 1850 at Harvard Observatory.
+4.  Vega was the first star to be photographed.  The 100 second exposure was taken on July 16-17, 1850 at Harvard Observatory.
 
-5.	Vega was also the first star to have a car named after it: the Chevrolet Vega.
+5.  Vega was also the first star to have a car named after it: the Chevrolet Vega.
 
-6.	Vega is surrounded by a circumstellar dust disk, which could be a stage in planet formation.
+6.  Vega is surrounded by a circumstellar dust disk, which could be a stage in planet formation.
 
+   
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Vega](#vega) | [top](#vega) |
 
+###### References
 
-
-Item	
-Updated	
-Notes
-
-Coordinates	
-07-22-2002	
-SIMBAD
-
-Magnitude	
-07-22-2002	
-with Scott’s The Flamsteed Collection
-
-Distance	
-07-22-2002	
-The Flamsteed Collection
-
-Actual Brightness	
-07-22-2002	
-The Flamsteed Collection
-
-Surface Temperature	
-07-22-2002	
-assume A type’s top temp of 10,000 K
-
-Diameter	
-07-22-2002	
-with assumed temp of 10,000K
-
-Mass	
---	
-
-
-Surface Gravity	
---	
-
-
-Surface Composition	
-01-06-2003	
-OK for all stars
-
-Spectral Type	
---	
-
-
-Other Information	
-07-22-2002
-
-07-22-2002
-
-07-22-2002
-
-07-22-2002	
-1.   previous: surface gravity 15.5 times
-      sun – BUT how know?
-2.   previous: density 0.04 times sun –
-      BUT how know?
-3.   updated Vega brightness rank with
-      Hipparcos data
-4.   Vega Information items #2-4 are
-      unchanged – assumed them to be
-      correct
-
-
-Composition		
-7/30/13	
-Changed to:
-74/24/2
-
-	
-	
-
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**| 
+|Coordinates|2002-07-22|SIMBAD|
+|Magnitude|2002-07-22|with Scott’s The Flamsteed Collection|
+|Distance|2002-07-22|The Flamsteed Collection|
+|Actual Brightness|2002-07-22|The Flamsteed Collection|
+|Surface Temperature|2002-07-22|assume A type’s top temp of 10,000 K|
+|Diameter	|2002-07-22|with assumed temp of 10,000K|
+|Mass	| -- |   |
+|Surface Gravity| -- |   |
+|Surface Composition|2003-01-06|OK for all stars|
+|Spectral Type| -- |   |
+|Other Information|2002-07-22|1.   previous: surface gravity 15.5 times sun – BUT how know?<br/>2.   previous: density 0.04 times sun – BUT how know?<br/>3.   updated Vega brightness rank with Hipparcos data<br/>4.   Vega Information items #2-4 are unchanged – assumed them to be correct<br/>(2013-07-30) Composition: Changed to: 74/24/2 |
 

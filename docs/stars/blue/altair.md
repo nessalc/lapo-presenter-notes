@@ -1,6 +1,6 @@
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Altair](#altair)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Altair](#altair)|  |
 
 # Altair
 Alpha (α) Aquilae<br/>
@@ -51,7 +51,7 @@ Blue Star
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Altair](#altair)|  | [Top](#altair) |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Altair](#altair)|  | [top](#altair) |
 
 ###### References
 

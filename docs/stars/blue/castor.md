@@ -1,6 +1,6 @@
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Castor](#castor)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Castor](#castor)|  |
 
 # Castor
 Alpha (α) Geminorum<br/>
@@ -64,7 +64,7 @@ Non-Contrast Multiple System
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Castor](#castor) | [Top](#castor) |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Castor](#castor) | [top](#castor) |
 
 ###### References
 

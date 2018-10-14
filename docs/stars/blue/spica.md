@@ -1,199 +1,72 @@
-<p><a href="/">Home</a> > Stars > Blue Stars > <a href=".">Spica</a> </p>
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Spica](#spica)|  |
 
 # Spica
+Alpha (α) Virginis<br/>
+Blue Star
 
-	SPICA (ALPHA (α) VIRGINIS)
-	BLUE STAR
-
-
-
-Right Ascension:	
-13h 25m 12s	
-	
-Best Seen:	
-5/15 - 8/1
-
-Declination:	
--11º 09' 41"	
-	
-Magnitude:	
-0.98
-
-	
-	
-	
-	
+|   |   |   |   |
+|--:|:--|--:|:--|
+|**Right Ascension**|13h 25m 12s|**Best Seen**|5/15 - 8/1|
+|**Declination**|-11&deg; 09' 41"|**Magnitude**|0.98|
+|   |   |**Constellation**|Virgo|
+|   |   |   |   |
 
 
-Computer File:	
-spica	
-	
-Constellation:	
-Virgo
+|   |   |   |
+|---|:---:|:---:|
+|   | <br/>**Actual**| **Compared<br/>to Sun** |
+|**Distance** | 262 ly | -- |
+|**Actual Brightness**	 | --	 | 2,062 |
+|**Surface Temperature** | ~36,000 ºF | ~3.6 |
+|**Diameter** (average)  | ~3.1 million miles | ~3.5 |
+|**Mass**	             | -- | ~10 |
+|**Surface Gravity**	 | -- | -- |
+|**Surface Composition** (by mass) |74% hydrogen<br/>24% helium<br/>2% everything else| same |
+|**Spectral Type**       | B1 III-IV | G2 V | 
+|**Density** (gram/cubic cm) | -- | -- | 
 
+---
+#### What To Look For Through The Telescope
+---	
 
+1.  Recommended eyepiece: 24mm or 40 mm.
 
+1.  When people look through the telescope a bright bluish point of light should be seen.
 
+## Spica Information:
 
-	
-	
-Actual	
-	
-Compared to Sun
+1.  Spica is the 10th brightest star in the Northern Hemisphere’s night sky (15th brightest when including bright stars in the Southern Hemisphere).
 
-Distance	
-	
-262 l.y.	
-	
---
-
-Actual Brightness	
-	
---	
-	
-2,062
-
-Surface Temperature 	
-	
-~ 36,000 ºF	
-	
-~ 3.6
-
-Diameter	
-	
-~ 3.1 million miles	
-	
-~ 3.5
-
-Mass	
-	
---	
-	
-~ 10
-
-Surface Gravity	
-	
---	
-	
---
-
-Surface Composition (by mass)	
-	
-74% hydrogen
-24% helium
-2% everything else	
-	
-
-same
-
-Spectral Type	
-	
-B1 III-IV	
-	
-G2 V
-
-Density (gram/cubic cm)	
-	
---	
-	
---
-
-
-
-
-
-WHAT TO LOOK FOR THROUGH THE TELESCOPE:
-
-1.	Recommended eyepiece: 24mm or 40 mm.
-
-2.	When people look through the telescope a bright bluish point of light should be seen.
-
-
-SPICA INFORMATION:
-
-1.	Spica is the 10th brightest star in the Northern Hemisphere’s night sky (15th brightest when including bright stars in the Southern Hemisphere).
-
-2.	Spica is an eclipsing binary star.
-
+1.  Spica is an eclipsing binary star.
  
-a.	Spica’s companion is spectral type B2V.
+      a.  Spica’s companion is spectral type B2V.
 
-b.	The two stars orbit so closely they almost touch.
+      b.  The two stars orbit so closely they almost touch.
 
-c.	The two stars are so close they only take four days to complete an orbit.
+      c.  The two stars are so close they only take four days to complete an orbit.
    
    
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Spica](#spica) | [top](#spica) |
 
+###### References
 
-
-Item	
-Updated	
-Notes
-
-Coordinates	
-07-22-2002	
-SIMBAD
-
-Magnitude	
-07-22-2002	
-with Scott’s The Flamsteed Collection
-
-Distance	
-07-22-2002	
-The Flamsteed Collection and SIMBAD
-
-Actual Brightness	
-07-22-2002	
-The Flamsteed Collection
-
-Surface Temperature	
-07-22-2002	
-assume B type stars top temp of 20,000K
-
-Diameter	
-07-22-2002	
-with assumed temp of 20,000K
-
-Mass	
-11-20-2002	
-http://www.as.wvu.edu/~jel/skywatch/skw9605.html  and http://chandra.harvard.edu/resources/faq/sources/snr/snr 5.html
-
-Surface Gravity	
---	
-
-
-Surface Composition	
-01-06-2003	
-OK for all stars
-
-Spectral Type	
-07-22-2002	
-SIMBAD
-
-Other Information	
-07-22-2002
-
-07-22-2002
-07-22-2002
-
-07-22-2002	
-1.   previous:  mass = 15.5 times Sun  – 
-      BUT how know this?
-2.   brightness rank with Hipparcos
-3.   previous: density = 0.04 times Sun
-      – BUT how know this?
-4.   previous:   close eclipsing binary, 
-         80% of the light from larger star, 
-         brightness range: 6.7%.... 
-         Secondary’s Mass: 6.8 Sun’s
-         mass.  Secondary’s Diameter:
-         about 3 million miles... Separation
-         11 million miles;  two stars almost
-         touching... Period of revolution:
-         0.174 days    – BUT can’t find
-        support for all this
-
-Surface Composition	
-4/25/2013	
-changed to 74% / 24% / 2%
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**| 
+|Coordinates|2002-07-22|SIMBAD|
+|Magnitude|2002-07-22|with Scott’s The Flamsteed Collection|
+|Distance|2002-07-22|The Flamsteed Collection and SIMBAD|
+|Actual Brightness|2002-07-22|The Flamsteed Collection|
+|Surface Temperature|2002-07-22|assume B type stars top temp of 20,000K|
+|Diameter2002-07-22|with assumed temp of 20,000K|
+|Mass	|2002-11-20|<http://www.as.wvu.edu/~jel/skywatch/skw9605.html> and <http://chandra.harvard.edu/resources/faq/sources/snr/snr5.html>|
+|Surface Gravity| -- |   |
+|Surface Composition|2003-01-06|OK for all stars|
+|Spectral Type|2002-07-22|SIMBAD|
+|Other Information|2002-07-22|1.   previous:  mass = 15.5 times Sun  – BUT how know this?<br/>2.   brightness rank with Hipparcos<br/>3.   previous: density = 0.04 times Sun – BUT how know this?<br/>4.   previous:   close eclipsing binary, 80% of the light from larger star, brightness range: 6.7%... Secondary’s Mass: 6.8 Sun’s mass.  Secondary’s Diameter: about 3 million miles... Separation 11 million miles;  two stars almost touching... Period of revolution: 0.174 days – BUT can’t find support for all this|
+|Surface Composition|2013-04-25|changed to 74% / 24% / 2%|
 

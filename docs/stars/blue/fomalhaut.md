@@ -1,6 +1,6 @@
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Fomalhaut](#fomalhaut)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Fomalhaut](#fomalhaut)|  |
 
 # Fomalhaut
 Alpha (α) Piscis Austrini<br/>
@@ -49,7 +49,7 @@ Blue Star
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](!blue_stars) > [Fomalhaut](#fomalhaut) | [Top](#fomalhaut) |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Fomalhaut](#fomalhaut) | [top](#fomalhaut) |
 
 ###### References
 
