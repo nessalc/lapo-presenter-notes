@@ -2,7 +2,8 @@
 |:---|---:|
 |[Home](/notes/#object-notes) > Stars > [Contrast Optical Double](../!contrast-optical-double-star-info) > |  |
 
-# General Information about <br/>Contrast Optical Double Stars
+# Contrast Optical Double Stars
+General Information about   
 
 1.	An optical double star is simply two (or more) stars that appear to be in the same direction in the sky.  They do NOT revolve around each other like the Earth orbits the sun. 
 
@@ -14,7 +15,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Contrast Optical Double](../!contrast-optical-double-star-info) > |  |
+|[Home](/notes/#object-notes) > Stars > [Contrast Optical Double](../!contrast-optical-double-star-info) > |[top](#contrast-optical-double-stars) |
 
 ###### References
 

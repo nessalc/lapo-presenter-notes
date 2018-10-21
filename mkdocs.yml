@@ -15,6 +15,7 @@ nav:
       - About: 'about.md'
       - Objects: 'object-availability.md'
       - Telescope: 'telescope.md'
+      - Greek Letters: 'greek.md'
 
     - Objects:
       - Solar System:
@@ -72,8 +73,8 @@ nav:
           - 'Contrast Multiple': 'stars/contrast-multiple/!contrast-multiple-star-info.md'
           - '32 Eriadnus': 'stars/contrast-multiple/32eriadnus.md'
           - '95 Hercules': 'stars/contrast-multiple/95hercules.md'
-          - 'Gamma Andromeda': 'stars/contrast-multiple/gamma-andromeda.md'
-          - 'Iota Cancer': 'stars/contrast-multiple/iota-cancer.md'
+          - 'Gamma Andromedae': 'stars/contrast-multiple/gamma-andromedae.md'
+          - 'Iota Canceri': 'stars/contrast-multiple/iota-cancri.md'
           - 'Xi Bootis': 'stars/contrast-multiple/xi-bootis.md'
         - Contrast Optical Double:
           - 'Contrast Optical Double': 'stars/contrast-optical-double/!contrast-optical-double-star-info.md'

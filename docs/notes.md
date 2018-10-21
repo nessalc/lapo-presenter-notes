@@ -69,8 +69,8 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [Contrast Multiple Stars](./stars/contrast-multiple/!contrast-multiple-star-info.md)
     - [32 Eriadnus](./stars/contrast-multiple/32eriadnus.md)
     - [95 Hercules](./stars/contrast-multiple/95hercules.md)
-    - [Gamma Andromeda](./stars/contrast-multiple/gamma-andromeda.md)
-    - [Iota Cancer](./stars/contrast-multiple/iota-cancer.md)
+    - [Gamma Andromedae](./stars/contrast-multiple/gamma-andromedae.md)
+    - [Iota Cancri](./stars/contrast-multiple/iota-cancri.md)
     - [Xi Bootis](./stars/contrast-multiple/xi-bootis.md)
 - ##### Contrast Optical Double
     - [Contrast Optical Double Stars](./stars/contrast-optical-double/!contrast-optical-double-star-info.md)

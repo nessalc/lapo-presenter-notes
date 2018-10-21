@@ -43,7 +43,7 @@ The brighter star should appear yellow and the dimmer star blue.
  
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Contrast Optical Double](../!contrast-optical-double-star-info) > [24 Comae Berenices](../24comae-berenices) | [Top](../24comae-berenices) |
+|[Home](/notes/#object-notes) > Stars > [Contrast Optical Double](../!contrast-optical-double-star-info) > [24 Comae Berenices](../24comae-berenices) | [Top](#24-comae-berenices) |
 
 ###### References
 
