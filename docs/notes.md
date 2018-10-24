@@ -97,7 +97,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [Epsilon Lyra](./stars/non-contrast-optical-double/epsilon-lyra.md)
     - [Gamma Delphinus](./stars/non-contrast-optical-double/gamma-delphinus.md)
 - ##### with Planets
-    - [47 Ursae Majoris](./stars/with planets/uma47.md)
+    - [47 Ursae Majoris](./stars/with-planets/47-ursae-majoris.md)
 
 ---
 
