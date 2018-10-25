@@ -54,10 +54,10 @@ nav:
             - 'Mu Cephei': 'stars/red/supergiant/mu-cephei.md'
         - Yellow:
           - 'Yellow Stars': 'stars/yellow/!yellow-stars.md'
-          - 'Beta Canes Venatici': 'stars/yellow/beta-canes-venatici.md'
-          - 'Beta Coma Berenices': 'stars/yellow/beta-coma-berenices.md'
+          - 'Beta Canum Venaticorum': 'stars/yellow/beta-canum-venaticorum.md'
+          - 'Beta Comae Berenices': 'stars/yellow/beta-comae-berenices.md'
           - 'Procyon': 'stars/yellow/procyon.md'
-          - 'Xi Ursa Majoris': 'stars/yellow/xi-ursa-majoris.md'
+          - 'Xi Ursae Majoris': 'stars/yellow/xi-ursae-majoris.md'
         - Blue: 
           - 'Blue Stars': 'stars/blue/!blue-stars.md'
           - 'Altair': 'stars/blue/altair.md'

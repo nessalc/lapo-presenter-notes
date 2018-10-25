@@ -1,4 +1,4 @@
-	BETA (β) LYRAE
+	BETA (&beta;) LYRAE
 	MULTIPLE STAR
 
 

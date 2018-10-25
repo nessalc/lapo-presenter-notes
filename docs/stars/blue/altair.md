@@ -11,7 +11,7 @@ Blue Star
 |**Right Ascension**|19h 50m 47s|**Best Seen**|8/1 - 11/15|
 |**Declination**|8&deg; 52' 06"|**Magnitude**|0.77|
 |   |   |**Constellation**|Aquila|
-|   |   |   |   |
+|   |   |   | 
 
 |   |   |   |
 |---|:---:|:---:|
@@ -25,6 +25,7 @@ Blue Star
 |**Surface Composition** (by mass) |74% hydrogen<br/>24% helium<br/>2% everything else| same |
 |**Spectral Type**       | A7 IV-V | G2 V | 
 |**Density** (gram/cubic cm) | -- | -- | 
+|   |   |   |
 
 ---
 #### What To Look For Through The Telescope
