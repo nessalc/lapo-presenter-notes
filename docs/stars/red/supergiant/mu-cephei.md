@@ -49,7 +49,7 @@ Red Supergiant Star
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > Red > [Red Supergiant Stars](../!red-supergiant-stars) > [Alpha Orionis](#alpha-orionis) | [top](#alpha-orionis) |
+|[Home](/notes/#object-notes) > Stars > Red > [Red Supergiant Stars](../!red-supergiant-stars) > [Mu Cephei](#mu-cephei) | [top](#mu-cephei) |
 |    |    |
 
 
@@ -68,6 +68,5 @@ Red Supergiant Star
 |Surface Composition|2003-09-12|OK for all stars|
 |Spectral Type|2003-09-19|SIMBAD and Hipparcos agree|
 |Density| -– |   |
-|Other Information| 2003-09-19|variable info from aavso site (see diam)
-garnet star info from <http://www.astro.uiuc.edu/~kaler/sow/garnet.html>|
+|Other Information| 2003-09-19|variable info from aavso site (see diam) garnet star info from <http://www.astro.uiuc.edu/~kaler/sow/garnet.html>|
 
