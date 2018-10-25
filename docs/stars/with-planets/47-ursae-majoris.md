@@ -20,7 +20,7 @@ Yellow Dwarf Star with Planets
 |   | <br/>**Actual**| **Compared<br/>to Sun** |
 |**Distance** | ~45 ly | -- |
 |**Actual Brightness**	 | -- | -- |
-|**Surface Temperature** | ~10,300&deg; F | ~1.03 |
+|**Surface Temperature** | ~10,300 &deg;F | ~1.03 |
 |**Diameter** (average)  | -- | -- |
 |**Mass**	             | -- | ~ 1 |
 |**Surface Gravity**	 | -- | -- |

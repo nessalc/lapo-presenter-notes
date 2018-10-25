@@ -25,8 +25,8 @@
 |Diameter	                    | 2160 miles    |  1/4 (0.25)   | 
 |Mass	  	                    |               | 1/81 (0.012)  |
 |Surface Gravity	            | 1.6 m/s2      |  1/6 (0.17)   |
-|Temperature (Sunlight)	        | 110&deg;C (212&deg;F) |               |	  
-|Temperature (Shadow/Dark)      | -180&deg;C (-290&deg;F)|	            |
+|Temperature (Sunlight)	        | 110 &deg;C (212 &deg;F) |               |	  
+|Temperature (Shadow/Dark)      | -180 &deg;C (-290 &deg;F)|	            |
 |Density (gram/cubic cm) 		| 3.34 gm/cm3	|  0.61         |
 |                               |               |               |
 
