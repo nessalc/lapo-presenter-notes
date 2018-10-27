@@ -1,8 +1,8 @@
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](../!open-cluster-info) > [H-X Persei](../hxpersei)|  |
+|[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](../!open-cluster-info) > [h and Chi Persei](../hxpersei)|  |
 
-# h and chi (χ) Persei
+# h and Chi (χ) Persei
 Open Star Cluster
 
 |   |   |   |   |
@@ -43,7 +43,7 @@ Open Star Cluster
 
 2.	The two clusters are several hundred light years apart, they just happen to be in the same direction when seen from Earth.
  
-3.  h Persei
+3.  h Persei (NGC 869)
 
     a.	about 7,100 light years away
 
@@ -53,7 +53,7 @@ Open Star Cluster
 
     d.	Has a total mass of about 3700 of our suns.
 
-4.	χ Persei
+4.	χ Persei (NGC 884)
 
     a.	about 7,400 light years distant.
 
@@ -65,7 +65,7 @@ Open Star Cluster
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](../!open-cluster-info) > [H-X Persei](../hxpersei) > Reference|[top](../hxpersei)|
+|[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](../!open-cluster-info) > [h and Chi Persei](../hxpersei) > Reference|[top](../hxpersei)|
 
 ###### References
 

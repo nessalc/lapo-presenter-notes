@@ -19,7 +19,7 @@ Red Giant Star
 |  |**Actual**|**Compared to Sun**|
 |**Distance**| ~65 ly|--|
 |**Actual Brightness**|--| 141 |
-|**Surface Temperature**| ~6,700&deg; K| ~0.69 |
+|**Surface Temperature**| ~6,700 &deg;F| ~0.69 |
 |**Diameter**| -- | 44 |
 |**Mass**|--| -- |
 |**Surface Gravity**|--|--|

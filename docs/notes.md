@@ -112,7 +112,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [M92](star-clusters/globular/m92.md)
 - #### Open
     - [Open Star Clusters](star-clusters/open/!open-cluster-info.md)
-    - [H and X Persei](star-clusters/open/hxpersei.md)
+    - [h and Chi Persei](star-clusters/open/hxpersei.md)
     - [M11](star-clusters/open/m11.md)
     - [M16](star-clusters/open/m16.md)
     - [M24](star-clusters/open/m24.md)

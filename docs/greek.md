@@ -1,5 +1,10 @@
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Greek Letters](#greek-alphabet) |   |
+|   |   |
+
 # Greek Alphabet 
-Greek small letters used for designating the primary stars of a constellation in the order of brightest magnitude to least.
+Greek small letters used for designating the primary stars of a constellation, the Bayer Designation<a href="#footnote1" id="footnoteRef1"><sup>1</sup></a>, in the order of brightest magnitude to least.
 
 
 ---
@@ -35,3 +40,13 @@ Greek small letters used for designating the primary stars of a constellation in
 |&chi;|Chi|
 |&psi;|Psi|
 |&omega;|Omega|
+
+
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > [Greek Letters](#greek-alphabet) > Reference|[top](#greek-alphabet)|
+
+###### References
+|   |    |    |
+|---|:--:|:---|
+|<a id="footnote1" href="#footnoteRef1">1:</a> Bayer Designation|2018-10|<https://en.wikipedia.org/wiki/Bayer_designation>|

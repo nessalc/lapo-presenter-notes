@@ -19,7 +19,7 @@ Red Supergiant Star
 |  |**Actual**|**Compared to Sun**|
 |**Distance**| ~604 ly|--|
 |**Actual Brightness**|--| 10,100 |
-|**Surface Temperature**| ~5,900&deg; K| ~0.6 |
+|**Surface Temperature**| ~5,900 &deg;F| ~0.6 |
 |**Diameter**| ~500 million miles | 575 |
 |**Mass**|--| 15 - 18 |
 |**Surface Gravity**|--|--|

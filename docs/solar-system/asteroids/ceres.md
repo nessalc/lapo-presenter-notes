@@ -26,8 +26,7 @@ Asteroid (Dwarf Planet)
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid-info) > [Ceres](#ceres)
- > References|[top](#ceres)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid-info) > [Ceres](#ceres) > References|[top](#ceres)|
 
 ###### References
 

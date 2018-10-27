@@ -18,7 +18,7 @@ Solar Type Star
 |  |**Actual**|**Compared to Sun**|
 |**Distance**| ~11.4 ly|--|
 |**Actual Brightness**|--|--|
-|**Surface Temperature**| ~6000&deg; K| ~1.03 |
+|**Surface Temperature**| ~6000 &deg;K| ~1.03 |
 |**Diameter**|--|--|
 |**Mass**|--|--|
 |**Surface Gravity**|--|--|
