@@ -1,4 +1,6 @@
-<p><a href="/">Home</a> > Stars > Red > Giant > <a href=".">S Cephei</a> </p>
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > Red > [Red Giant Stars](../!red-giant-stars) > [S Cephei](#s-cephei)|  |
 
 # S Cephei 
 Red Giant Star
@@ -23,35 +25,38 @@ Red Giant Star
 |<b>Surface Composition</b> (by mass)|74% hydrogen<br>24% helium<br>2% everything else|same|
 |<b>Spectral Type</b>|C6 II|G2 V|
 |<b>Density</b> (gram/cubic cm)|--|--|
+|   |   |   |
 
-<hr/>
+---
+#### What To Look For Through The Telescope
+---
 
+1.  Recommended eyepiece: 24mm or 40 mm.
 
-## What To Look For Through The Telescope
+1.  When people look through the telescope a bright reddish-orange point of light should be seen.
 
-1.	Recommended eyepiece: 24mm or 40 mm.
-
-2.	When people look through the telescope a bright reddish-orange point of light should be seen.
-
-<hr/>
-
+---
 ## S Cephei Information:
+---
 
-1.	S Cephei is a C type star – a “carbon” star.  Carbon stars are stars with more carbon in them than other stars.
+1.  S Cephei is a C type star – a “carbon” star.  Carbon stars are stars with more carbon in them than other stars.
 
-2.	This star is called a red giant star, which means it’s left the main sequence and is approaching the end of its life.
- 
+1.  This star is called a red giant star, which means it’s left the main sequence and is approaching the end of its life.
 
-3.	S Cephei, like many red giant stars, is a variable star.  Its magnitude varies from 7.4 to 12.9 over a period of nearly 490 days because the star is actually swelling and then contracting.
+1.  S Cephei, like many red giant stars, is a variable star.  Its magnitude varies from 7.4 to 12.9 over a period of nearly 490 days because the star is actually swelling and then contracting.
 
-<br/><br/>
-<hr/>
 
-#### Fact Checker
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > Red > [Red Giant Stars](../!red-giant-stars) > [S Cephei](#s-cephei) | [top](#s-cephei) |
+|    |    |
 
-|  |  |  |
-|--|--|--|
-|<b>Item</b>|<b>Updated</b>|<b>Notes</b>|
+
+###### References
+
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**| 
 |Coordinates|2003-09-12|checks with both SIMBAD and Hipparcos|
 |Distance|2003-09-19|SIMBAD and Hipparcos give 2.41 mas parallax|
 |Actual Brightness|--|  |
@@ -62,4 +67,4 @@ Red Giant Star
 |Surface Composition|2003-09-12|OK for all stars|
 |Spectral Type|2003-12-05|SIMBAD says “C II...” <br/>while Hipparcos says “C6 II”<br/>I’m going with Hipparcos|
 |Density|–-|  |
-|Other Information|2003-09-19|variation info from<br/> http://www.dibonsmith.com/cep_con.htm|
+|Other Information|2003-09-19|variation info from<br/> <http://www.dibonsmith.com/cep_con.htm>|
