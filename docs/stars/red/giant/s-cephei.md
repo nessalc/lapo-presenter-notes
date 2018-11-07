@@ -7,24 +7,24 @@ Red Giant Star
 
 |   |   |   |   |
 |--:|:--|--:|:--|
-|<b>Right Ascension</b>|21h 35m 13s|<b>Best Seen</b>|all year|
-|<b>Declination</b>|78&deg; 37' 28"|<b>Magnitude</b>|7.4 - 12.9|
-|  |  |<b>Constellation</b>|Cepheus|
+|**Right Ascension**|21h 35m 13s|**Best Seen**|all year|
+|**Declination**|78&deg; 37' 28"|**Magnitude**|7.4 - 12.9|
+|  |  |**Constellation**|Cepheus|
 |  |  |  |
 
 	
 |  |  |  |
 |--|:--:|:--:|
-|  |<b>Actual</b>|<b>Compared to Sun</b>|
-|<b>Distance</b>|1350 ly|--|
-|<b>Actual Brightness</b>|--|--|
-|<b>Surface Temperature</b>|~ 4,700 &deg;F|~ 0.50|
-|<b>Diameter</b>|--|--|
-|<b>Mass</b>|--|--|
-|<b>Surface Gravity</b>|--|--|
-|<b>Surface Composition</b> (by mass)|74% hydrogen<br>24% helium<br>2% everything else|same|
-|<b>Spectral Type</b>|C6 II|G2 V|
-|<b>Density</b> (gram/cubic cm)|--|--|
+|  |**Actual**|**Compared to Sun**|
+|**Distance**|1350 ly|--|
+|**Actual Brightness**|--|--|
+|**Surface Temperature**|~ 4,700 &deg;F|~ 0.50|
+|**Diameter**|--|--|
+|**Mass**|--|--|
+|**Surface Gravity**|--|--|
+|**Surface Composition** (by mass)|74% hydrogen<br>24% helium<br>2% everything else|same|
+|**Spectral Type**|C6 II|G2 V|
+|**Density** (gram/cubic cm)|--|--|
 |   |   |   |
 
 ---

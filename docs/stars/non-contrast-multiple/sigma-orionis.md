@@ -1,260 +1,133 @@
-	SIGMA (σ) ORIONIS
-	MULTIPLE STAR
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Multiple Stars](../!non-contrast-multiple-star-info) > [Sigma Orionis](../sigma-orionis)|  |
+
+#  Sigma (&sigma;) Orionis
+Multiple Star System
 
 
-
-Right Ascension:	
-5h 38m 45s	
-	
-Best Seen:	
-1/1 - 3/15
-
-Declination:	
--2º 36' 00"	
-Combined	
-Magnitude:	
-3.73
-
-	
-	
-	
-	
+|   |   |   |   |
+|--:|:--|--:|:--|
+|**Right Ascension**|5h 38m 45s|**Best Seen**| 1/1 - 3/15 |
+|**Declination**|-2&deg; 36' 00"|**Combined Magnitude**| 3.73 |
+|**Apparent Separation** | 41.0" |**Constellation**| Orion |
+|   |   |   |   |
 
 
-Computer File:	
-sigmaori	
-	
-Constellation:	
-Orion
+|   |   |   |
+|---|:---:|:---:|
+|   | <br/>**Actual**| **Compared<br/>to Sun** |
+|**Distance** | 1,150 ly | -- |
+|**Separation** | ~ 1.5 trillion miles | 17,000 au |
+|**Orbital Period** | varies - see below | -- |
+|**Actual Brightness** | varies - see below | -- |
+|**Magnitude** | varies - see below | -- |
+|**Mass**	             | -- | -- |
+|**Surface Gravity**	 | -- | -- |
+|**Surface Composition** (by mass) |74% hydrogen<br/>24% helium<br/>2% everything else| same |
+|**Spectral Type**       | 09 V / B2 V / B2 V | G2 V | 
+|**Density** (gram/cubic cm) | -- | -- | 
 
-	
-	
-Apparent	
-Separation:	
-41.0"
+---
+#### What To Look For Through The Telescope
+---
 
+1.  Recommended eyepiece: 24mm or 40 mm.
 
+1.  When people look through the telescope they should see at least three stars near each other.
 
-
-
-	
-	
-Actual	
-	
-Compared to
-
-Distance	
-	
-1,150 l.y.	
-	
---
-
-Separation	
-	
-~ 1.5 trillion miles	
-	
-~ 17,000 Earth/Sun
-
-Orbital Period	
-	
-varies - see below	
-	
---
-
-Actual Brightness	
-	
---	
-	
-varies - see below
-
-Magnitude	
-	
-varies - see below	
-	
---
-
-Mass	
-	
---	
-	
---
-
-Surface Gravity	
-	
---	
-	
---
-
-Surface Composition (by mass)	
-	
-74% hydrogen
-24% helium
-2% everything else	
-	
-
-same  (Sun)
-
-Spectral Type	
-	
-O9 V / B2 V / B2 V	
-	
-G2 V  (Sun)
-
-Density (gram/cubic cm)	
-	
-	
-	
-
-
-
-
-
-
-WHAT TO LOOK FOR THROUGH THE TELESCOPE:
-
-1.	Recommended eyepiece: 24mm or 40 mm.
-
-2.	When people look through the telescope they should see at least three stars near each other.
-
-
-SIGMA ORIONIS INFORMATION:
-
+---
+## Sigma Orionis Information:
+---
  
-1.	This system actually consists of five stars, three – maybe four – of which can be seen with the telescope.
+1.  This system actually consists of five stars, three – maybe four – of which can be seen with the telescope.
 
-2.	The “major” stars are Stars AB and Star E.  They are about 1.5 trillion miles away from each other.
+1.  The "major" stars are Stars AB and Star E.  They are about 1.5 trillion miles away from each other.
 
-3.	The brighter star is actually two stars, “A” and “B.”
+1.  The brighter star is actually two stars, "A" and "B"
 
-a.	Apparent separation between stars A and B:   0.25".
+    |    |    |
+    |---:|:---|
+    |**Apparent Separation**| ~ 0.25"<br/>between A and B |
+    |**Actual Distance**| ~ 90 au<br/>between A and B<br/>only takes about 170 years to orbit each other |
+    |    |    |
+    
+    c.  Star A
 
-b.	Actual distance between the two: about 90 AU’s – they only take about 170 years to orbit each other.
+    |    |    |
+    |---:|:---|
+    |**Actual brightness**| about 2400 times that of the Sun|
+	|**Magnitude**|4.1|
+	|**Spectral Type**| O9.5 |
+    |    |    |
 
-c.	Star A
-1.	Actual brightness of Star A: about 2400 times that of the Sun.
-2.	Magnitude of Star A:   4.1.
-3.	Spectral type of Star A:   O9.5.
+    d.  Star B
 
-d.	Star B
-1.	Actual brightness for Star B: about 778 times that of the Sun.
-2.	Magnitude of Star B:   5.2.
-3.	Spectral type of Star B:   B0.5
+    |    |    |
+    |---:|:---|
+    |**Actual brightness**| about 778 times that of the Sun|
+	|**Magnitude**|5.2|
+	|**Spectral Type**| B0.5 |
+    |    |    |
 
+    e.  Star C (star closest to Star AB)
 
-4.	The star closest to Star AB is Star C.
-a.	Apparent separation between AB and C:   about 11.0".
-b.	Actual distance between AB and C:   about 3900 AU’s.
-c.	Magnitude of Star C:  ninth.
-d.	Spectral type of Star C:   A.
-   
+    |    |    |
+    |---:|:---|
+    |**Apparent Separation**| ~ 11.0"<br/>between AB and C |
+    |**Actual Distance**| ~ 3,900 au<br/>between AB and C |
+	|**Magnitude**| ~ 9 |
+	|**Spectral Type**| A |
+    |   |    |
 
-5.	Further away from AB, but brighter than C, are two other stars, Stars D and E.
+1.  Further away from AB, but brighter than C, are two other stars, Stars D and E.
 
-a.	Star D
-1.	Apparent separation between AB and D:   about 12.0".
-2.	Actual distance between AB and D:   about 4,600 AU’s.
-3.	Actual brightness of Star D:   about 171 times that of the Sun.
-4.	Magnitude of Star D:   seventh.
-5.	Spectral type of Star D:   B2
+    a.  Star D
 
-b.	Star E
-1.	Apparent separation between AB and E:   about 41.0".
-2.	Actual distance between AB and E:   about 15,000 AU’s
-3.	Actual brightness of Star E:   about 212 times that of the Sun.
-4.	Magnitude of Star E:   seventh.
-5.	Spectral type of Star E:   B2.
-
-
-
-
-
-
-
-
- 
-
-
+    |    |    |
+    |---:|:---|
+    |**Apparent Separation**| ~ 12.0"<br/>between AB and D |
+    |**Actual Distance**| ~ 4,600 au<br/>between AB and D |
+    |**Actual Brightness**| ~ 171 x Sun |
+	|**Magnitude**| ~ 7 |
+	|**Spectral Type**| B2 |
+    |   |    |
 
 
+    b.  Star E
 
-For Greg: spacing in previous info section was intentional: kept star-specific info single spaced to save room, and hopefully to provide visual clues for what info goes with what.
-
-More for Greg: here’s what was written previously...
-
-
-1.	This system consists of five visible components (three of which can be seen with our telescope).
-   
-2.	Close pair “A” and “B” are 0.25" apart with a period of 170 years and combined mass of 35 solar masses.  The spectral type of “A” is O9; “B” is B3.
-   
-3.	“C” is 10th magnitude; 11.2" away from “A” and “B”; spectral type A2.
-   
-4.	“D” is 7.5 magnitude; 12.9" away from “A” and “B”; spectral type B2
-   
-   5a.  “E” is 6th magnitude; 42" away from “A” and “B”; spectral type O9; and a luminosity             900 times the sun’s.
-
-   5b.  This star has an 8th magnitude companion 30" away.
-
-   5c.  Separation between “A” and “E” is at least 20,000 astronomical units or about 1/3            of a light year.
+    |    |    |
+    |---:|:---|
+    |**Apparent Separation**| ~ 41.0"<br/>between AB and E |
+    |**Actual Distance**| ~ 15,000 au<br/>between AB and E |
+    |**Actual Brightness**| ~ 212 x Sun |
+	|**Magnitude**| ~ 7 |
+	|**Spectral Type**| B2 |
+    |    |    |
 
 
 
-Item	
-Updated	
-Notes
+|    |    |
+|:---|---:|
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Multiple Stars](../!non-contrast-multiple-star-info) > [Sigma Orionis](../sigma-orionis) | [top](#sigma-orionis)|
 
-Coordinates	
-10-14-2002	
-tweaked a bit
+###### References
 
-Combined Magnitude	
-10-18-2002	
-OK with Scott’s The Flamsteed Collection
-
-Apparent Separation	
-11-08-2002	
-based on coordinates given in Flamsteed
-
-Distance	
-10-18-2002	
-previous: 1400 ly – BUT updated with Scott’s Flamsteed
-
-Separation	
-11-08-2002	
-previous: actual: 1600 trillion miles  – BUT “compared to sun” gives approx right answer  
-
-Orbital Period	
-	
-
-
-Actual Brightness	
-11-08-2002	
-previous: 5,000 (Sun)
-
-Magnitude	
-11-08-2002	
-too many to put in table
-
-Mass	
---	
-
-
-Surface Gravity	
---	
-
-
-Surface Composition	
-01-06-2003	
-OK for all stars
-
-Spectral Type	
-11-08-2002	
-based on Star AB and Star E
-
-Density	
---	
-
-
-Other Information	
-11-08-2002	
-info from Flamsteed, Scott’s Starlist 2000, and http://www.astro.uiuc.edu/~kaler/sow/sigmaori.html
+|   |   |   |
+|---|---|---|
+|**Item**|**Updated**|**Notes**| 
+|Coordinates|2002-10-14|tweaked a bit|
+|Combined Magnitude|2002-10-18|OK with Scott’s The Flamsteed Collection|
+|Apparent Separation|2002-11-08|based on coordinates given in Flamsteed|
+|Distance|2002-10-18|previous: 1400 ly – BUT updated with Scott’s Flamsteed|
+|Separation|2002-11-08|previous: actual: 1600 trillion miles  – BUT "compared to sun" gives approx right answer|
+|Orbital Period| -- |   |
+|Actual Brightness|2002-11-08|previous: 5,000 (Sun)|
+|Magnitude|2002-11-08|too many to put in table|
+|Mass| -- |   |
+|Surface Gravity| -- |   |
+|Surface Composition|2003-01-06|OK for all stars|
+|Spectral Type|2002-11-08|based on Star AB and Star E|
+|Density| -- |   |
+|Other Information|2002-11-08|info from Flamsteed, Scott’s Starlist 2000, and <http://www.astro.uiuc.edu/~kaler/sow/sigmaori.html>|
 

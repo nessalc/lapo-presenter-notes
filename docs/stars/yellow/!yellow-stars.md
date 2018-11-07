@@ -9,7 +9,7 @@ General Information
 
     |  | |
     |--|--|
-    |<b>By Mass</b>| |
+    |**By Mass**| |
     |74% Hydrogen| |
     |24% Helium| |
     |2% of everything else| |

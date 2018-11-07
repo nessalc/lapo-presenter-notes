@@ -1,5 +1,9 @@
 # Reference Sites
 
+### American Association of Variable Star Observers
+ - <https://www.aavso.org>
+
+
 ### Astronomy Picture of the Day (APOD)
  - <https://apod.nasa.gov/apod/>
 
