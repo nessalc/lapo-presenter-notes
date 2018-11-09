@@ -90,12 +90,12 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [Zeta Ursae Majoris](./stars/non-contrast-multiple/zeta-ursae-majoris.md)
 - ##### non-Contrast Optical Double
     - [non-Contrast Optical Double Stars](./stars/non-contrast-optical-double/!non-contrast-optical-double-star-info.md)
-    - [Alpha Canes Venatici](./stars/non-contrast-optical-double/alpha-canes-venatici.md)
-    - [Alpha Capricornus](./stars/non-contrast-optical-double/alpha-capricornus.md)
-    - [Scorpius](./stars/non-contrast-optical-double/beta-scorpius.md)
-    - [Delta Cepheus](./stars/non-contrast-optical-double/delta-cepheus.md)
-    - [Epsilon Lyra](./stars/non-contrast-optical-double/epsilon-lyra.md)
-    - [Gamma Delphinus](./stars/non-contrast-optical-double/gamma-delphinus.md)
+    - [Alpha Canum Venaticorum](./stars/non-contrast-optical-double/alpha-canum-venaticorum.md)
+    - [Alpha Capricorni](./stars/non-contrast-optical-double/alpha-capricorni.md)
+    - [Beta Scorpii](./stars/non-contrast-optical-double/beta-scorpii.md)
+    - [Delta Cephei](./stars/non-contrast-optical-double/delta-cephei.md)
+    - [Epsilon Lyrae](./stars/non-contrast-optical-double/epsilon-lyrae.md)
+    - [Gamma Delphini](./stars/non-contrast-optical-double/gamma-delphini.md)
 - ##### with Planets
     - [47 Ursae Majoris](./stars/with-planets/47-ursae-majoris.md)
 

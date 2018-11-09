@@ -14,32 +14,16 @@ Greek small letters used for designating the primary stars of a constellation, t
 ---
 
 
-|   |   |
-|---:|:---|
-|&alpha;|Alpha|
-|&beta; |Beta|
-|&gamma;|Gamma|
-|&delta;|Delta|
-|&epsilon;|Epsilon|
-|&zeta;|Zeta|
-|&eta;|Eta|
-|&theta;|Theta|
-|&iota;|Iota|
-|&kappa;|Kappa|
-|&lambda;|Lambda|
-|&mu;|Mu|
-|&nu;|Nu|
-|&xi;|Xi|
-|&omicron;|Omicron|
-|&pi;|Pi|
-|&rho;|Rho|
-|&sigma;|Sigma|
-|&tau;|Tau|
-|&upsilon;|Upsilon|
-|&phi;|Phi|
-|&chi;|Chi|
-|&psi;|Psi|
-|&omega;|Omega|
+|         |       |   |         |       |   |         |       |
+|--------:|:------|   |--------:|:------|   |--------:|:------|
+|&alpha;  |Alpha  |   |&iota;   |Iota   |   |&rho;    |Rho    |
+|&beta;   |Beta   |   |&kappa;  |Kappa  |   |&sigma;  |Sigma  |
+|&gamma;  |Gamma  |   |&lambda; |Lambda |   |&tau;    |Tau    |
+|&delta;  |Delta  |   |&mu;     |Mu     |   |&upsilon;|Upsilon|
+|&epsilon;|Epsilon|   |&nu;     |Nu     |   |&phi;    |Phi    |
+|&zeta;   |Zeta   |   |&xi;     |Xi     |   |&chi;    |Chi    |
+|&eta;    |Eta    |   |&omicron;|Omicron|   |&psi;    |Psi    |
+|&theta;  |Theta  |   |&pi;     |Pi     |   |&omega;  |Omega  |
 
 
 |    |    |
