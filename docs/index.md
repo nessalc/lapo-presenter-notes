@@ -8,3 +8,11 @@
 1.  Add Notes > [Telescope](telescope) page - with details about Observatory's telescopes
 
 1.  Updated and Completed formatting of many notes pages
+
+Next up...
+
+1.  Adding additional content
+
+1.  Adding "What's Up!" links to each object page - check out [M13](star-clusters/globular/m13.md) in upper right corner
+
+Please email _**caketron@cox.net**_ with any suggestions, corrections or additional content ideas.
