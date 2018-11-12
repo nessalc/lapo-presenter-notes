@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Gamma Leonis"
+	var objectDesc ="Multiple Star System"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Non-Contrast Multiple Stars](../!non-contrast-multiple-star-info) > [Gamma Leonis](../gamma-leonis)|  |
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Multiple Stars](../!non-contrast-multiple-star-info) > [Gamma Leonis](../gamma-leonis)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 #  Gamma (&gamma;) Leonis
 Multiple Star System

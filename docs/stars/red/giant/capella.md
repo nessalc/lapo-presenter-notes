@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Capella"
+	var objectDesc ="Alpha Aurigae<br/>Red (Yellow) Giant Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > Red > [Red Giant Stars](../!red-giant-stars) > [Alpha Aurigae](#alpha-aurigae)|  |
+|[Home](/notes/#object-notes) > Stars > Red > [Red Giant Stars](../!red-giant-stars) > [Alpha Aurigae](#alpha-aurigae)|  -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Alpha (&alpha;) Aurigae
 Capella<br/>

@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Antares"
+	var objectDesc ="Alpha Scorpii<br/>Red Supergiant Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > Red > [Red Supergiant Stars](../!red-supergiant-stars) > [Alpha Scorpii](#alpha-scorpii)|  |
+|[Home](/notes/#object-notes) > Stars > Red > [Red Supergiant Stars](../!red-supergiant-stars) > [Alpha Scorpii](#alpha-scorpii)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Alpha (&alpha;) Scorpii
 Antares<br/>

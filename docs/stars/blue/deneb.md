@@ -9,7 +9,7 @@
 |[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Deneb](#deneb)|  -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Deneb
-Alpha (α) Cygni<br/>
+Alpha (&alpha;) Cygni<br/>
 Blue Star
 
 |   |   |   |   |

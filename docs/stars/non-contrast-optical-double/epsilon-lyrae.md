@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Epsilon Lyrae"
+	var objectDesc ="Optical Double-Double Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Epsilon Lyrae](../epsilon-lyrae)|  |
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Epsilon Lyrae](../epsilon-lyrae)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Epsilon (&epsilon;) Lyrae
 Optical Double-Double Star

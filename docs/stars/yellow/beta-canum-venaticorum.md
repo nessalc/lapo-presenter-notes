@@ -1,10 +1,16 @@
+<script>
+	var objectName ="Chara"
+	var objectDesc ="Beta (β) Canum Venaticorum<br/>Yellow Solar Type Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Beta Canum Venaticorum](#beta-canum-venaticorum)|  |
+|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Beta Canum Venaticorum](#beta-canum-venaticorum)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
-# Beta (β) Canum Venaticorum 
+# Beta (&beta;) Canum Venaticorum 
 Chara<br/>
-Solar Type Star
+Yellow Solar Type Star
 
 |   |   |   |   |
 |--:|:--|--:|:--|

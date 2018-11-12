@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Graffias"
+	var objectDesc ="Beta Scorpii<br/>Optical Double Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Beta Scorpii](../beta-scorpii)|  |
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Beta Scorpii](../beta-scorpii)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Beta (&beta;) Scorpii
 Graffias<br/>

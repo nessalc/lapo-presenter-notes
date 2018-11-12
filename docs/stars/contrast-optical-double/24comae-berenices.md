@@ -1,6 +1,12 @@
+<script>
+	var objectName ="24 Comae Berenices"
+	var objectDesc ="Contrast Optical Double Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Contrast Optical Double](../!contrast-optical-double-star-info) > [24 Comae Berenices](../24comae-berenices)|  |
+|[Home](/notes/#object-notes) > Stars > [Contrast Optical Double](../!contrast-optical-double-star-info) > [24 Comae Berenices](../24comae-berenices)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # 24 Comae Berenices
 Contrast Optical Double Star

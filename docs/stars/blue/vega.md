@@ -1,9 +1,15 @@
+<script>
+	var objectName ="Vega"
+	var objectDesc ="Alpha Lyrae</br>Blue Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Vega](#vega)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Vega](#vega)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Vega
-Alpha (α) Lyrae<br/>
+Alpha (&alpha;) Lyrae<br/>
 Blue Star
 
 |   |   |   |   |

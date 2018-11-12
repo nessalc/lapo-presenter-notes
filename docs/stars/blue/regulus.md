@@ -1,9 +1,15 @@
+<script>
+	var objectName ="Regulus"
+	var objectDesc ="Alpha Leonis</br>Blue Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Regulus](#regulus)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Regulus](#regulus)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Regulus
-Alpha (α) Leonis<br/>
+Alpha (&alpha;) Leonis<br/>
 Blue Star
 
 |   |   |   |   |

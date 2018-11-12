@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Mizar"
+	var objectDesc ="Zeta Ursae Majoris<br/>Multiple Star System"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Non-Contrast Multiple Stars](../!non-contrast-multiple-star-info) > [Zeta Ursae Majoris](../zeta-ursae-majoris)|  |
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Multiple Stars](../!non-contrast-multiple-star-info) > [Zeta Ursae Majoris](../zeta-ursae-majoris)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Zeta (&zeta;)	Ursae Majoris
 Mizar<br/>

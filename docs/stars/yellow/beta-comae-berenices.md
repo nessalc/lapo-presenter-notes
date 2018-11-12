@@ -1,9 +1,15 @@
+<script>
+	var objectName ="Beta Comae Berenices"
+	var objectDesc ="Yellow Solar Type Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Beta Comae Berenices](#beta-comae-berenices)|  |
+|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Beta Comae Berenices](#beta-comae-berenices)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
-# Beta (β) Comae Berenices
-Solar Type Star
+# Beta (&beta;) Comae Berenices
+Yellow Solar Type Star
 
 |   |   |   |   |
 |--:|:--|--:|:--|

@@ -1,9 +1,15 @@
+<script>
+	var objectName ="Xi Ursae Majoris"
+	var objectDesc ="Yellow Solar Type Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Xi Ursae Majoris](#xi-ursae-majoris)|  |
+|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Xi Ursae Majoris](#xi-ursae-majoris)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Xi (&xi;) Ursae Majoris 
-Solar Type Star
+Yellow Solar Type Star
 
 |   |   |   |   |
 |--:|:--|--:|:--|

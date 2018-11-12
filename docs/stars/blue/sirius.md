@@ -1,9 +1,15 @@
+<script>
+	var objectName ="Sirius"
+	var objectDesc ="Alpha Canis Majoris</br>Blue Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Sirius](#sirius)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Sirius](#sirius)|-- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Sirius
-Alpha (α) Canis Majoris<br/>
+Alpha (&alpha;) Canis Majoris<br/>
 Blue Star
 
 |   |   |   |   |

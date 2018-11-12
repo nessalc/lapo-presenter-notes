@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Gamma Delphini"
+	var objectDesc ="Optical Double Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Gamma Delphini](../gamma-delphini)|  |
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Gamma Delphini](../gamma-delphini)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Gamma (&gamma;) Delphini
 Optical Double Star

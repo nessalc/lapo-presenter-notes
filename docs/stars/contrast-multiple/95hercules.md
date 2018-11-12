@@ -1,6 +1,12 @@
+<script>
+	var objectName ="95 Herculis"
+	var objectDesc ="Contrast Multiple Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Contrast Multiple Stars](../!contrast-multiple-star-info) > [95 Herculis](#95-herculis)|  |
+|[Home](/notes/#object-notes) > Stars > [Contrast Multiple Stars](../!contrast-multiple-star-info) > [95 Herculis](#95-herculis)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # 95 Herculis
 Contrast Multiple Star
