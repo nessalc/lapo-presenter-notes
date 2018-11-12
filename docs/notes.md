@@ -17,6 +17,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [Mercury](solar-system/mercury.md)
     - [Venus](solar-system/venus.md)
     - Earth
+        - [Clouds](solar-system/clouds.md)
         - [The Moon](solar-system/moon.md)
     - [Mars](solar-system/mars.md)
     - [Jupiter](solar-system/jupiter.md)

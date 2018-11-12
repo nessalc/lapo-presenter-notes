@@ -1,6 +1,11 @@
 [Presenter Notes](notes)...<br/>
 <img src="./img/logo-lapo.svg" width="600" height="600" title="LAPO"/>
+
 <br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
+
 ### Latest Updates...
 
 1.  Search function now works

@@ -1,6 +1,12 @@
+<script>
+	var objectName ="Deneb"
+	var objectDesc ="Alpha Cygni</br>Blue Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Deneb](#deneb)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Deneb](#deneb)|  -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Deneb
 Alpha (α) Cygni<br/>

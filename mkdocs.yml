@@ -17,6 +17,7 @@ nav:
       - Telescope: 'telescope.md'
       - Greek Letters: 'greek.md'
       - Reference Sites: 'reference.md'
+      - Image Credits: 'img/image-credits.md'
 
     - Objects:
       - Solar System:
@@ -24,6 +25,7 @@ nav:
         - 'Mercury': 'solar-system/mercury.md'
         - 'Venus': 'solar-system/venus.md'
         - Earth:
+          - 'Clouds': 'solar-system/clouds.md'
           - 'Moon': 'solar-system/moon.md'
         - 'Mars': 'solar-system/mars.md'
         - 'Jupiter': 'solar-system/jupiter.md'

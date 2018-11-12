@@ -1,9 +1,15 @@
+<script>
+	var objectName ="Altair"
+	var objectDesc ="Alpha Aquilae</br>Blue Star"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Altair](#altair)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Altair](#altair)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Altair
-Alpha (α) Aquilae<br/>
+Alpha (&alpha;) Aquilae<br/>
 Blue Star
 
 |   |   |   |   |

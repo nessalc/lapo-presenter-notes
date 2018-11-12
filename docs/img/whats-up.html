@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Object and Program notes for use during the public program at the Lake Afton Public Observatory's 16-inch telescope">
+        <meta name="author" content="Chris Ketron">
+        <link rel="canonical" href="http://lake-afton-presenter-notes.readthedocs.io/en/latest/">
+        <link rel="shortcut icon" href="/img/favicon.ico">
+        <title>Lake Afton Public Observatory</title>
+        <link href="/css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="/css/font-awesome.min.css" rel="stylesheet">
+        <link href="/css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/darcula.min.css">
+        <link href="/css/nightvision.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="/js/jquery-1.10.2.min.js" defer></script>
+        <script src="/js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+    <style>
+        body {
+            overflow:hidden;
+        }
+        table {
+            background-color: black;
+            width: 100%;
+            margin:auto;
+        }
+        tr {
+            background-color: black;
+        }
+        td {
+            background-color: black;
+            text-align: center;
+        }
+        h2 {
+            font-weight:900;
+        }
+     </style>
+     <script>
+        // The following sourced from https://davidwalsh.name/query-string-javascript
+        function getUrlParameter(name) {
+            name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+            var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+            var results = regex.exec(location.search);
+            return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+        };
+
+        function loadObjectInfo()
+        {
+            var image = getUrlParameter("image");
+            var name = getUrlParameter("name");
+            var desc = getUrlParameter("desc");
+
+            document.getElementById("objectName").innerHTML = "<h2>" + name + "</h2>";
+            document.getElementById("objectDescription").innerHTML = "<h3>" + desc + "</h3>";
+            if (image == "other")
+            {
+                document.getElementById("objectImage").innerHTML =
+                    '<img src="/img/whats-up/empty.jpg" width="600" />';
+            }
+            else if (image != "" )
+            {
+                document.getElementById("objectImage").innerHTML =
+                    '<a href="/img/image-credits/#' + name + '"><img src="/img/whats-up/' + image + '" title="Image Credit: ' + name + '"/><br/>&nbsp;</a>';
+            }
+            else
+            {
+                document.getElementById("objectImage").innerHTML = "";
+            }
+        };
+        </script>
+    <body onload="loadObjectInfo()">
+        <table>
+            <tr >
+                <td >
+                    <img src="/img/logo-lapo.svg" width="250" height="250" title="LAPO"/>
+                </td>
+                <td rowspan="3">
+                    <div id=objectImage >
+                        <img src="/img/whats-up/empty.jpg" width="600" title="name"/><br/>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td >
+                    <h1>Live at the Scope Now</h1>
+                    <br/>
+                    <div id=objectName><h2>name</h2></div>
+                    <div id=objectDescription><h3>desc</h3></div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <br/><br/><br/><br/><br/>
+                    <br/><br/><br/><br/><br/>
+                </td>
+            </tr>
+        </table>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>&copy; 2017 Lake Afton Public Observatory</p>
+        </footer>
+      
+    </body>
+</html>
+

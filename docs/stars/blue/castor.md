@@ -1,11 +1,17 @@
+<script>
+	var objectName ="Castor"
+	var objectDesc ="Alpha Geminorum</br>Blue Star<br/>Non-Contrast Multiple Star System"
+	var objectImage=""
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Castor](#castor)|  |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Castor](#castor)|  -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
 
 # Castor
-Alpha (α) Geminorum<br/>
+Alpha (&alpha;) Geminorum<br/>
 Blue Star<br/>
-Non-Contrast Multiple System
+Non-Contrast Multiple Star System
 
 
 |   |   |   |   |
