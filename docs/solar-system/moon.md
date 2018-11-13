@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="The Moon"
+	var objectDesc ="Earth's Satellite"
+	var objectImage="moon.png"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Earth](/notes/#planets) > [Moon](#moon) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Earth](/notes/#planets) > [Moon](#moon) | <div id=whatsup></div> |
 
 # Moon
 ## Table of Contents

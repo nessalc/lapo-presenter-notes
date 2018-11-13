@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="The Sun"
+	var objectDesc ="Energy of the Solar System"
+	var objectImage="sun.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Sun](#sun) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Sun](#sun) | <div id=whatsup></div> |
 
 # Sun
 
@@ -31,4 +38,4 @@
 |   |   |   |
 |---|---|---|
 |**Item**|**Updated**|**Notes**|
-| -- | -- | -- |
+| Overview | 2018-11-12 | <https://solarsystem.nasa.gov/solar-system/sun/overview/> |

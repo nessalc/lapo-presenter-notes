@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Venus"
+	var objectDesc ="Earth's Closest Planetary Neighbor"
+	var objectImage="venus.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Venus](#venus) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Venus](#venus) |  <div id=whatsup></div> |
 
 # Venus
 

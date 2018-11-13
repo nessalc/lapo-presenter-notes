@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Jupiter"
+	var objectDesc ="Largest Planet in the Solar System"
+	var objectImage="jupiter.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Jupiter](#jupiter) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Jupiter](#jupiter) | <div id=whatsup></div> |
 
 # Jupiter
 

@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Uranus"
+	var objectDesc ="It's pronounced: YOOR-un-us"
+	var objectImage="uranus.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Uranus](#uranus) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Uranus](#uranus) | <div id=whatsup></div> |
 
 # Uranus
 

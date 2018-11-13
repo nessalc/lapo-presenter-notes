@@ -1,8 +1,15 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="4 Vesta"
+	var objectDesc ="Asteroid (Dwarf Planet)"
+	var objectImage="other"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid_info) > [4 Vesta](#4-vesta)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid_info) > [4 Vesta](#4-vesta)| <div id=whatsup></div> |
 
-#4 VESTA
+# 4 Vesta
 Asteroid (Dwarf Planet)
 
 |  |  |  |

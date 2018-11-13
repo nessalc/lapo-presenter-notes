@@ -3,6 +3,12 @@
 
 A special page has been added to these notes to support displaying images of the object that is currently in the 16" Telescope on the three monitors in the Observatory.  Just click the "what's up?" link in the upper-right corner of any notes page that has that link and the What's Up page will automatically open and display the image for that object.
 
+NOTES: 
+
+ - The **What's Up** links are only available and intended for use from within the observatory. <br/>Links will _**not**_ be available outside of the observatory network.
+
+  - _Press F11 to make the browser full-screen and hide the menu bar for the display monitors_
+
 If needed, you can display an empty page using the following URL:
 
 > [/img/whats-up.html](/img/whats-up.html)
@@ -19,5 +25,3 @@ Most pages will generate the full _name_, _description_ and _image_ parameters s
 
 > [/img/whats-up.html?name=M13&desc=Globular%20Star%20Cluster%20in%20Hercules&image=m13.jpg](/img/whats-up.html?name=M13&desc=Globular%20Star%20Cluster%20in%20Hercules&image=m13.jpg)
 
-
-_NOTE: Press F11 to make the browser full-screen and hide the menu bar for the display monitors_

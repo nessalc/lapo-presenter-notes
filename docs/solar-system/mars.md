@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Mars"
+	var objectDesc ="The Red Planet"
+	var objectImage="mars.png"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Mars](#mars) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Mars](#mars) | <div id=whatsup></div> |
 
 # Mars
 

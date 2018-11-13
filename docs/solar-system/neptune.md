@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Neptune"
+	var objectDesc ="Farthest Planet from the Sun"
+	var objectImage="neptune.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Neptune](#neptune) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Neptune](#neptune) | <div id=whatsup></div> |
 
 # Neptune
 

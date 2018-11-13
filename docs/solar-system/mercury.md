@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Mercury"
+	var objectDesc ="Closest Planet to the Sun"
+	var objectImage="mercury.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Mercury](#mercury) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Mercury](#mercury) | <div id=whatsup></div> |
 
 # Mercury
 

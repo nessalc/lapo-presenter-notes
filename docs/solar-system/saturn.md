@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Saturn"
+	var objectDesc ="The Ringed Planet"
+	var objectImage="saturn.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Saturn](#saturn) | <div id=whatsup></div> |
 
 # Saturn
 

@@ -26,24 +26,44 @@
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
     <style>
-        body {
-            overflow:hidden;
+        body { overflow:hidden;}
+        table { background-color: black;width: 100%;margin:auto;text-align: center;}
+        tr { background-color: black; text-align: center;}
+        td { background-color: black; text-align: center;}
+        h2 { font-weight:900; }
+        img { max-width: 100%; display: block; }
+        div#logoDiv {
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            top: 50px;
+            left: 50px;
+            width: 400px;
+            height: 300px; 
+            /* border: 3px solid red; */
         }
-        table {
-            background-color: black;
-            width: 100%;
-            margin:auto;
-        }
-        tr {
-            background-color: black;
-        }
-        td {
-            background-color: black;
+        div#descDiv {
+            position: absolute;
             text-align: center;
+            top: 350px;
+            left: 50px;
+            width: 400px;
+            height: 300px;
+            /* border: 3px solid red; */
         }
-        h2 {
-            font-weight:900;
-        }
+        div#objectImage { 
+            position: absolute;
+            text-align: center;
+            /* display: flex; */
+            align-items: center;
+            justify-content: center;
+            top: 50px;
+            right: 50px;
+            width: 700px;
+            height: 400px;
+            /* border: 3px solid red; */
+        }  
      </style>
      <script>
         // The following sourced from https://davidwalsh.name/query-string-javascript
@@ -79,31 +99,20 @@
         };
         </script>
     <body onload="loadObjectInfo()">
-        <table>
-            <tr >
-                <td >
-                    <img src="/img/logo-lapo.svg" width="250" height="250" title="LAPO"/>
-                </td>
-                <td rowspan="3">
-                    <div id=objectImage >
-                        <img src="/img/whats-up/empty.jpg" width="600" title="name"/><br/>
-                    </div>
-                </td>
-            </tr>
-            <tr>
-                <td >
-                    <h1>Live at the Scope Now</h1>
-                    <div id=objectName><h2>name</h2></div>
-                    <div id=objectDescription><h3>desc</h3></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    
-                </td>
-            </tr>
-        </table>
+        
+        <div id=logoDiv >
+            <img src="/img/logo-lapo.svg" width="250" height="250" title="LAPO"/>
+        </div>
 
+        <div id=objectImage >
+            <img src="/img/whats-up/empty.jpg" title="name"/><br/>
+        </div>
+        
+        <div id=descDiv><h1>Live at the Scope Now</h1>
+            <div id=objectName><h2>name</h2></div>
+            <div id=objectDescription><h3>desc</h3></div>
+        </div>
+            
     </body>
 </html>
 

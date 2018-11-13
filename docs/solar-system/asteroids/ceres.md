@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Ceres"
+	var objectDesc ="Asteroid (Dwarf Planet)"
+	var objectImage="ceres.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid-info) > [Ceres](#ceres)|
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid-info) > [Ceres](#ceres)| <div id=whatsup></div> |
 
 # Ceres
 Asteroid (Dwarf Planet)
