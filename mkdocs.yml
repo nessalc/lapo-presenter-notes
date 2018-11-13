@@ -7,6 +7,8 @@ repo_url: https://github.com/caketron/lake-afton-presenter-notes.git
 theme: cyborg
 extra_css: 
   - 'css/nightvision.css'
+extra_javascript:
+  - 'js/whatsup.js'
 nav:
     - Home: 'index.md'
 
@@ -18,6 +20,7 @@ nav:
       - Greek Letters: 'greek.md'
       - Reference Sites: 'reference.md'
       - Image Credits: 'img/image-credits.md'
+      - What's Up: 'whats-up.md'
 
     - Objects:
       - Solar System:
