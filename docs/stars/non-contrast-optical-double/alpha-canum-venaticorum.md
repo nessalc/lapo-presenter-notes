@@ -1,4 +1,5 @@
-<script>
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
 	var objectName ="Cor Caroli"
 	var objectDesc ="Alpha Canum Venaticorum<br/>Optical Double Star"
 	var objectImage=""
@@ -6,7 +7,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Alpha Canum Venaticorum](../alpha-canum-venaticorum)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
+|[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Alpha Canum Venaticorum](../alpha-canum-venaticorum)|  <div id=whatsup></div> |
 
 # Alpha (&alpha;) Canum Venaticorum
 Cor Caroli<br/>

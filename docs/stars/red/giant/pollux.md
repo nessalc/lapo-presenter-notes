@@ -1,4 +1,5 @@
-<script>
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
 	var objectName ="Pollux"
 	var objectDesc ="Beta Geminorum<br/>Red Giant Star"
 	var objectImage=""
@@ -6,7 +7,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > Red > [Red Giant Stars](../!red-giant-stars) > [Beta Geminorum](#beta-geminorum)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
+|[Home](/notes/#object-notes) > Stars > Red > [Red Giant Stars](../!red-giant-stars) > [Beta Geminorum](#beta-geminorum)|  <div id=whatsup></div> |
 
 # Beta (&beta;) Geminorum
 Pollux<br/>

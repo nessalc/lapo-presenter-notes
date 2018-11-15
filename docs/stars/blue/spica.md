@@ -1,4 +1,5 @@
-<script>
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
 	var objectName ="Spica"
 	var objectDesc ="Alpha Virginis</br>Blue Star"
 	var objectImage=""
@@ -6,7 +7,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Spica](#spica)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
+|[Home](/notes/#object-notes) > Stars > [Blue](../!blue-stars) > [Spica](#spica)| <div id=whatsup></div> |
 
 # Spica
 Alpha (&alpha;) Virginis<br/>

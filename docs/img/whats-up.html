@@ -1,5 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- Developer Notes: 
+    The following details how this whats-up.html page is implemented and functions:
+
+    This page, whats-up.html, is the primary template page for displaying what objects
+    are currently being shown in the observatory's main telescope.
+    The page is dynamically generated based on the provisioning of the following parameters
+    in the querystring:
+        name
+        desc
+        image
+    The parameters are optional and the values, when provided, are dynamically placed within 
+    div elements of the page.
+
+    The image parameter controls how the layout of the page is rendered:
+        - If no value for image is provided, then the name and desc are displayed centered in the page.
+        - If the value of image is "other", then the name and desc are displayed off to the left to 
+            allow room for placing an image from another source (photo viewer, etc...) in the blank 
+            space on the right. The javascript and css withing this html page control the display layout
+        - Otherwise, the image specified by the filename is displayed
+
+    The object markdown pages, e.g., m13.md, contain the link that provides the values of the 
+    parameters and uses the following reference javascript file to create the dynamic link for 
+    the object, displayed as -- what's up -- in the upper right corener of the object page:
+
+        /js/whatsup.js
+
+    See the whats-up.md for more detail on how to manually construct the querystring for custom display
+    of What's Up information.
+    
+-->
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">

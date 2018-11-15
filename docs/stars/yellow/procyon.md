@@ -1,4 +1,5 @@
-<script>
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
 	var objectName ="Procyon"
 	var objectDesc ="Alpha Canis Minoris<br/>Yellow Solar Type Star"
 	var objectImage=""
@@ -6,7 +7,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Alpha Canis Minoris](#alpha-canis-minoris)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
+|[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Alpha Canis Minoris](#alpha-canis-minoris)|  <div id=whatsup></div> |
 
 #Alpha (&alpha;) Canis Minoris
 Procyon <br/>

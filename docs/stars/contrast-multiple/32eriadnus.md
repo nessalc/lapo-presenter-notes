@@ -1,4 +1,5 @@
-<script>
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
 	var objectName ="32 Eridani"
 	var objectDesc ="Contrast Multiple Star"
 	var objectImage=""
@@ -6,7 +7,8 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > [Contrast Multiple Stars](../!contrast-multiple-star-info) > [32 Eridani](#32-eridani)|  -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
+|[Home](/notes/#object-notes) > Stars > [Contrast Multiple Stars](../!contrast-multiple-star-info) > [32 Eridani](#32-eridani)|  <div id=whatsup></div> |
+
 
 # 32 Eridani
 Contrast Multiple Star
@@ -24,7 +26,7 @@ Contrast Multiple Star
 |   | <br/>**Actual**| **Compared<br/>to Sun** |
 |**Distance** | 345 ly | -- |
 |**Separation** | -- | -- |
-|**Orbital Period** | -- | -- |
+|**Orbital Period** | -- | -- | 
 |**Actual Brightness**	 | --	 | 95 / 32 |
 |**Magnitude** | 4.92 / 6.11 |   |
 |**Mass**	             | -- | -- |

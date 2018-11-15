@@ -92,6 +92,19 @@ Once all editing has been completed, do a final build of the document site for d
 mkdocs build
 ```
 
+This command will generate the various pages from the markdown files and place them in the "site" sub-directory.
+
+You can use the Python Simple HTTP server that comes with Python to start up a local server.
+Change directory into the Site folder and execute the following:
+
+```
+python -m http.server 8080
+```
+
+Then visit the site by visiting the following address in your browser;
+
+[http://127.0.0.1:8080/](http://127.0.0.1:8080/)
+
 << TO DO >>:  ... to be completed ... !!!
 	
 ## Versioning

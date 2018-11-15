@@ -1,4 +1,5 @@
-<script>
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
 	var objectName ="Betelgeuse"
 	var objectDesc ="Alpha Orionis<br/>Red Supergiant Star"
 	var objectImage=""
@@ -6,7 +7,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > Red > [Red Supergiant Stars](../!red-supergiant-stars) > [Alpha Orionis](#alpha-orionis)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
+|[Home](/notes/#object-notes) > Stars > Red > [Red Supergiant Stars](../!red-supergiant-stars) > [Alpha Orionis](#alpha-orionis)|  <div id=whatsup></div> |
 
 # Alpha (&alpha;) Orionis
 Betelgeuse<br/>

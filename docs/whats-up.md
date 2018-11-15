@@ -25,3 +25,17 @@ Most pages will generate the full _name_, _description_ and _image_ parameters s
 
 > [/img/whats-up.html?name=M13&desc=Globular%20Star%20Cluster%20in%20Hercules&image=m13.jpg](/img/whats-up.html?name=M13&desc=Globular%20Star%20Cluster%20in%20Hercules&image=m13.jpg)
 
+---
+# Custom What's Up Form
+
+Use the following to display a customized What's Up page:
+
+<form action="/img/whats-up.html" target="_blank">
+  Object Name<br/>&nbsp;&nbsp;&nbsp;<input type="text" name="name"><br/>
+  Object Description<br/>&nbsp;&nbsp;&nbsp;<textarea cols="100" name="desc"></textarea><br/>
+  &nbsp;&nbsp;&nbsp; - use of HTML codes, like line break: &lt;br/&gt;, are allowed<br/>
+  Object Image Filename<br/>&nbsp;&nbsp;&nbsp;<input type="text" name="image"><br/>
+  &nbsp;&nbsp;&nbsp; - use "other" for the image name to display a blank area and logo and desc to the left
+  <br/>
+  &nbsp;&nbsp;&nbsp;<input type="submit" value="What's Up">
+</form>

@@ -1,4 +1,5 @@
-<script>
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
 	var objectName ="Chalawan"
 	var objectDesc ="47 Ursae Majoris<br/>Yellow Dwarf Star with Planets"
 	var objectImage=""
@@ -6,7 +7,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > Stars > With Planets > [47 UMa](#47-ursae-majoris)| -- <a href="" onclick="window.open('/img/whats-up.html?name='+objectName+'&desc='+objectDesc+'&image='+objectImage, 'Whats-Up', 'fullscreen=1,toolbar=0,location=0,menubar=0,scrollbars=0,status=0,titlebar=0'); return false;">what's up?</a> -- |
+|[Home](/notes/#object-notes) > Stars > With Planets > [47 UMa](#47-ursae-majoris)|  <div id=whatsup></div> |
 
 # 47 Ursae Majoris
 Chalawan<br/>
