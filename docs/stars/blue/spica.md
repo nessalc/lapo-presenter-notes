@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Spica"
-	var objectDesc ="Alpha Virginis</br>Blue Star"
+	var objectDesc ="Alpha Virginis</br>Blue Star<br/>in the Constellation<br/>Virgo"
 	var objectImage=""
 </script>
 

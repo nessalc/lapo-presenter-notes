@@ -13,7 +13,8 @@ NASA - <https://www.nasa.gov/content/goddard/nasas-hubble-sees-comet-ison-intact
 NASA - <https://solarsystem.nasa.gov/resources/758/brief-outburst/?category=solar-system_sun>
 
 ## Moon
-NASA - <https://moon.nasa.gov/resources/54/phases-of-the-moon/>
+NASA - moon.png - <https://moon.nasa.gov/resources/54/phases-of-the-moon/><br/>
+moon.jpg - <https://pxhere.com/en/photo/23218>
 
 ## Mercury
 NASA - <https://solarsystem.nasa.gov/planets/mercury/overview/>
@@ -70,3 +71,27 @@ Photo by Alexander Andrews on Unsplash<br/>
 Hubble Site
 <http://hubblesite.org/news_release/news/2004-20>
 <https://en.wikipedia.org/wiki/File:Pleiades_large.jpg>
+
+## M104
+Carsten Frenzl<br/>
+Sombrero Galaxy - M104 <br/>
+<https://en.wikipedia.org/wiki/Sombrero_Galaxy#/media/File:Sombrero_Galaxy_(also_known_as_Messier_Object_104,_M104_or_NGC_4594)_(cropped).jpg>
+Equipment:<br/>
+GSO RC8 + CCDT67 Reducer<br/>
+1100mm f5,5<br/>
+Moravian CCD G2-8300FW<br/>
+Astronomik Ha Filter<br/>
+Astrodon RGB Filter<br/>
+Losmandy G11 LFE Photo<br/>
+Guiding: Starlight Lodestar an Celestron OAG<br/>
+PHD<br/>
+4x1200 Luminanz<br/>
+3x600 RGB<br/>
+total exposure time: 2.8hour<br/>
+Processing: PixInsight/Lightroom<br/>
+date: 2014-05-19, 2014-05-23, 2014-06-05
+
+
+## NGC457
+Henryk Kowalewski - <http://www.ccd.neostrada.pl/HTM/NGC457.htm>
+<https://en.wikipedia.org/wiki/NGC_457#/media/File:NGC457.jpg>

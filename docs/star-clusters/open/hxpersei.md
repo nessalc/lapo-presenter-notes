@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="h and Chi Persei"
-	var objectDesc ="Double Open Star Cluster<br/>NGC 869 and NGC 884"
+	var objectDesc ="Double Open Star Cluster<br/>NGC 869 and NGC 884<br/>in the Constellation<br/>Perseus"
 	var objectImage="hxpersei.jpg"
 </script>
 
@@ -10,7 +10,7 @@
 |[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](../!open-cluster-info) > [h and Chi Persei](../hxpersei)| <div id=whatsup></div> |
 
 # h and Chi (&chi;) Persei
-Open Star Cluster
+Double Open Star Cluster
 
 |   |   |   |   |
 |--:|:--|--:|:--|

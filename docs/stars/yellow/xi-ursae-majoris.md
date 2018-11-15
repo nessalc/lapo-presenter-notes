@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Xi Ursae Majoris"
-	var objectDesc ="Yellow Solar Type Star"
+	var objectDesc ="Yellow Solar-type Star<br/>in the Constellation<br/>Ursa Major"
 	var objectImage=""
 </script>
 
@@ -10,7 +10,7 @@
 |[Home](/notes/#object-notes) > Stars > [Yellow](../!yellow-stars) > [Xi Ursae Majoris](#xi-ursae-majoris)|  <div id=whatsup></div> |
 
 # Xi (&xi;) Ursae Majoris 
-Yellow Solar Type Star
+Yellow Solar-type Star
 
 |   |   |   |   |
 |--:|:--|--:|:--|

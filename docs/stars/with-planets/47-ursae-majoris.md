@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Chalawan"
-	var objectDesc ="47 Ursae Majoris<br/>Yellow Dwarf Star with Planets"
+	var objectDesc ="47 Ursae Majoris<br/>Yellow Dwarf Solar-type Star<br/>with Planets<br/>in the Constellation<br/>Ursa Major"
 	var objectImage=""
 </script>
 

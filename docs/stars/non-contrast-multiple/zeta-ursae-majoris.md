@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Mizar"
-	var objectDesc ="Zeta Ursae Majoris<br/>Multiple Star System"
+	var objectDesc ="Zeta Ursae Majoris<br/>Multiple Star System<br/>in the Constellation<br/>Ursa Major"
 	var objectImage=""
 </script>
 

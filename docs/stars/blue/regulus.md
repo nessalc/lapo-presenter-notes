@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Regulus"
-	var objectDesc ="Alpha Leonis</br>Blue Star"
+	var objectDesc ="Alpha Leonis</br>Blue Star<br/>in the Constellation<br/>Leo"
 	var objectImage=""
 </script>
 
