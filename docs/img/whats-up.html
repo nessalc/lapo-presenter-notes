@@ -40,29 +40,31 @@
             top: 50px;
             left: 50px;
             width: 400px;
-            height: 300px; 
+            height: 300px;
             /* border: 3px solid red; */
         }
         div#descDiv {
             position: absolute;
+            align-items: center;
+            justify-content: center;
             text-align: center;
             top: 350px;
             left: 50px;
             width: 400px;
             height: 300px;
-            /* border: 3px solid red; */
+            /* border: 3px solid red;  */
         }
         div#objectImage { 
             position: absolute;
             text-align: center;
-            /* display: flex; */
+            display: flex; 
             align-items: center;
             justify-content: center;
-            top: 50px;
+            /* top: 50px; */
             right: 50px;
-            width: 700px;
-            height: 400px;
-            /* border: 3px solid red; */
+            width: 800px;
+            height: 650px;
+            /* border: 3px solid red;  */
         }  
      </style>
      <script>
@@ -84,17 +86,34 @@
             document.getElementById("objectDescription").innerHTML = "<h3>" + desc + "</h3>";
             if (image == "other")
             {
-                document.getElementById("objectImage").innerHTML =
-                    '<img src="/img/whats-up/empty.jpg" width="600" />';
+                document.getElementById("objectImage").innerHTML = "";
             }
             else if (image != "" )
             {
                 document.getElementById("objectImage").innerHTML =
-                    '<a href="/img/image-credits/#' + name + '"><img src="/img/whats-up/' + image + '" title="Image Credit: ' + name + '"/><br/>&nbsp;</a>';
+                    '<a href="/img/image-credits/#' + name + '"><img src="/img/whats-up/' 
+                        + image + '" title="Image Credit: ' + name + '"/><br/>&nbsp;</a>';
             }
             else
             {
                 document.getElementById("objectImage").innerHTML = "";
+
+                logodiv = document.getElementById("logoDiv");
+                logodiv.margin = "auto";
+                logodiv.style.top =  50;
+                logodiv.style.right = 0;
+                logodiv.style.bottom = 0;
+                logodiv.style.left = 0;
+                logodiv.style.width = "100%";
+
+                descdiv = document.getElementById("descDiv");
+                descdiv.margin = "auto";
+                descdiv.margin = "auto";
+                descdiv.style.top =  50;
+                descdiv.style.right = 0;
+                descdiv.style.bottom = 0;
+                descdiv.style.left = 0;
+                descdiv.style.width = "100%";
             }
         };
         </script>
@@ -108,7 +127,7 @@
             <img src="/img/whats-up/empty.jpg" title="name"/><br/>
         </div>
         
-        <div id=descDiv><h1>Live at the Scope Now</h1>
+        <div id=descDiv><h1>Live at the Scope:</h1>
             <div id=objectName><h2>name</h2></div>
             <div id=objectDescription><h3>desc</h3></div>
         </div>

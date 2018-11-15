@@ -6,6 +6,9 @@ The following credits the use of images in these notes:
 ## Clouds
 Clouds
 
+## Comet
+NASA - <https://www.nasa.gov/content/goddard/nasas-hubble-sees-comet-ison-intact>
+
 ## The Sun
 NASA - <https://solarsystem.nasa.gov/resources/758/brief-outburst/?category=solar-system_sun>
 
@@ -36,6 +39,13 @@ NASA - <https://solarsystem.nasa.gov/planets/neptune/overview/>
 ## Ceres
 NASA - <https://solarsystem.nasa.gov/resources/622/ceres-in-color/?category=planets/dwarf-planets_ceres>
 
+## h and X Persei
+Wikipedia - <https://commons.wikimedia.org/wiki/File:Double_Cluster.jpg>
+
+## M1
+Crab Nebula from Five Observatories<br/>
+<https://photojournal.jpl.nasa.gov/catalog/PIA21474>
+
 ## M13
 Image of M13 - Globular Cluster in Hercules with a 10" telescope<br/>
 Telescope: Meade 10” LX200 SCT @ f/10, Orion Atlas EQ-G<br/>
@@ -56,4 +66,7 @@ Photo by Alexander Andrews on Unsplash<br/>
 Photo by Alexander Andrews on Unsplash<br/>
 <https://unsplash.com/photos/oMYSo7wYZ3o>
 
-
+## M45
+Hubble Site
+<http://hubblesite.org/news_release/news/2004-20>
+<https://en.wikipedia.org/wiki/File:Pleiades_large.jpg>

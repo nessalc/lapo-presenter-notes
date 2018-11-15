@@ -1,6 +1,13 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Comet"
+	var objectDesc ="Icey ball of dirt"
+	var objectImage="comet.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Comets](../!comet-info) |  |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Comets](../!comet-info) |  <div id=whatsup></div> |
 
 # Comets
 General Information

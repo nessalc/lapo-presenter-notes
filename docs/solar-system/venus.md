@@ -7,7 +7,7 @@
 
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Venus](#venus) |  <div id=whatsup></div> |
+|[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Venus](#venus) | <div id=whatsup></div> |
 
 # Venus
 

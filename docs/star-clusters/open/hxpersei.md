@@ -1,8 +1,15 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="h and Chi Persei"
+	var objectDesc ="Double Open Star Cluster<br/>NGC 869 and NGC 884"
+	var objectImage="hxpersei.jpg"
+</script>
+
 |    |    |
 |:---|---:|
-|[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](../!open-cluster-info) > [h and Chi Persei](../hxpersei)|  |
+|[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Open](../!open-cluster-info) > [h and Chi Persei](../hxpersei)| <div id=whatsup></div> |
 
-# h and Chi (χ) Persei
+# h and Chi (&chi;) Persei
 Open Star Cluster
 
 |   |   |   |   |
@@ -53,7 +60,7 @@ Open Star Cluster
 
     d.	Has a total mass of about 3700 of our suns.
 
-4.	χ Persei (NGC 884)
+4.	&chi; Persei (NGC 884)
 
     a.	about 7,400 light years distant.
 
