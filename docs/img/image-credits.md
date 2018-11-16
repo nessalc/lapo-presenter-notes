@@ -59,18 +59,32 @@ Flat: Synthetic<br/>
 Software: Backyard EOS, Deep Sky Stacker, Nebulosity, Photoshop<br/>
 [jgraham @ www.cloudynights.com](https://www.cloudynights.com/topic/462595-better-scope-for-globular-clusters/?p=6017897)
 
+## M17
+<https://www.eso.org/public/images/eso1537a/>
+
+## M24
+Image: Tomas Mazon<br/>
+<http://www.messier-objects.com/messier-24-sagittarius-star-cloud/>
+
+## M27
+<https://en.wikipedia.org/wiki/Dumbbell_Nebula#/media/File:Dumbbell_Nebula_from_NA.jpg>
+
 ## M31
 Photo by Alexander Andrews on Unsplash<br/>
 <https://unsplash.com/photos/30kHyW7TSB8>
 
 ## M42
-Photo by Alexander Andrews on Unsplash<br/>
-<https://unsplash.com/photos/oMYSo7wYZ3o>
+National Optical Astronomy Observatory/Association of Universities for Research in Astronomy/National Science Foundation<br/>
+Photograph: Bill Schoening, KPNO 4m telescope, October 1st 1973. Original Ektachrome color transparency.
+<https://www.noao.edu/image_gallery/html/im0349.html>
 
 ## M45
 Hubble Site
 <http://hubblesite.org/news_release/news/2004-20>
 <https://en.wikipedia.org/wiki/File:Pleiades_large.jpg>
+
+## M57
+<https://en.wikipedia.org/wiki/Ring_Nebula#/media/File:The_Ring_Nebula_M57.jpg>
 
 ## M104
 Carsten Frenzl<br/>
