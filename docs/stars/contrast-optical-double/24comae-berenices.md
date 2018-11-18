@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="24 Comae Berenices"
-	var objectDesc ="Contrast Optical Double Star"
+	var objectDesc ="Contrast Optical Double Star<br/>in the Constellation<br/>Coma Berenices"
 	var objectImage=""
 </script>
 

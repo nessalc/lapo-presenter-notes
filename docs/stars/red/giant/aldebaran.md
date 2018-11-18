@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Aldebaran"
-	var objectDesc ="Alpha Tauri<br/>Red Giant Star"
+	var objectDesc ="Alpha Tauri<br/>Red Giant Star<br/>in the Constellation<br/>Taurus"
 	var objectImage=""
 </script>
 

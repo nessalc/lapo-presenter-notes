@@ -68,7 +68,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [Vega](./stars/blue/vega.md)
 - ##### Contrast Multiple
     - [Contrast Multiple Stars](./stars/contrast-multiple/!contrast-multiple-star-info.md)
-    - [32 Eriadnus](./stars/contrast-multiple/32eriadnus.md)
+    - [32 Eridani](./stars/contrast-multiple/32eridani.md)
     - [95 Hercules](./stars/contrast-multiple/95hercules.md)
     - [Gamma Andromedae](./stars/contrast-multiple/gamma-andromedae.md)
     - [Iota Cancri](./stars/contrast-multiple/iota-cancri.md)

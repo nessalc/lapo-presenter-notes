@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Gamma Andromedae"
-	var objectDesc ="Contrast Multiple Star"
+	var objectDesc ="Contrast Multiple Star<br/>in the Constellation<br/>Andromeda"
 	var objectImage=""
 </script>
 

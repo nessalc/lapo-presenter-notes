@@ -2,7 +2,9 @@
 <script type="text/javascript">
 	var objectName ="The Moon"
 	var objectDesc ="Earth's Satellite"
-	var objectImage="moon.png"
+    // var objectImage="moon.png" // Moon Phase Graphic
+    // var objectImage="moon.jpg" // Moon
+    var objectImage="moon.gif"
 </script>
 
 |    |    |

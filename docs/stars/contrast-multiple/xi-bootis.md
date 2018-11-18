@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Xi Bootis"
-	var objectDesc ="Contrast Multiple Star"
+	var objectDesc ="Contrast Multiple Star<br/>in the Constellation<br/>Bootes"
 	var objectImage=""
 </script>
 

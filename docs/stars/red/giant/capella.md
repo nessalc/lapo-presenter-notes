@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Capella"
-	var objectDesc ="Alpha Aurigae<br/>Red (Yellow) Giant Star"
+	var objectDesc ="Alpha Aurigae<br/>Red (Yellow) Giant Star<br/>in the Constellation<br/>Auriga"
 	var objectImage=""
 </script>
 

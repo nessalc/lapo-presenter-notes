@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Algedi"
-	var objectDesc ="Alpha Capricorni<br/>Optical Double Star"
+	var objectDesc ="Alpha Capricorni<br/>Optical Double Star<br/>in the Constellation<br/>Capricorn"
 	var objectImage=""
 </script>
 

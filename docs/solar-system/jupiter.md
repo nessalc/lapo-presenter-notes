@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Jupiter"
-	var objectDesc ="Largest Planet in the Solar System"
+	var objectDesc ="A Gas Giant<br/>Largest Planet in the Solar System"
 	var objectImage="jupiter.jpg"
 </script>
 

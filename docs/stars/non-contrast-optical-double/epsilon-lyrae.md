@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Epsilon Lyrae"
-	var objectDesc ="Optical Double-Double Star"
+	var objectDesc ="Optical Double-Double Star<br/>in the Constellation<br/>Lyra"
 	var objectImage=""
 </script>
 

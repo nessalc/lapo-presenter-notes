@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Deneb"
-	var objectDesc ="Alpha Cygni</br>Blue Star"
+	var objectDesc ="Alpha Cygni</br>Blue Star<br/>in the Constellation<br/>Cygnus"
 	var objectImage=""
 </script>
 

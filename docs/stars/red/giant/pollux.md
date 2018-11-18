@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Pollux"
-	var objectDesc ="Beta Geminorum<br/>Red Giant Star"
+	var objectDesc ="Beta Geminorum<br/>Red Giant Star<br/>in the Constellation<br/>Gemini"
 	var objectImage=""
 </script>
 

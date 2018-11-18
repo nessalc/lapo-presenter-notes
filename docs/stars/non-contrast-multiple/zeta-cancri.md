@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Zeta Cancri"
-	var objectDesc ="Multiple Star System"
+	var objectDesc ="Multiple Star System<br/>in the Constellation<br/>Cancer"
 	var objectImage=""
 </script>
 

@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Delta Cephei"
-	var objectDesc ="Optical Double Star"
+	var objectDesc ="Optical Double Star<br/>in the Constellation<br/>Cepheus"
 	var objectImage=""
 </script>
 
@@ -76,7 +76,7 @@ Optical Double Star
 
     -  Despite normal treatment of people with such handicaps, his parents made sure he received an education.  He excelled in math and astronomy.
 
-    -  He received an award from the Royal Society of London in 1783 for determining the period and cause of variation of the star Algol.
+    -  He received an award from the Royal Society of London in 1783 for determining the period and cause of variation of the star Algol (Beta &beta; Persei).
 
     -  He died at the age of 21 from a bout of pneumonia, apparently caught while observing delta Cephei in 1786.
 

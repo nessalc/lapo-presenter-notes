@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Antares"
-	var objectDesc ="Alpha Scorpii<br/>Red Supergiant Star"
+	var objectDesc ="Alpha Scorpii<br/>Red Supergiant Star<br/>in the Constellation<br/>Scorpius"
 	var objectImage=""
 </script>
 

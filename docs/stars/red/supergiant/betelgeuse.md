@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Betelgeuse"
-	var objectDesc ="Alpha Orionis<br/>Red Supergiant Star"
+	var objectDesc ="Alpha Orionis<br/>Red Supergiant Star<br/>in the Constellation<br/>Orion"
 	var objectImage=""
 </script>
 

@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Altair"
-	var objectDesc ="Alpha Aquilae</br>Blue Star"
+	var objectDesc ="Alpha Aquilae</br>Blue Star<br/>in the Constellation<br/>Aquila"
 	var objectImage=""
 </script>
 

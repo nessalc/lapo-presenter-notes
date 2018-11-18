@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Gamma Delphini"
-	var objectDesc ="Optical Double Star"
+	var objectDesc ="Optical Double Star<br/>in the Constellation<br/>Delphinus"
 	var objectImage=""
 </script>
 

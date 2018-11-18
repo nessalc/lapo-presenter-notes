@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="95 Herculis"
-	var objectDesc ="Contrast Multiple Star"
+	var objectDesc ="Contrast Multiple Star<br/>in the Constellation<br/>Hercules"
 	var objectImage=""
 </script>
 
@@ -10,6 +10,7 @@
 |[Home](/notes/#object-notes) > Stars > [Contrast Multiple Stars](../!contrast-multiple-star-info) > [95 Herculis](#95-herculis)|  <div id=whatsup></div> |
 
 # 95 Herculis
+(Flamsteed Designation)
 Contrast Multiple Star
 
 |   |   |   |   |

@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Arcturus"
-	var objectDesc ="Alpha Bootis<br/>Red Giant Star"
+	var objectDesc ="Alpha Bootis<br/>Red Giant Star<br/>in the Constellation<br/>Bootes"
 	var objectImage=""
 </script>
 

@@ -4,7 +4,7 @@ The following credits the use of images in these notes:
 
 
 ## Clouds
-Clouds
+https://www.maxpixel.net/Dark-Dramatic-Grey-Storm-Night-Sky-Stormy-Clouds-17946
 
 ## Comet
 NASA - <https://www.nasa.gov/content/goddard/nasas-hubble-sees-comet-ison-intact>
@@ -14,7 +14,8 @@ NASA - <https://solarsystem.nasa.gov/resources/758/brief-outburst/?category=sola
 
 ## Moon
 NASA - moon.png - <https://moon.nasa.gov/resources/54/phases-of-the-moon/><br/>
-moon.jpg - <https://pxhere.com/en/photo/23218>
+moon.jpg - <https://pxhere.com/en/photo/23218><br/>
+moon.gif - <https://www.reddit.com/r/gfycats/comments/2p4m18/moon_phases_and_libration/>
 
 ## Mercury
 NASA - <https://solarsystem.nasa.gov/planets/mercury/overview/>
