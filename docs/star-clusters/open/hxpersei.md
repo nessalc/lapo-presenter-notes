@@ -34,23 +34,23 @@ Double Open Star Cluster
 #### What To Look For Through The Telescope
 ---
 
-1.	Recommended eyepiece: 40mm or 80 mm.
+1.  Recommended eyepiece: 40mm or 80 mm.
 
-2.	Through the large telescope only one of the clusters can be seen at a time.  It will appear as a group of individual stars; much like sugar or salt sprinkled on a table top.
+1.  Through the large telescope only one of the clusters can be seen at a time.  It will appear as a group of individual stars; much like sugar or salt sprinkled on a table top.
 
 ---
 ## h and χ Persei Information
 ---
 
-1.	This cluster is bright enough to be seen from a dark location even without binoculars.
+1.  This cluster is bright enough to be seen from a dark location even without binoculars.
 
     a.	h and χ Persei were probably seen in pre-historic times.
 
     b.	This object was catalogued by the Greek astronomer Hipparcos (190-120 B.C.).
 
-2.	The two clusters are several hundred light years apart, they just happen to be in the same direction when seen from Earth.
+1.  The two clusters are several hundred light years apart, they just happen to be in the same direction when seen from Earth.
  
-3.  h Persei (NGC 869)
+1.  h Persei (NGC 869)
 
     a.	about 7,100 light years away
 
@@ -58,9 +58,21 @@ Double Open Star Cluster
 
     c.	is approaching us at about 22 kilometers/second (13.6 miles/second)
 
-    d.	Has a total mass of about 3700 of our suns.
+    d.	Has a total mass of about 3700 of our suns - over 200 bluish-white stars
 
-4.	&chi; Persei (NGC 884)
+    e.  More compressed of the two clusters
+
+    |    |    |
+    |---:|:---|
+    |**Right Ascension** | 02h 20m 2s |
+    |**Declination**     | 57&deg; 12’|
+    |**Visual Magnitude**| +5.30      |
+    |**Apparent Size**   | 18.0 arcminutes |
+    |**Diameter**        | 35.5 ly |
+    |    |    |
+
+
+1.  &chi; Persei (NGC 884)
 
     a.	about 7,400 light years distant.
 
@@ -68,7 +80,38 @@ Double Open Star Cluster
 
     c.	is approaching us at about 21 kilometers/second (13 miles/second)
 
-    d.	Has a total mass of about 2800 suns.
+    d.	Has a total mass of about 2800 suns - about 150 stars, mostly white and bluish-white
+
+    e.  Older of the two clusters
+
+    |    |    |
+    |---:|:---|
+    |**Right Ascension** | 02h 23m 6s |
+    |**Declination**     | 57&deg; 11’|
+    |**Visual Magnitude**| +6.09      |
+    |**Apparent Size**   | 18.0 arcminutes |
+    |**Diameter**        | 50.2 ly |
+    |    |    |
+
+1.  Both contain stars that are younger and hotter than the Sun.
+
+1.  Many are as much as 50,000x more luminous than our Sun.
+
+1.  Most are 3 -5 million years old (compared to the Pleiades Cluster, which is about 75-100 million years old).
+
+1.  The makeup of the clusters are similar in this regard, meaning they were likely produced from the same star-forming region.
+
+1.  The Double Cluster represents the jeweled handle of Perseus’ sword.
+
+1.  First cataloged by Greek astronomer Hipparcos in 130 BC.
+
+1.  William Herschel was the first to identify this as two different clusters.
+
+1.  In the 1840s, confusion between “nebulous star” and “star” in early measurements by Tycho Brahe and Johann Bayer led to these clusters being named and recorded with typical star names and designations.
+
+1.  For some reason, Messier did not include these in his catalog.
+
+1.  Both clusters are blue-shifted, which means they are both moving toward Earth.
 
 |    |    |
 |:---|---:|

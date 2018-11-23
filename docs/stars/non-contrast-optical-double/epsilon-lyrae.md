@@ -24,6 +24,8 @@ Optical Double-Double Star
 |---|:---:|:---:|                                    |---|:---:|:---:|
 |   | <br/>**Actual**| **Compared<br/>to Sun** |     |   | <br/>**Actual**| **Compared<br/>to Sun** |
 |**Distance** | 162 ly | -- |                        |**Distance** | 160 ly | -- |
+|**Separation** | 116 au | -- |                      |**Separation** | 121 au | -- |
+|**Orbital Period** | 1,800 yrs | -- |               |**Orbital Period** | ~ 725 yrs | -- |
 |**Actual Brightness** | -- | 19 / 6.5 |             |**Actual Brightness** | -- | 14 / 12 |
 |**Magnitude** | 5.06 / 6.19 | -- |                  |**Magnitude** | 6.30 / 5.51 | -- |
 |**Mass**	             | -- | -- |                 |**Mass**	             | -- | -- |
@@ -42,13 +44,17 @@ Optical Double-Double Star
 
 1.  With good atmosphere conditions and/or with good eyes, it can be seen that each star is really two stars.
 
+1.  A fifth component star was discovered in 1985 that rotates around Epsilon<sup>2</sup>
+
 ---
 ## Epsilon Lyrae Information:
 ---
 
 1.  This is the famous “Double Double” star.  (With our understanding of distances and multiple stars, a more accurate name would be the “Double Multiple.”)
 
+1.  The two binocular star systems are separated by about 10,500 AU and they probably take about 500,000 years to rotate around each other.
 
+  
 |    |    |
 |:---|---:|
 |[Home](/notes/#object-notes) > Stars > [Non-Contrast Optical Double](../!non-contrast-optical-double-star-info) > [Epsilon Lyrae](../epsilon-lyrae)| [top](#epsilon-lyrae)|

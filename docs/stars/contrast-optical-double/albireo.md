@@ -60,47 +60,47 @@ Contrast Optical Double Star
 
 1.  If they are orbiting each other (we don’t know for certain), their orbital period is at least 75,000 years
 
-1.  Beta1 Cyg or Albireo A (the golden amber star):
+1.  Beta<sup>1</sup> Cyg or Albireo A (the golden amber star):
 
 
     |   |   |
     |---:|:---|
-    |Color:|Orange, K3II, bright giant
-    |Luminosity:| 889 Suns; 1460 Suns total
-    |Diameter:| 66 Suns
-    |Absolute magnitude:|-2.55 visual; -3.16 total|
+    |**Color**|Orange, K3 II, bright giant
+    |**Luminosity**| 889 Suns; 1460 Suns total
+    |**Diameter**| 66 Suns
+    |**Absolute Magnitude**|-2.55 visual; -3.16 total|
     |  |  |
 
     a. In 1976, it was discovered that this is a binary system in itself, separated by 40 AU, and orbiting each other every 100-200 years.  Our telescope can’t distinguish between them. 
 
       * The brighter star is a helium-fusing giant, class K3 (orange)
 
-          |   |   |
-          |---:|:---|
-          |Temperature:| 7440⁰ F
-          |Luminosity:| 950 Suns
-          |Diameter:| 50 Suns
-          |Mass:| 5 Suns
-          |   |   |
+        |   |   |
+        |---:|:---|
+        |**Temperature**| 7440⁰ F
+        |**Luminosity**| 950 Suns
+        |**Diameter**| 50 Suns
+        |**Mass**| 5 Suns
+        |   |   |
 
       * The other is a hydrogen-fusing main sequence, class B9 (blue)
 
-          |   |   |
-          |---:|:---|
-          |Temperature:| 19,340⁰ F
-          |Luminosity:| 100 Suns
-          |Mass:| 3.2 Suns
-          |   |   |
+        |   |   |
+        |---:|:---|
+        |**Temperature**| 19,340⁰ F
+        |**Luminosity**| 100 Suns
+        |**Mass**| 3.2 Suns
+        |   |   |
 
-1.  Beta2 Cyg or Albireo B (the blue-white star):
+1.  Beta<sup>2</sup> Cyg or Albireo B (the blue-white star):
 
     |   |   |
     |---:|:---|
-    |Color: |B8Ve, main sequence
-    |Temperature:|20,100⁰ F
-    |Luminosity:| 117 Suns visual; 229 Suns total
-    |Diameter:| 3.88 Suns
-    |Absolute magnitude:| -0.35 visual; -1.15 total
+    |**Color**|B8 Ve, main sequence
+    |**Temperature**|20,100⁰ F
+    |**Luminosity**| 117 Suns visual; 229 Suns total
+    |**Diameter**| 3.88 Suns
+    |**Absolute Magnitude**| -0.35 visual; -1.15 total
     |   |   |
 
     a.  Very fast spinning star (150 miles per second), rotation period of about 14 hours, this causes a gas disk around it

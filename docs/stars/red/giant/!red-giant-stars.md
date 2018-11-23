@@ -14,7 +14,7 @@ General Information
 
 1.  Red giant stars are no longer fusing hydrogen in their cores: most of the hydrogen has been converted to helium.  So, red giant stars are no longer considered “main sequence” stars.
 
-1.  As blue and yellow stars begin to die, they become larger and cooler.  The supply of hydrogen in their cores has been exhausted.  The core then collapses, heats up, then begins fusing helium into carbon.  Meanwhile, a layer of hydrogen has remained around the core.  This hydrogen continues fusing, and the energy produced expands the outer layers of the star.  So, red giant stars are very large stars.  Because they’ve expanded, the surfaces of red giant stars are cool. 
+1.  As blue and yellow stars begin to die, they become larger and cooler.  The supply of hydrogen in their cores has been exhausted.  The core then collapses, heats up, then begins fusing helium into carbon (see [Carbon Stars](#Carbon Stars) below).  Meanwhile, a layer of hydrogen has remained around the core.  This hydrogen continues fusing, and the energy produced expands the outer layers of the star.  So, red giant stars are very large stars. Because they’ve expanded, the surfaces of red giant stars are cool. 
 
 1.  At the end of the red giant phase, the star gently puffs off about 10% of its outer layers.  This forms a planetary nebula.  The rest of the star collapses until it is about the size of Earth, forming a white dwarf star.  White dwarfs no longer generating any energy so they will eventually cool off and become black.
 
@@ -24,6 +24,31 @@ General Information
 
 1.  Although these stars are referred to as red giants, their color can be red, orange, or yellow.
  
+# Carbon Stars
+
+1.  As sun-like stars age, their core compresses and heats up and basically cooks helium nuclei into carbon.  The convective currents in the star’s atmosphere move the carbon from the core to the outer layers where they form a fine soot.  The soot scatters away blue and green light, so only the red and orange wavelengths penetrate the carbon dust to reach our eyes.
+
+1.  Sunsets are red for a similar reason.  At the horizon, sunlight travels through more atmosphere, scattering away the blues and greens, leaving the red for our eyes.
+
+1.  All carbon stars are variable and vary in brightness over the course of months or even more than a year.
+
+1.  Carbon-dominated stars are classified as Class C stars.
+
+## B-V Index
+
+1.  Astronomers don’t use “red” or “blue” to describe star tints because color perception is subjective. Instead, they use a B-V color index by measuring a star’s magnitude or brightness through a B (blue) filter and V (visual) filter.  The difference between these two numbers is called the B-V index.  Extremely hot stars give off more blue light and have B-V values generally less than zero.  Cooler red stars have positive indices.  Examples:
+    
+    a.  Blue-white Spica has a B-V of -0.3
+    
+    b.  The Sun has a B-V of +0.65
+    
+    c.  R Leporis (a carbon star) is +5.7 and is very red
+
+1.  Generally, the larger the number, the redder the star.
+
+1.  Carbon stars were discovered in the middle of the 1800s by Father Angelo Secchi.
+
+1.  They are the source of much, if not most of the carbon in the universe.
 
 
 |    |    |

@@ -45,13 +45,42 @@ Optical Double Star
 ## Alpha Capricorni Information:
 ---
 
-1.  This star is also called Algedi, from the Arabic meaning “the kid” (a young goat) and it refers to the whole constellation of Capricorn.
+1.  This is 4th magnitude optical double star in the constellation Capricorn.  They look close together, but they are not actually related to each other.
+	- Both are rich, yellowish-orange
+	- Temperatures for both are around 8,500⁰ F, similar to our Sun
+	- Both have stopped fusing hydrogen in their cores and are preparing to fuse their internal helium to carbon.
+
+1.  This star is also called Algedi (or Al Giedi), from the Arabic meaning “the kid” (a young goat) and it refers to the whole constellation of Capricorn.
 
 1.  Since both stars can be seen with the unaided eye, it is unclear whether “Algedi” refers to both stars, or just the brightest star.
  
 1.  Note that despite their similar magnitude, one is much farther – and much more luminous – than the other.
 
 1.  Though most stars with the name “alpha” are the brightest star in their constellation, with the combined magnitude of the two stars, Alpha Capricorni is actually the third brightest star in Capricorn (delta capricorni is the brightest).  It could be named “alpha” because of its position in the constellation, resulting in it being the first star named.
+
+	a.  Alpha<sup>1</sup> Cap
+	
+	|    |    |
+	|---:|:---|
+	|**Spectral Type**|G3, evolved yellow supergiant|
+	|**Distance**|690 light years away (light traveling since the dark ages of the 1300s)
+	|**Temperature**|8700 &deg;F|
+	|**Luminosity**|930 Suns, 176 Suns total|
+	|**Diameter**| 40 Suns (and 5x bigger than Alpha<sup>2</sup> Cap)|
+	|**Mass**| 5 solar masses|
+	|   |   |
+
+	b.  Alpha<sup>2</sup> Cap
+
+	|    |    |
+	|---:|:---|
+	|**Spectral Type**|G8, yellow giant|
+	|**Distance**|109 light years away (light traveling since early 1900s)|
+	|**Temperature**|8050 &deg;F|
+	|**Luminosity**|43 Suns visual, 48 Suns total|
+	|**Diameter**|8 Suns|
+	|**Mass**|2.5 solar masses|
+	|   |   |
 
 
 |    |    |

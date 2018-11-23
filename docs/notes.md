@@ -30,6 +30,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [Ceres](solar-system/asteroids/ceres.md)
 - #### Comets
     - [Comets](solar-system/comets/!comet-info.md)
+    - [Comet Encke](solar-system/comets/comet-encke.md)
 - #### Space Missions
     - [Missions](solar-system/space-missions/!missions-info.md)
 

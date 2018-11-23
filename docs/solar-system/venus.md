@@ -2,7 +2,7 @@
 <script type="text/javascript">
 	var objectName ="Venus"
 	var objectDesc ="Earth's Closest Planetary Neighbor"
-	var objectImage="venus.jpg"
+	var objectImage="venus.png"
 </script>
 
 |    |    |

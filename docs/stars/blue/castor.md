@@ -27,7 +27,9 @@ Non-Contrast Multiple Star System
 |---|:---:|:---:|
 |   | <br/>**Actual**| **Compared<br/>to Sun** |
 |**Distance** | ~52 ly | -- |
-|**Actual Brightness**	 | --	 | 34 / 14 |
+|**Orbital Period**      | 467 yrs | --  | 
+|**Separation**          | 107 au <br/>about the distance from the Sun to Pluto| --  |
+|**Actual Brightness**	 | --  | 34 / 14 |
 |**Surface Temperature** | 16,000 ºF | 1.4 |
 |**Diameter** (average)  | -- | -- |
 |**Mass**	             | -- | -- |
@@ -48,26 +50,128 @@ Non-Contrast Multiple Star System
 
 1.	Castor is the 17th brightest star in the Northern Hemisphere’s night sky (24th brightest in the night sky when including Southern Hemisphere’s bright stars).
 
-1.	Through a telescope, it can be seen that Castor is more than one star.
+1.	Through a telescope, it can be seen that Castor is more than one star - there are actually six stars in this system.
  
-    1.  The two bright stars (mag. 2.0 and 2.8) form a multilple star system.
+    1.  The two visible bright stars (mag. 2.0 and 2.8) form a multiple star system. Both stars are very similar in appearance, but a medium sized telescope is necessary to split them.
 
-    1.  They are separated by about 107 AU (Pluto’s distance from our sun is 40 AU).
+        a.  They are separated by about 107 AU (Pluto’s distance from our sun is 40 AU).
 
-        1. This was the first real multiple star to be recognized.  (Accounts differ as to who realized it first.  Either Reverend John Michell realized it in 1767, or Sir William Herschel realized it and announced it in 1803.)
+        b.  This was the first real multiple star to be recognized.  (Accounts differ as to who realized it first.  Either Reverend John Michell realized it in 1767, or Sir William Herschel realized it and announced it in 1803. It may have been resolved as a double star as early as 1678 by Giovanni Cassini.)
 
-	    1.	A faint third star may be seen (mag. 9.0).  It doesn’t seem to be physically associated with the two bright stars.
+        c.  It was actually the first gravitationally bound objects observed beyond our solar system.
 
-1.	Each of the three stars are themselves spectroscopic binaries!
+	    d.  A faint third star may be seen (mag. 9.0).  It doesn’t seem to be physically associated with the two bright stars.
 
-    1.  Star A is really two almost identical stars which take about 9 days to orbit each other.
+1.	Each of the three stars are themselves spectroscopic binaries -- a double-double-double star system!
 
-    1.  Star B is really two stars which only take 3 days to orbit each other.
+    1.  Castor A is really two almost identical stars which take about 9 days to orbit each other.
 
-    1.  Star C is really two, much cooler and lower mass stars (M1), which take a mere 20 hours to orbit each other.
+    	|    |    |
+        |---:|:---|
+        |**Separation**| 0.12 AU (about the distance from Mercury to the Sun)|
+        |**Orbital Period**| 9 days |
+    	|    |    |
+
+        a.  Castor Aa
+        
+        |    |    |
+        |---:|:---|
+        |**Temperature**|15,700 &deg;F|
+        |**Diameter**| 1.66 Suns | 
+        |**Luminosity**| 34 Suns |
+        |**Spectral Type**| white (main sequence) |
+        |**B-V Color Index**| +0.04, white |
+        |**Magnitude** | +2.88 |
+        |**Mass** | 2.15 solar masses |
+        |    |    |
+
+        b.  Castor Ab
+        
+        |    |    |
+        |---:|:---|
+        |**Spectral Type**| red dwarf |
+        |**Magnitude**| +9.83 |
+        |**Mass** | 0.5 solar masses |
+        |    |    |
+
+
+    1.  Castor B is really two stars which only take 3 days to orbit each other.
+
+    	|    |    |
+        |---:|:---|
+        |**Separation**| 0.03 AU (about 1/4th the distance from Mercury to the Sun)|
+        |**Orbital Period**| 2.93 days |
+    	|    |    |
+
+        a.  Castor Ba
+
+        |    |    |
+        |---:|:---|
+        |**Temperature**|16,500 &deg;F|
+        |**Diameter**| 2.84 Suns | 
+        |**Luminosity**| 56 Suns |
+        |**Spectral Type**| white (main sequence) |
+        |**B-V Color Index**| +0.03, white |
+        |**Magnitude** | +1.58 |
+        |**Mass** | 1.7 solar masses |
+        |    |    |
+
+        b.  Castor Bb
+
+        |    |    |
+        |---:|:---|
+        |**Spectral Type**| red dwarf |
+        |**Mass** | 0.5 solar masses |
+        |    |    |
+
+    1.  Castor C is really two, much cooler and lower mass stars (M1), which take a mere 20 hours to orbit each other.
+
+        - A pair of red dwarfs that lie about 1,100 AU from the brighter pair.
+
+        - Castor C orbits A & B about every 10,000 years.
+
+        - This is one of only a few known eclipsing binary stars that are both red dwarfs.
+
+        - One or both of them are flare stars, meaning they will sometimes suddenly give off large amounts of surface magnetic energy. (Proxima Centauri is also a flare star.) 
+
+        - Combined luminosity of 0.05 Suns
+ 
+    	|    |    |
+        |---:|:---|
+        |**Separation**| 0.018 AU |
+        |**Orbital Period**| 19.5 hours |
+    	|    |    |
+
+        a.  Castor Ca
+
+        |    |    |
+        |---:|:---|
+        |**Temperature**| 5,4000 &deg;F|
+        |**Magnitude** | +9.1 |
+        |**Mass** | 0.62 solar masses |
+        |    |    |
+
+	    b.  Castor Cb
+
+        |    |    |
+        |---:|:---|
+        |**Temperature**| 5,4000 &deg;F|
+        |**Magnitude** | +9.6 |
+        |**Mass** | 0.60 solar masses |
+        |    |    |
 
 1.	In ancient Greece, sailors looked to the twins Castor and Pollux for protection against the dangers of being at sea.
 
+## Gemini – the Twins
+
+1.  Castor & Pollux are not related gravitationally.  Pollux is 34 light years away, Castor is 52.  Pollux is an orange giant star.  Castor is a white star.
+
+1.  Castor’s designation is Alpha Gem, but it is actually fainter than Beta Gem (Pollux).  It’s likely that either Castor or Pollux has changed in luminosity over the centuries.
+
+1.  In Greek mythology Castor & Pollux are really half-brothers, with their mother being Leda.  Pollux’s father is Zeus, so Pollux is immortal.  Castor’s father was King Tyndareus, king of Sparta.  Their sister was Helen of Troy.
+
+1.  Both Castor A & B are about 370 million years old.  Castor C presents a problem however.  At 370 million years old, Castor C should be 20% larger than it is.  Otherwise, it looks to be only 30-85 million years old ... and we’re not sure how it got connected with this system. 
+ 
 
 |    |    |
 |:---|---:|
@@ -88,5 +192,5 @@ Non-Contrast Multiple Star System
 |Surface Gravity| | |	
 |Surface Composition|2003-12-05|OK for all stars|
 |Spectral Type|2003-12-05|SIMBAD, Hipparcos:   A2 Vm|
-|Other Information|2003-12-05|<http://www.astro.uiuc.edu/~kaler/sow/castor.html><br/><http://www.solstation.com/stars2/castor6.htm><br/>SIMBAD (see “Castor A” & “Castor B”)<br/>Burnham’s Celestial Handbook|
+|Other Information|2003-12-05|<http://www.astro.uiuc.edu/~kaler/sow/castor.html><br/><http://www.solstation.com/stars2/castor6.htm><br/>SIMBAD (see “Castor A” & “Castor B”)<br/>Burnham’s Celestial Handbook<br/><http://stars.astro.illinois.edu/sow/castor.html>|
 |Composition|2013-07-30|Changed the to 74% / 24% / 2%|

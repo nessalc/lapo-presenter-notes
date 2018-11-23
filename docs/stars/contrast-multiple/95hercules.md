@@ -10,7 +10,7 @@
 |[Home](/notes/#object-notes) > Stars > [Contrast Multiple Stars](../!contrast-multiple-star-info) > [95 Herculis](#95-herculis)|  <div id=whatsup></div> |
 
 # 95 Herculis
-(Flamsteed Designation)
+(Flamsteed Designation)<br/>
 Contrast Multiple Star
 
 |   |   |   |   |
@@ -32,7 +32,7 @@ Contrast Multiple Star
 |**Mass**	             | -- | -- |
 |**Surface Gravity**	 | -- | -- |
 |**Surface Composition** (by mass) |74% hydrogen<br/>24% helium<br/>2% everything else| same |
-|**Spectral Type**       | GA5 IIIm / G5 III | G2 V | 
+|**Spectral Type**       | A5 IIIm / G8 III | G2 V | 
 |**Density** (gram/cubic cm) | -- | -- | 
 
 ---
@@ -41,15 +41,44 @@ Contrast Multiple Star
 
 1.  Recommended eyepiece: 24mm or 40 mm.
 
-1.  When people look through the telescope they should see two stars next to each other.  The brighter star should appear yellow and the dimmer star blue.
+1.  When people look through the telescope they should see two stars next to each other.  The brighter star should appear yellow and the dimmer star silvery blue.
 
 ---
 ## 95 Herculis Information:
 ---
 
-1.  
+1.  This is a 5th magnitude double star in the constellation Hercules
+
+1.  470 light years away -- Light we’re seeing left in 1546 AD:
+	- Reformation was happening, but Martin Luther died this year
+	- Michelangelo was made chief architect of St. Peter’s Basilica in Rome
+	- Spanish conquest of the Yucatan was completed
+		
+	
+1.  The two stars are separated by 882 AU
+
+	a.  Golden star
+
+	|    |    |   
+	|---:|:---|
+	|**Spectral Class**|Yellow-orange, G8 III, giant|
+	|**Temperature**|8180 %deg;F|
+	|**Luminosity**|128 Suns, 176 Suns total|
+	|**Diameter**|19.2 Suns|
+	|**Absolute Magnitude**| -0.44 visual, -0.86 total|
+	|   |   |	
+
+	b.  Silver star
+
+	|    |    |   
+	|---:|:---|
+	|**Spectral Class**|White, A5 IIIm, giant|
+	|**Temperature**|17,700 &deg;F|
+	|**Luminosity**|155 Suns visual, 191 Suns total|
+	|**Diameter**|4.51 Suns|
+	|**Absolute Magnitude**|-0.65 visual, -0.95 total|
+	|   |   |
  
-1.  
 
 |    |    |
 |:---|---:|
