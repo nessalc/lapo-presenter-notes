@@ -68,8 +68,8 @@ NASA<br/>
 <https://en.wikipedia.org/wiki/Lagoon_Nebula>
 
 ## M11
-NASA<br/>
-<https://www.nasa.gov/feature/goddard/2017/messier-11-the-wild-duck-cluster>
+European Southern Observatory (ESO)<br/>
+<https://www.eso.org/public/images/eso1430a/>
 
 ## M13
 Image of M13 - Globular Cluster in Hercules with a 10" telescope<br/>
@@ -152,6 +152,10 @@ NASA<br/>
 NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-65>
 
+## Leo Triplet
+M65, M66 and NGC 3628
+<https://en.wikipedia.org/wiki/Messier_65#/media/File:Anttlerstrio.jpg>
+
 ## M66
 NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-66>
@@ -161,12 +165,14 @@ NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-79>
 
 ## M81
-NASA<br/>
-<https://www.nasa.gov/feature/goddard/2017/messier-81>
+<https://en.wikipedia.org/wiki/Messier_81#/media/File:M81.jpg>
 
 ## M82
 NASA
 <https://www.nasa.gov/feature/goddard/2017/messier-82-the-cigar-galaxy>
+
+## M81 and M82
+<https://commons.wikimedia.org/wiki/File:AnttlersM81M82.jpg>
 
 ## M84
 NASA<br/>
@@ -185,8 +191,7 @@ NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-92>
 
 ## M94
-NASA<br/>
-<https://www.nasa.gov/feature/goddard/2017/messier-94>
+<https://en.wikipedia.org/wiki/Messier_94>
 
 ## M104
 Carsten Frenzl<br/>
@@ -224,7 +229,7 @@ NASA<br/>
 
 ## NGC 3242
 NASA/ESA<br/>
-<https://www.spacetelescope.org/images/opo9738c3/>
+<https://www.spacetelescope.org/projects/fits_liberator/fitsimages/danny_lacrue_1/>
 
 ## NGC 6530
 <https://en.wikipedia.org/wiki/Lagoon_Nebula>
