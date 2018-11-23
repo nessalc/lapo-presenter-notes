@@ -64,6 +64,9 @@ NASA<br/>
 NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-3>
 
+## M8
+<https://en.wikipedia.org/wiki/Lagoon_Nebula>
+
 ## M11
 NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-11-the-wild-duck-cluster>
@@ -117,10 +120,19 @@ National Optical Astronomy Observatory/Association of Universities for Research 
 Photograph: Bill Schoening, KPNO 4m telescope, October 1st 1973. Original Ektachrome color transparency.
 <https://www.noao.edu/image_gallery/html/im0349.html>
 
+## M44
+<https://www.messier-objects.com/messier-44-beehive-cluster/>
+
 ## M45
 Hubble Site<br/>
 <http://hubblesite.org/news_release/news/2004-20>
 <https://en.wikipedia.org/wiki/File:Pleiades_large.jpg>
+
+## M46
+<https://en.wikipedia.org/wiki/Messier_46>
+
+## M47
+<https://en.wikipedia.org/wiki/Messier_47>
 
 ## M49
 NASA<br/>
@@ -129,6 +141,9 @@ NASA<br/>
 ## M51
 NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-51-the-whirlpool-galaxy>
+
+## M52
+<https://en.wikipedia.org/wiki/Messier_52>
 
 ## M57
 <https://en.wikipedia.org/wiki/Ring_Nebula#/media/File:The_Ring_Nebula_M57.jpg>
@@ -196,23 +211,29 @@ date: 2014-05-19, 2014-05-23, 2014-06-05
 NASA<br/>
 <https://www.nasa.gov/feature/goddard/2017/messier-106>
 
-## NGC457
+## NGC 457
 Henryk Kowalewski - <http://www.ccd.neostrada.pl/HTM/NGC457.htm>
 <https://en.wikipedia.org/wiki/NGC_457#/media/File:NGC457.jpg>
 
-## NGC2392
+## NGC 663
+<https://en.wikipedia.org/wiki/NGC_663>
+
+## NGC 2392
 NASA<br/>
 <https://www.nasa.gov/mission_pages/hubble/hubble_anniversary/eskimo_nebula.html>
 
-## NGC3242
+## NGC 3242
 NASA/ESA<br/>
 <https://www.spacetelescope.org/images/opo9738c3/>
 
-## NGC6826
+## NGC 6530
+<https://en.wikipedia.org/wiki/Lagoon_Nebula>
+
+## NGC 6826
 NASA/ESA<br/>
 <https://www.spacetelescope.org/images/opo9738d/>
 
-## NGC7331
+## NGC 7331
 NASA<br/>
 <https://www.nasa.gov/image-feature/goddard/2018/hubbles-majestic-spiral-in-pegasus>
 

@@ -121,7 +121,7 @@
             else if (image != "" )
             {
                 document.getElementById("objectImage").innerHTML =
-                    '<a href="/img/image-credits/#' + name + '"><img src="/img/whats-up/' 
+                    '<a href="/img/image-credits/#' + name.toLowerCase().replace(" ","-") + '"><img src="/img/whats-up/' 
                         + image + '" title="Image Credit: ' + name + '"/><br/>&nbsp;</a>';
             }
             else
