@@ -1,3 +1,14 @@
+<script src="/js/whatsup.js"></script>
+<script type="text/javascript">
+	var objectName ="Telescope Tour"
+	var objectDesc ="Let's turn up the lights and take a look at the telescope."
+	var objectImage="telescope.jpg"
+</script>
+
+|    |    |
+|:---|---:|
+|| <div id=whatsup></div> |
+|    |    |
 
 # About Lake Afton Public Observatory's<br> 16-inch Ritchey-Chrétien telescope
 

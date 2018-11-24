@@ -5,10 +5,9 @@
 <https://github.com/caketron/lake-afton-presenter-notes>
 
 ## About these notes...
-In an effort to make Observatory Presenter notes more accessible, I have taken the notes left behind by WSU staff and I am using MkDocs (Markdown) to create web-based versions.  The project is in GitHub and I have set up hooks to trigger build/deploy using ReadtheDocs.org ... check out the progress here:  <http://lake-afton-presenter-notes.readthedocs.io/en/latest>.  
+In an effort to make Observatory Presenter notes more accessible, the notes left behind by WSU staff have been translated into Markdown (*.md) files and using [MkDocs](https://www.mkdocs.org/), are converted into HTML web-based documentation. Additional notes have been contributed by KAO and volunteer staff at the observatory. The project is in GitHub and web hooks have been set up to trigger build/deploy using ReadtheDocs.org ... check out the progress here:  <http://lake-afton-presenter-notes.readthedocs.io/en/latest>.  
 
-I have a theme I am testing locally that converts the pages into nightvision (red text on black) so that  we can serve them up directly in the observing room at LAPO ... also, if you have any content suggestions or feedback I would really appreciate it!! ( Please create an [Issue](https://github.com/caketron/lake-afton-presenter-notes/issues) on the GitHub project: [https://github.com/caketron/lake-afton-presenter-notes/issues](https://github.com/caketron/lake-afton-presenter-notes/issues)
-
+The pages are themed to support nightvision (red text on black) so that they can be served up directly in the observing room at LAPO ... also, if you have any content suggestions or feedback would be greatly appreciated!! ( Please create an [Issue](https://github.com/caketron/lake-afton-presenter-notes/issues) on the GitHub project: [https://github.com/caketron/lake-afton-presenter-notes/issues](https://github.com/caketron/lake-afton-presenter-notes/issues) )
 
 ## Additional Things **<< To Do >>** ...
 
