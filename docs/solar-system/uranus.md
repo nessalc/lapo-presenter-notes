@@ -1,7 +1,7 @@
 <script src="/js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Uranus"
-	var objectDesc ="It's pronounced: YOOR-un-us"
+	var objectDesc ="7th Planet from the Sun<br/>It's pronounced: YOOR-un-us"
 	var objectImage="uranus.jpg"
 </script>
 
