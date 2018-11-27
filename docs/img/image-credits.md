@@ -10,7 +10,8 @@ https://www.maxpixel.net/Dark-Dramatic-Grey-Storm-Night-Sky-Stormy-Clouds-17946
 NASA - <https://www.nasa.gov/content/goddard/nasas-hubble-sees-comet-ison-intact>
 
 ## The Sun
-NASA - <https://solarsystem.nasa.gov/resources/758/brief-outburst/?category=solar-system_sun>
+NASA - Solar Dynamics Observatory<br/>
+<https://sdo.gsfc.nasa.gov/gallery/main/item/33>
 
 ## Moon
 NASA - moon.png - <https://moon.nasa.gov/resources/54/phases-of-the-moon/><br/>

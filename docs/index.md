@@ -26,10 +26,12 @@
 
 1.  Updated and Completed formatting of many notes pages
 
-Next up...
+1.  Added "What's Up!" links to each object page - for example, check it out on the [M15](star-clusters/globular/m15.md) page, upper right corner.
 
-1.  Adding additional content
+1.  Added additional content
 
-1.  Adding "What's Up!" links to each object page - check out [M13](star-clusters/globular/m13.md) in upper right corner
+Up Next...
+
+1.  More additional content and objects...
 
 Please email _**caketron@cox.net**_ with any suggestions, corrections or additional content ideas.
