@@ -1,5 +1,5 @@
 <!-- 
-This it the object template markdown for use in setting up new object pages.
+This is the object template markdown for use in setting up new object pages.
 Copy this page to the appropriate sub-folder and rename after the object it describes 
 
 Also, be sure to add entries to the following two pages:
@@ -103,9 +103,9 @@ Brief description of object
 <!-- Please provide references for where details were obtained for future update and confirmation... -->
 
 ###### References
-|   |   |   |
-|---|---|---|
+|        |           |         |
+|--------|-----------|---------|
 |**Item**|**Updated**|**Notes**|
-| ... | -- |   |
-|   |   |   |
+| ...    | --        |         |
+|        |           |         |
 

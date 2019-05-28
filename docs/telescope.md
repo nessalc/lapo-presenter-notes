@@ -59,10 +59,27 @@ Sigma 16 <br>
 | 80mm           | 67.5x          |
 
 #### Secondary Telescope, Refractor (white)
-5-inch aperture, refractor
+
+6-inch Refractor<br/>
+Lunt Engineering ED-APO Refractor<br/>
+*ED-APO (Extra Low Dispersement - Apochromatic Lenses)
+
+|                |               |
+|---------------:|:--------------|
+|**Aperture**    | 152 mm        |
+|**Focal Ratio** | F/7.9         |
+|**Focal Length**| 1200 mm       |
+|                |               |
+
 
 #### Finder Scope, Refractor (black)
-4-inch aperture, F/10 refractor
+4-inch Refractor<br/>
+
+|                |               |
+|---------------:|:--------------|
+|**Aperture**    | 100 mm        |
+|**Focal Ratio** | F/10          |
+|                |               |
 
 ---
 ## Common Formulas

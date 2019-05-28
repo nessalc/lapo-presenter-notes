@@ -113,6 +113,9 @@ Photo by Alexander Andrews on Unsplash<br/>
 ## M35
 <https://en.wikipedia.org/wiki/Messier_35>
 
+## M36
+<https://www.messier-objects.com/wp-content/uploads/2015/04/Messier-36.jpg>
+
 ## M37
 <https://en.wikipedia.org/wiki/Messier_37>
 

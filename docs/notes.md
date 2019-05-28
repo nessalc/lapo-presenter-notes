@@ -44,6 +44,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [Arcturus](./stars/red/giant/arcturus.md)
     - [Capella](./stars/red/giant/capella.md)
     - [Pollux](./stars/red/giant/pollux.md)
+    - [R Leporis](./stars/red/giant/r-leporis.md)
     - [S Cephei](./stars/red/giant/s-cephei.md)
 - ###### Super Giant
     - [Red Super Giant Stars](./stars/red/supergiant/!red-supergiant-stars.md)
@@ -120,6 +121,7 @@ Lake Afton Public Observatory's 16-inch [telescope](telescope.md):
     - [M24](star-clusters/open/m24.md)
     - [M25](star-clusters/open/m25.md)
     - [M35](star-clusters/open/m35.md)
+    - [M36](star-clusters/open/m36.md)
     - [M37](star-clusters/open/m37.md)
     - [M44](star-clusters/open/m44.md)
     - [M45](star-clusters/open/m45.md)
