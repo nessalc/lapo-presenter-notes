@@ -23,18 +23,16 @@ However, if you are just cloning the existing Presenter Notes project from GitHu
 Create a virtual environment for the Presenter Notes Project.  
 Begin by creating a directory for the Python virtual environment;
 
-Example...
+Example... from within your lake-afton-presenter-notes project folder
 ```
-md c:\virtz
-md c:\virtz\lake-afton-presenter-notes
-virtualenv c:\virtz\lake-afton-presenter-notes
+virtualenv venv
 ```
 
 #### Activate the virtual environment:
 
 You can do this from any folder location, recommend from your local github\lake-afton-presenter-notes project folder
 ```
-c:\virtz\lake-afton-presenter-notes\Scripts\activate.bat
+venv\Scripts\activate.bat
 ```
 
 ## Prerequisites
@@ -52,7 +50,7 @@ pip install -r pip-dependencies.txt
 
 ... for manual installation ... do the following...
 
-From the d:\gitLAPO\lake-afton-presenter-notes\ folder, PIP install MKDocs:
+From your project folder, PIP install MKDocs:
 
 ```python
 pip install mkdocs
@@ -66,7 +64,16 @@ This project uses the MkDocs Bootswatch Theme: [Cyborg](http://mkdocs.github.io/
 pip install mkdocs-bootswatch
 ```
 
-### Start MkDocs Server
+### Distance Data
+
+Javascripts have been added to the project, see docs\js\utils.js and docs\init\initialize-json.py, both of these work to create and update ***current*** distance information for each object within the Solar System on pages for each Solar System object. Once the site is up, visit [The Moon > Overview](http://localhost:8000/solar-system/moon/) for example.
+
+Before starting up the MKDocs server, initialize the Distance Data file with the following command:
+```python
+python ../docs/init/initialize_json.py
+```
+
+### Start MkDocs Server - for local testing
 To start the MKDocs dev server for testing.
 From the presenterNotes folder, execute the following command
 
@@ -101,12 +108,18 @@ Change directory into the Site folder and execute the following:
 python -m http.server 8080
 ```
 
-Then visit the site by visiting the following address in your browser;
+Then visit the site by visiting the following address in your browser:
 
 [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
 
-<< TO DO >>:  ... to be completed ... !!!
-	
+## Simplified Deployment
+
+Once the build has completed, a **Site** folder will be found in your project repo folder.
+
+Copy the venv folder and contents of the resources folder into this new **Site** folder.
+
+This **Site** folder now contains the resources for a static website deployment.  Copy the contents to a destination server and execute the startExplainerNotes.bat for the target browser to host the notes locally, e.g., ... the observatory telescope computer.
+
 ## Versioning
 For the sake of tracking version history, the version numbering will follow a year, month, date numbering sequence, following by a sequence id to account for multiple versions within a single date, in the following format:
 

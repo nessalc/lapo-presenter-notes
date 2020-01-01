@@ -18,20 +18,20 @@
 
 ---
 
-### Latest Updates...
+### **NEW** Latest Updates... 2019-10-08
 
-1.  Search function now works
+1.  Planets and The Moon now have current and live-updating distance information for Sun-to-object and Earth-to-object distances (Thanks to James Classen!!)
 
-1.  Add Notes > [Telescope](telescope) page - with details about Observatory's telescopes
+1.  Update Jupiter and Saturn with latest moons counts (Jupiter = 79, Saturn = 82)
 
-1.  Updated and Completed formatting of many notes pages
+1.  Further Notes updates to > [Telescope](telescope) page - Added Eyepiece magnification and information, as well as Telescope Start-up and Shut-down procedure
 
-1.  Added "What's Up!" links to each object page - for example, check it out on the [M15](star-clusters/globular/m15.md) page, upper right corner.
+1.  Moon page has been broken up into separate pages for [Moon Overview](solar-system/moon), [Moon Mare](solar-system/moon-mare), [Moon Craters](solar-system/moon-craters), [Moon Mountains](solar-system/moon-mountains) and [Other Moon Features](solar-system/moon-other-features) to make these easier to browse and locate information.
 
-1.  Added additional content
+1.  Moon "What's Up!" animation has an improved full lunar-month animation based on Lunar Reconnaisance Orbiter data.
 
 Up Next...
 
-1.  More additional content and objects...
+1.  Continue adding more content and objects...
 
 Please email _**caketron@cox.net**_ with any suggestions, corrections or additional content ideas.

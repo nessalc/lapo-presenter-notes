@@ -1,8 +1,29 @@
 <script src="/js/whatsup.js"></script>
+<script src="/js/utils.js"></script>
 <script type="text/javascript">
 	var objectName ="Jupiter"
-	var objectDesc ="A Gas Giant<br/>Largest Planet in the Solar System"
+	var objectDesc ="A Gas Giant<br/>Twice as massive as all the other planets combined"
 	var objectImage="jupiter.jpg"
+</script>
+<script type="text/javascript">
+	setInterval(function(){
+		fetch("../data.json")
+			.then(function(response) {
+				return response.json();
+			})
+			.then(function(data) {
+				var d=new Date();
+				var v=interpolate(data.Jupiter.sun_distance,d.valueOf()/1000);
+				document.getElementById("dist_sun").innerText=au_to_mi(v).numberFormat(3)+' miles';
+				document.getElementById("dist_sun_au").innerText=v.numberFormat(3);
+				var v=interpolate(data.Jupiter.earth_distance,d.valueOf()/1000);
+				document.getElementById("dist_earth").innerText=au_to_mi(v).numberFormat(3)+' miles';
+				document.getElementById("dist_earth_light").innerText=au_to_ls(v).timeFormat()+' light-time';
+			})
+			.catch(function(error) {
+				console.log('error: '+error);
+			});
+		}, 1000);
 </script>
 
 |    |    |
@@ -17,6 +38,8 @@ Information about the planet Jupiter.
 |---|:--:|:--:|
 |  |<br/>**Actual**|**Compared<br/>to Earth**|
 |**Distance from Sun** (average)|480 million miles|5.2|
+| **Distance from Sun** (current)   |  <span id="dist_sun">loading...</span>  | <span id="dist_sun_au">loading...</span> |
+| **Distance from Earth** (current) | <span id="dist_earth">loading...</span><br /><span id="dist_earth_light">loading...</span> |                    --                    |
 |**Revolution Period**|11.9 Earth years|--|
 |**Rotation Period**|9 hr. 50 min.|--|
 |**Diameter** - equatorial|89,000 miles|11.3|
@@ -34,11 +57,13 @@ Information about the planet Jupiter.
 
 1.	Recommended eyepiece: 26mm or 40 mm.
 
-2.	Jupiter will appear as a bright white ball.  If it is too bright, use the mask that fits over the front of the telescope.
+1.	Jupiter will appear as a bright white ball.  If it is too bright, use the mask that fits over the front of the telescope.
 
-3.	Jupiter will appear as a bright white ball with brown belts.   The different colors are caused by different layers of gas in Jupiter’s atmosphere.
+1.	Jupiter will appear as a bright white ball with brown belts.   The different colors are caused by different layers of gas in Jupiter’s atmosphere.
 
-4.	Up to four of Jupiter’s 63 moons can also be seen.  These four moons, which lie in a plane, are referred to as the Galilean moons.
+1.  Jupiter trail's only Saturn (which may have as many as 82 moons) as the planet with the most moons: Jupiter has 53 named moons and 26 others awaiting confirmation and official names; for a combined possible total of 79 moons.
+
+1.	Up to four of Jupiter’s 79 moons can also be seen.  These four moons, which lie in a plane, are referred to as the Galilean moons.
 
 ---
 ## Jupiter Information
@@ -73,7 +98,7 @@ a.	There is a system of three rings - The “Halo” begins at about 100,000 km 
 
     c.	The dust particles that make up the rings is thought to be composed of dust particles about the size of cigarette smoke particles. 
 
-7.	Jupiter has 53 confirmed moons and scientist believe there are 14 more provisional ones for a total of 67 moons… is has so many that it is almost a mini solar system. (as of 2017-04-06)
+7.	Jupiter has 53 confirmed moons and scientist believe there are 26 more provisional ones for a total of 79 moons… is has so many that it is almost a mini solar system. (as of 2019-10-10)
 
 8.	Jupiter has northern lights, too!
 
@@ -122,7 +147,7 @@ a.	There is a system of three rings - The “Halo” begins at about 100,000 km 
 
 ## Galilean Moons General Information
 
-1.	Jupiter has more moons than the other planets.  Jupiter has 63 known moons.
+1.	Jupiter has 53 named moons and 26 others awaiting official names for a combined possible total of 79 moons.  Jupiter only recently lost the title of planet with the most moons to Saturn, which has possibly 82 moons.
 
 |    |    |
 |:---|---:|
@@ -203,5 +228,6 @@ a.	There is a system of three rings - The “Halo” begins at about 100,000 km 
 |Diameter compared to Moon|2017-04-06|http://solarviews.com/eng/jupiter.htm|
 |Other Information|2017-04-06|Hordes more info @<br/>http://solarviews.com/eng/jupiter.htm<br/>and https://solarsystem.nasa.gov/planets/jupiter/moons|
 |Ganymede oceans,<br/> Galileo spacecraft<br/>observation of<br/>volcanoes and<br/>corrected amount<br/>of volcanoes spew.|2017-04-06|https://www.nasa.gov/press/2015/march/nasa-s-hubble-observations-suggest-underground-ocean-on-jupiters-largest-moon<br/>and<br/>https://www.jpl.nasa.gov/releases/98/iohot.html|
+|Number of Moons|2019-10-10|https://solarsystem.nasa.gov/moons/jupiter-moons/overview/?page=0&per_page=40&order=name+asc&search=&placeholder=Enter+moon+name&condition_1=9%3Aparent_id&condition_2=moon%3Abody_type%3Ailike <br/>https://carnegiescience.edu/news/dozen-new-moons-jupiter-discovered-including-one-%E2%80%9Coddball%E2%80%9D|
 |   |   |   |
 

@@ -27,6 +27,9 @@ var/
 .installed.cfg
 *.egg
 pip-selfcheck.json
+pip-install-offline.bat
+pip-uninstall.txt
+wheelhouse/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -98,3 +101,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Python virtual environment settings
+pyvenv.cfg
+
+# data which is generated each time
+docs/solar-system/data.json

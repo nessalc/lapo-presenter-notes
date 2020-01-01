@@ -49,15 +49,6 @@ Sigma 16 <br>
 | **Focal Ratio**    | F/13.5 |
 | **Mount**          | Equatorial, off-axxis |
 
-#### Eyepiece Magnification
-
-|                |                |
-|---------------:|:--------------:|
-| **Size**       | **Magnification**|
-| 24mm           | 225x           |
-| 40mm           | 135x           |
-| 80mm           | 67.5x          |
-
 #### Secondary Telescope, Refractor (white)
 
 6-inch Refractor<br/>
@@ -71,15 +62,39 @@ Lunt Engineering ED-APO Refractor<br/>
 |**Focal Length**| 1200 mm       |
 |                |               |
 
+## Telescope Eyepiece Magnification and Information
 
-#### Finder Scope, Refractor (black)
-4-inch Refractor<br/>
+### Main Telescope (16")
 
-|                |               |
-|---------------:|:--------------|
-|**Aperture**    | 100 mm        |
-|**Focal Ratio** | F/10          |
-|                |               |
+|**Focal Length**|**E FOV**|**Power (x)**|**Exit Pupil**|**FOV**|**Manufacturer**|
+|:--:|:--:|:--:|:--:|:--:|:--|
+|40  |65  |137 |2.9 mm |0.47 degrees|Pentax SMC-XL|
+|32  |44  |171 |2.3 mm |0.25 degrees|Pentax SMC-XL w/1.25 dia|
+|28  |68  |195 |2.0 mm |0.34 degrees|Explore Scientific|
+|25  |44  |219 |1.8 mm |0.2  degrees|Explore Scientific w/1.25 dia|
+|20  |65  |274 |1.4 mm |0.23 degrees|using 2x Barlow w/40 mm Pentax SMC-XL|
+|17  |44  |322 |1.2 mm |0.13 degrees|using 2x Barlow w/40 mm Pentax SMC-XL, w/1.25 dia.|
+|14  |68  |391 |1.0 mm |0.17 degrees|using 2x Barlow w/28 mm Explore Scientific|
+|12.5|44  |438 |.092 mm|0.1  degrees|using 2x Barlow w/25 mm|
+|8.5 |44  |644 |0.6 mm |0.06 degrees|using 2x Barlow w/17 mm|
+|    |    |   |       |            |                       |
+|5481|406 |   |       |            |                       |
+
+### 6-inch Refractor
+
+|**Focal Length**|**E FOV**|**Power (x)**|**Exit Pupil**|**FOV**|**Manufacturer**|
+|:--:|:--:|:--:|:--:|:--:|:--|
+|40  |65  |30 |5.0 mm |2.16 degrees|Pentax SMC-XL|
+|32  |44  |37 |4.1 mm |1.18 degrees|Pentax SMC-XL w/1.25 dia|
+|28  |68  |42 |3.6 mm |1.61 degrees|Explore Scientific|
+|25  |44  |48 |3.1 mm |0.91 degrees|Explore Scientific w/1.25 dia|
+|20  |65  |60 |2.5 mm |1.08 degrees|using 2x Barlow w/40 mm Pentax SMC-XL|
+|17  |44  |70 |2.1 mm |0.62 degrees|using 2x Barlow w/40 mm Pentax SMC-XL, w/1.25 dia.|
+|14  |68  |85 |1.7 mm |0.80 degrees|using 2x Barlow w/28 mm Explore Scientific|
+|12.5|44  |96 |1.5 mm |0.45 degrees|using 2x Barlow w/25 mm|
+|8.5 |44  |141|1.0 mm |0.31 degrees|using 2x Barlow w/17 mm|
+|    |    |   |       |            |                       |
+|1200.8|152|   |       |            |                       |
 
 ---
 ## Common Formulas
@@ -160,6 +175,44 @@ Some people see things better with their glasses, while others see better withou
 
 ### How do I focus the telescope? 
 The telescope should be focused so you shouldn't have to refocus it. (We discourage people from focusing the telescope so that it can remain focused for others. If someone does refocus it, make sure you check the focus before the next person looks.) The fuzziness or unfocused image that you see is often caused by the atmosphere.
+
+---
+
+## Telescope Start Up Checklist
+
+1.  Plug in the power cord at the base of the telescope, then switch on all three switches.  
+    NOTE: the middle switch must be pulled out to toggle it
+
+1.  Plug in the PC at the desk, and turn on the power strip to power up the PC
+
+1.  After Windows loads, launch **SiTechExe** and verify communications with the telescope controller
+
+1.  Click **StrtUpTrkg** or **Start** in the **SiTechExe** window if not already started
+
+1.  Launch **Sky Tools** or click on **SkyView** in the SiTechExe window
+
+1.  Course Alignment (Optional): if the telescope was previously shutdown pointing straight up (Zenith) then you may do a course alignment to Zenith.  
+    Using **SkyView**: Find the small yellow "+" at the exact center of the chart (zoom in for accuracy with the mouse wheel).  right-click on the "+" and select "**GoTo or Sync...**, then click the **Sync** in the pop-up window and then **OK** in the **InitPoint** window.
+
+1.  Removing the dust covers: Use the hand-controller to move the telescope down to the East at about a 30-degree angle.  Use the steps if necessary to remove both the main scope and finder scope covers.
+
+1.  Precision Alignment:  Looking outside, find and identify a bright star (preferred) or planet.  If course aligned, you may do a **GoTo** using **Sky Tools** or **SkyView**.  Center the star in the telescope's eyepiece using the hand-controller.  
+    Using **SkyView**: Click on that star in the chart. Click on **Sync** in the first pop-up window.  Click on **OK** in the **InitPoint** pop-up window.
+
+1.  Ready for Observing!
+
+## Telescope Shut-down Checklist
+
+1.  Install the dust covers - use the hand-controller to move the telescope down to the East at about a 30 degree angle.  use the steps if necessary to install both the main scope and 6-inch scope dust covers.
+
+1.  Use **Sky Tools** or **SkyView** to find and slew the telescope to Zenith (pointing directly overhead).
+
+1.  Turn off the telescope power by toggling off all three switches below the telescope  
+    NOTE: the middle switch must be pulled out to toggle it (the middle toggle must be pulled out to toggle it)
+
+1.  Unplug the telescope power cord.
+
+1.  Close all programs on the PC.  Shut-down Windows, power off the power strip behind the monitors, and unplug the PC power cord from the power strip.
 
 ---
 

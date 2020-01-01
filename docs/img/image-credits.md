@@ -16,7 +16,14 @@ NASA - Solar Dynamics Observatory<br/>
 ## Moon
 NASA - moon.png - <https://moon.nasa.gov/resources/54/phases-of-the-moon/><br/>
 moon.jpg - <https://pxhere.com/en/photo/23218><br/>
-moon.gif - <https://www.reddit.com/r/gfycats/comments/2p4m18/moon_phases_and_libration/>
+moon.gif - <https://www.reddit.com/r/gfycats/comments/2p4m18/moon_phases_and_libration/><br/>
+lro-lunarday.gif - <https://svs.gsfc.nasa.gov/4442><br/>
+> Lunar Day   
+> 706 frames, played at 24 fps = 29.45 seconds = ~1 lunar day  
+>  - New Moon	6/3/2019 10:01 UTC (5:01 CST)   
+>    ...thru...  
+>  - New Moon	7/2/2019 19:16 UTC (14:16 CST)  
+
 
 ## Mercury
 NASA - <https://solarsystem.nasa.gov/planets/mercury/overview/>

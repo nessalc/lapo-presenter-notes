@@ -1,8 +1,29 @@
 <script src="/js/whatsup.js"></script>
+<script src="/js/utils.js"></script>
 <script type="text/javascript">
 	var objectName ="Saturn"
 	var objectDesc ="The Ringed Planet"
 	var objectImage="saturn.jpg"
+</script>
+<script type="text/javascript">
+	setInterval(function(){
+		fetch("../data.json")
+			.then(function(response) {
+				return response.json();
+			})
+			.then(function(data) {
+				var d=new Date();
+				var v=interpolate(data.Saturn.sun_distance,d.valueOf()/1000);
+				document.getElementById("dist_sun").innerText=au_to_mi(v).numberFormat(3)+' miles';
+				document.getElementById("dist_sun_au").innerText=v.numberFormat(3);
+				var v=interpolate(data.Saturn.earth_distance,d.valueOf()/1000);
+				document.getElementById("dist_earth").innerText=au_to_mi(v).numberFormat(3)+' miles';
+				document.getElementById("dist_earth_light").innerText=au_to_ls(v).timeFormat()+' light-time';
+			})
+			.catch(function(error) {
+				console.log('error: '+error);
+			});
+		}, 1000);
 </script>
 
 |    |    |
@@ -17,6 +38,8 @@ Information about the planet Saturn.
 |---|:--:|:--:|
 |  |<br/>**Actual**|**Compared<br/>to Earth**|
 |**Distance from Sun** (average)| 887 million miles | 9.5 |
+| **Distance from Sun** (current)   |  <span id="dist_sun">loading...</span>  | <span id="dist_sun_au">loading...</span> |
+| **Distance from Earth** (current) | <span id="dist_earth">loading...</span><br /><span id="dist_earth_light">loading...</span> |                    --                    |
 |**Revolution Period**| 29.5 Earth years | -- |
 |**Rotation Period**| 10 hours 39 minutes | -- |
 |**Diameter** equatorial| 72,366 miles | 9 |
@@ -60,7 +83,7 @@ Information about the planet Saturn.
 
 8.	Like many of the other gas planets, Saturn is differentiating (probably due to helium rain-out in the interior).  As a result it emits more energy than it receives from the sun.
 
-9.	Saturn has at least 52 moons and another 8 possible moons have been found, bringing the potential total up to 60.
+9.	Saturn has at least 53 moons and another 29 possible moons have been found, bringing the potential total up to 82 moons - the most of any planet in the Solar System.
 
 	a.	Saturn’s largest moon, Titan, is larger than the planet Mercury. It is about 40% the size of Earth
 
@@ -134,7 +157,9 @@ Information about the planet Saturn.
 
 ## Saturn's Moons Information
 
-Saturn has at least 52 moons  and another 8 possible moonlets have been found, bringing the potential total up to 60.  Up to five of these moons can be seen with the telescope.
+1.  Saturn has at least 53 named moons with an additional 29 moons awaiting confirmation -- for a total of 82 moons. The most moons of any planet in the Solar System. 
+
+1.  Up to five of these moons can be seen with the telescope.
 
 ### Titan
 
@@ -169,3 +194,4 @@ Saturn has at least 52 moons  and another 8 possible moonlets have been found, b
 |Diameter|2002-09-29|previously Dione: 672|
 |Diameter compared to Moon|2002-09-29|OK|
 |Other Information|2002-09-29|added Iapetus stuff – can’t we see it sometimes, too?<br/>2005-02-25 - Update Titan, add Huygens stuff, update number of moons<br/>2005-03-16 - Update composition of Titan’s atmosphere<br/>2005-12-16 - update number of moons<br/>2006-02-10 - Add Enceladus info<br/>2008-02-21 - Updated Enceladus info, took Iapetus out of the table and put Enceladus in the table|
+|Number of Moons|2019-10-10|https://solarsystem.nasa.gov/planets/saturn/overview/ |
