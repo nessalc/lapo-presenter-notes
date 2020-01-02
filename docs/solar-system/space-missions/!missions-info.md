@@ -67,13 +67,13 @@ This probe was India’s first lunar probe.  It included an impactor sub-satelli
 
 The LCROSS (Lunar Crater Observation and Sensing Satellite) mission was designed to see if water exists in the permanently shadowed craters of the Moon.  After spending a little over one month lining up its orbit, it sent its upper stage booster rocket to crash into the moon, and it followed shortly after.  The mission was a success and the presence of water was confirmed in the Cabeus crater near the Lunar South Pole.
 
-## LRO
+## [LRO](https://lunar.gsfc.nasa.gov)
 
 |   |   |
 |---|---|
 |**Launch**            | Thursday, June 18, 2009 |
 |**Orbital insertion** | June 23, 2009           |
-|**Duration**          | over 4.5 years so far   |
+|**Duration**          | ongoing                 |
 
 The Lunar Reconnaissance Orbiter is the first in a series of U.S. missions to the Moon.  LRO’s mission is to create highly detailed maps of the Moon in order to locate future landing sites and resource deposits, and to measure radiation levels. It has released the most detailed map of the Moon ever created, and its mission is ongoing.
 
