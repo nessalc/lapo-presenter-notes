@@ -16,7 +16,11 @@ nav:
       - Notes: 'notes.md'
       - About: 'about.md'
       - Objects: 'object-availability.md'
-      - Telescope: 'telescope.md'
+      - Telescope: 
+         - 'Telescope Specs': 'telescope/telescope.md'
+         - 'Telescope Operations': 'telescope/telescope-operation.md'
+         - 'Cloudy Night Tour': 'telescope/telescope-cloudy.md'
+         - 'Common Formulas': 'telescope/telescope-formula.md'
       - Greek Letters: 'greek.md'
       - Reference Sites: 'reference.md'
       - Image Credits: 'img/image-credits.md'

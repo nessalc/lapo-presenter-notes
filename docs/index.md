@@ -18,17 +18,11 @@
 
 ---
 
-### **NEW** Latest Updates... 2019-10-08
+### **NEW** Latest Updates... 2021-10-20
 
-1.  Planets and The Moon now have current and live-updating distance information for Sun-to-object and Earth-to-object distances (Thanks to James Classen!!)
+1.  Updated [Telescope](telescope/telescope.md) Notes pages - separated into more sections. 
 
-1.  Update Jupiter and Saturn with latest moons counts (Jupiter = 79, Saturn = 82)
-
-1.  Further Notes updates to > [Telescope](telescope) page - Added Eyepiece magnification and information, as well as Telescope Start-up and Shut-down procedure
-
-1.  Moon page has been broken up into separate pages for [Moon Overview](solar-system/moon), [Moon Mare](solar-system/moon-mare), [Moon Craters](solar-system/moon-craters), [Moon Mountains](solar-system/moon-mountains) and [Other Moon Features](solar-system/moon-other-features) to make these easier to browse and locate information.
-
-1.  Moon "What's Up!" animation has an improved full lunar-month animation based on Lunar Reconnaisance Orbiter data.
+1.  Updated [Telescope Eyepiece magnification](telescope/telescope.md) and recommended usages pages (Thank you Fred!)
 
 Up Next...
 
