@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Vega"
 	var objectDesc ="Alpha Lyrae</br>Blue Star<br/>in the Constellation<br/>Lyra"

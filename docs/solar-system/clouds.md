@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Clouds"
 	var objectDesc ="The telescope cannot see through the clouds"

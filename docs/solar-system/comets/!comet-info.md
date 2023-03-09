@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Comet"
 	var objectDesc ="Icey ball of dirt"

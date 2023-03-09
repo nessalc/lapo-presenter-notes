@@ -18,7 +18,9 @@ def compute_body_info(body, date):
 
 start_time = int(d.timestamp()-3600)  # start one hour early, just in case
 end_time = int(d.timestamp()+3600*48)  # end 48 hours late, just in case
-for body in [ephem.Sun, ephem.Mercury, ephem.Venus, ephem.Moon, ephem.Mars, ephem.Jupiter, ephem.Saturn, ephem.Uranus, ephem.Neptune, ephem.Pluto]:
+for body in [ephem.Sun, ephem.Mercury, ephem.Venus, ephem.Moon, ephem.Mars,
+             ephem.Jupiter, ephem.Saturn, ephem.Uranus, ephem.Neptune,
+             ephem.Pluto]:
     b = body()
     earthdist, sundist = [], []
     for time in range(start_time, end_time, 3600):

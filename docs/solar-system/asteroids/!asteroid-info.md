@@ -3,6 +3,7 @@
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid-info) |
 
 # Asteroids
+
 General Information
 
 1.	The first asteroid discovered was found by Giuseppe Piazzi on January 1, 1801.  He named it Ceres, after the Sicilian goddess of grain.

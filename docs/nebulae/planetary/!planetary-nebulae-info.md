@@ -2,11 +2,12 @@
 |:---|---:|
 |[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Planetary](../!planetary-nebulae-info) |  |
 
-# Planetary Nebula 
+# Planetary Nebula
+
 General Information
 
 1.	As stars begin to die, they expand to become red giants.
-   
+
 2.	At the end of the red giant phase the star gently puffs off its outer layers.  These outer layers form the planetary nebula.
 
 3.	The gas moves away from the star with speeds of 6-20 miles per second (10-30 kilometers/second).  After 50-100 thousand years, the shell of gas has moved far enough from the star so it no longer shines.
@@ -38,6 +39,7 @@ General Information
 |[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Planetary](../!planetary-nebulae-info) > References | [top](#planetary-nebulae) |
 
 ###### References
+
 |   |   |   |
 |---|---|---|
 |**Item**|**Updated**|**Notes**|

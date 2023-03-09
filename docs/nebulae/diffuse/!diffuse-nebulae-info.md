@@ -2,12 +2,13 @@
 |:---|---:|
 |[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Diffuse Nebulae](../!diffuse-nebulae-info)|  |
 
-# Diffuse Nebula 
+# Diffuse Nebula
+
 General Information
 
 1.	Huge clouds of hydrogen and helium gas.
 
-2.	Over the course of a few hundred thousand or a few million years the cloud will break up into 100 200 smaller clouds and each of these smaller clouds will become a star. 
+2.	Over the course of a few hundred thousand or a few million years the cloud will break up into 100 200 smaller clouds and each of these smaller clouds will become a star.
 
 3.	These clouds contain very little matter compared to the amount of space they take up.  In fact they are a better vacuum than any vacuum we can make on Earth.
 
@@ -28,6 +29,7 @@ General Information
 |[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Diffuse Nebulae](../!diffuse-nebulae-info) > References|  |
 
 ###### References
+
 |   |   |   |
 |---|---|---|
 |**Item**|**Updated**|**Notes**|

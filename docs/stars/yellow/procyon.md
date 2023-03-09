@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Procyon"
 	var objectDesc ="Alpha Canis Minoris<br/>Yellow Solar-type Star<br/>in the Constellation<br/>Canis Minor"

@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Ceres"
 	var objectDesc ="Asteroid (Dwarf Planet)"
@@ -10,6 +10,7 @@
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Asteroids](../!asteroid-info) > [Ceres](#ceres)| <div id=whatsup></div> |
 
 # Ceres
+
 Asteroid (Dwarf Planet)
 
 |  |  |  |
@@ -26,10 +27,12 @@ Asteroid (Dwarf Planet)
 |**Number of moons**|0|--|
 
 ---
+
 #### What To Look For Through The Telescope
+
 ---
 
-1.  Ceres is the smallest-yet-identified dwarf planet and the only one in the asteroid belt. Ceres is the largest body in the asteroid belt, containing almost one-third of the region's total mass.
+1. Ceres is the smallest-yet-identified dwarf planet and the only one in the asteroid belt. Ceres is the largest body in the asteroid belt, containing almost one-third of the region's total mass.
 
 |    |    |
 |:---|---:|

@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Zeta Cancri"
 	var objectDesc ="Multiple Star System<br/>in the Constellation<br/>Cancer"

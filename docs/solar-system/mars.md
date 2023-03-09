@@ -1,5 +1,5 @@
-<script src="/js/whatsup.js"></script>
-<script src="/js/utils.js"></script>
+<script src="../../js/whatsup.js"></script>
+<script src="../../js/utils.js"></script>
 <script type="text/javascript">
 	var objectName ="Mars"
 	var objectDesc ="The Red Planet<br/><h5>(... and moons Deimos and Phobos)"

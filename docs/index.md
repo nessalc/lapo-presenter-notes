@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Welcome!"
 	var objectDesc ="Stay tuned to this space for the next object appearing in the telescope..."

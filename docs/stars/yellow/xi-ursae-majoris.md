@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Xi Ursae Majoris"
 	var objectDesc ="Yellow Solar-type Star<br/>in the Constellation<br/>Ursa Major"

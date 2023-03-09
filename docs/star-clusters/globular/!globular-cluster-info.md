@@ -3,6 +3,7 @@
 |[Home](/notes/#object-notes) > [Star Clusters](/notes/#star-clusters) > [Globular](../!globular-cluster-info) |  |
 
 # Globular Star Cluster
+
 General Information
 
 1.	Globular clusters are found in the galactic halo - above and below the plane of the Milky Way.

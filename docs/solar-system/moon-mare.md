@@ -170,4 +170,3 @@ Sea of Tranquility
 |                                                                                                                          |                           |
 | :----------------------------------------------------------------------------------------------------------------------- | ------------------------: |
 | [Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Earth](/notes/#planets) > [Moon](../moon) > Craters | [top](#moon-mare) |
-

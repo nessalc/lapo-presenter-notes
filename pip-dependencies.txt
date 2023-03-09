@@ -1,6 +1,6 @@
 # this pip-dependencies.txt file is required by Read the Docs ...
-mkdocs==1.2.3
-mkdocs-bootstrap==1.0
-mkdocs-bootswatch==1.0
-pytz>=2019.1
+mkdocs==1.4.2
+mkdocs-bootstrap==1.1
+mkdocs-bootswatch==1.1
+pytz>=2022.7.1
 pyephem==3.7.7.0

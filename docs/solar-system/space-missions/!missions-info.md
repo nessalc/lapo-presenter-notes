@@ -2,7 +2,7 @@
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Exploration Missions](#solar-system-exploration-missions) |  |
 
-# Solar System Exploration Missions 
+# Solar System Exploration Missions
 
 More comprehensive and up-to-date information on past, current and future NASA missions can be found at <https://www.nasa.gov/missions>.
 
@@ -109,7 +109,6 @@ Yutu (Jade Rabbit in Chinese) is a Chinese rover that was carried by the Changâ€
 |    |    |
 |:---|---:|
 |[Home](/notes/#object-notes) > [Solar System](/notes/#solar-system) > [Exploration Missions](../missions-info) > References|[top](#solar-system-exploration-missions)|
-
 
 ###### References
 

@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Telescope Tour"
 	var objectDesc ="Let's turn up the lights and take a look at the telescope."

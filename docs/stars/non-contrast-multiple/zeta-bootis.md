@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Zeta Bootis"
 	var objectDesc ="Multiple Star System<br/>in the Constellation<br/>Bootes"

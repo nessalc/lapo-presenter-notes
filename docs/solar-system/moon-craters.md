@@ -63,39 +63,39 @@
 
 #### Langrenus Crater Information
 
-1.  Langrenus is a prominent circular impact crater, but it appears oblong due to foreshortening. It lies on the eastern shore of the Mare Fecunditatis.
+1. Langrenus is a prominent circular impact crater, but it appears oblong due to foreshortening. It lies on the eastern shore of the Mare Fecunditatis.
 
-2.  The inner wall of Langrenus is wide and irregularly terraced, with an average width of about 20 kilometers. The walls of this crater are 6,500 feet above the surrounding plain.
+2. The inner wall of Langrenus is wide and irregularly terraced, with an average width of about 20 kilometers. The walls of this crater are 6,500 feet above the surrounding plain.
 
-3.  Note the complex rides and craterlet-chains on the outer slopes.
+3. Note the complex rides and craterlet-chains on the outer slopes.
 
-4.  The above craters are circular. They appear elliptical because they are near the edge of the moon and are therefore foreshortened.
+4. The above craters are circular. They appear elliptical because they are near the edge of the moon and are therefore foreshortened.
 
-5.  Its ray system has been traced for 500 miles, but they are narrow and weak. Look for the crater Ansgarius just south of Langrenus.
+5. Its ray system has been traced for 500 miles, but they are narrow and weak. Look for the crater Ansgarius just south of Langrenus.
 
-6.  The outer ramparts are irregular and hilly, and there is a bright, fragmented ray system spread across the maria to the west.
+6. The outer ramparts are irregular and hilly, and there is a bright, fragmented ray system spread across the maria to the west.
 
-7.  The interior of the crater reflects more light than the surroundings, so the crater stands out prominently when the sun is overhead.
+7. The interior of the crater reflects more light than the surroundings, so the crater stands out prominently when the sun is overhead.
 
-8.  The crater floor is covered by many boulders, and is slightly irregular in the northwest half. The central peaks rise about a kilometer above the floor, and a peak on the eastern rim ascends to an altitude of 3 km.
+8. The crater floor is covered by many boulders, and is slightly irregular in the northwest half. The central peaks rise about a kilometer above the floor, and a peak on the eastern rim ascends to an altitude of 3 km.
 
 #### Namesake: Michel Florent van Langren (~1600 1675)
 
 Dutch astronomer and cartographer
 
-6. Michael van Langren was the youngest member of a family of Dutch cartographers and was born in Amsterdam, Netherlands.
+1. Michael van Langren was the youngest member of a family of Dutch cartographers and was born in Amsterdam, Netherlands.
 
-7. His grandfather, Jacobus and his sons began producing both terrestrial as well as celestial globes in 1580.
+1. His grandfather, Jacobus and his sons began producing both terrestrial as well as celestial globes in 1580.
 
-8. Michael van Langren did not receive a university education however he did became a cartographer and engineer.
+1. Michael van Langren did not receive a university education however he did became a cartographer and engineer.
 
-9. He served as the Royal Cosmographer and Mathematician to the King of Spain.
+1. He served as the Royal Cosmographer and Mathematician to the King of Spain.
 
-10. Among his contributions were attempts to determine longitude by observing the position of the Moon. This led him to make the first ever map of the Moon, and he produced maps of the Moon at thirty different phases.
+1. Among his contributions were attempts to determine longitude by observing the position of the Moon. This led him to make the first ever map of the Moon, and he produced maps of the Moon at thirty different phases.
 
-11. He also assigned names to various lunar features, but few of these names were ever widely accepted because they were mostly related to the Spanish royal court. Ironically, the only lunar feature he named still bearing his designation is the crater he named after himself.
+1. He also assigned names to various lunar features, but few of these names were ever widely accepted because they were mostly related to the Spanish royal court. Ironically, the only lunar feature he named still bearing his designation is the crater he named after himself.
 
-12. He made various maps of the Spanish Netherlands, and produced plans for a port near Dunkirk, improvements to the port of Ostend, efforts to clear the canals of Antwerp, flood control concepts, and fortifications.
+1. He made various maps of the Spanish Netherlands, and produced plans for a port near Dunkirk, improvements to the port of Ostend, efforts to clear the canals of Antwerp, flood control concepts, and fortifications.
 
 |                                                                                                                                      |                           |
 | :----------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
@@ -167,11 +167,11 @@ French Jesuit theologian
 
 Christian saint and martyr
 
-8. Saint Catherine is claimed to have been a noted scholar in the early 4th century. She was one of the saints to speak to Saint Joan of Arc.
+1. Saint Catherine is claimed to have been a noted scholar in the early 4th century. She was one of the saints to speak to Saint Joan of Arc.
 
-9. The Orthodox Churches venerate her as a "great martyr," and in the Roman Catholic Church, she is traditionally revered as one of the Fourteen Holy Helpers.
+2. The Orthodox Churches venerate her as a "great martyr," and in the Roman Catholic Church, she is traditionally revered as one of the Fourteen Holy Helpers.
 
-10. Historians believe that Catherine ('the pure one') may not have existed and that she was more an ideal exemplary figure than an actual historical one.
+3. Historians believe that Catherine ('the pure one') may not have existed and that she was more an ideal exemplary figure than an actual historical one.
 
 |                                                                                                                                      |                           |
 | :----------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
@@ -253,7 +253,7 @@ Christian saint and martyr
 
 3. Notice that its northern wall has disappeared under the molten lava of the mare that flooded its interior, leaving only mounds appearing in the lunar mare to mark the outline. This is a fine example of a ruined ring. On the floor are many objects, a circle of hills near the center, craterlets, and clefts. Of the latter, the most prominent lies on the south where it crosses the floor.
 
-4. The lava that formed [Mare Nectaris](#mare-nectaris) also invaded this crater, so the structure now forms a bay like extension.
+4. The lava that formed Mare Nectaris also invaded this crater, so the structure now forms a bay like extension.
 
 5. The remainder of the rim is heavily worn and covered in lesser impact craters, leaving little of the original rim intact.
 
@@ -265,21 +265,21 @@ Christian saint and martyr
 
 Italian physician, mathematician, geographer, astronomer, poet and atomist.
 
-7. Born of an ancient family in Verona, and educated at Padua where at 19 he was appointed professor at the University.
+1. Born of an ancient family in Verona, and educated at Padua where at 19 he was appointed professor at the University.
 
-8. On account of his eminence in the practice of medicine, he was elected physician of the Council of Trent.
+2. On account of his eminence in the practice of medicine, he was elected physician of the Council of Trent.
 
-9. A bronze statue was erected in his honor by the citizens of Padua, while his native city commemorated their great compatriot by a marble statue.
+3. A bronze statue was erected in his honor by the citizens of Padua, while his native city commemorated their great compatriot by a marble statue.
 
-10. He lived and practiced in his hometown.
+4. He lived and practiced in his hometown.
 
-11. In 1546 he proposed that epidemic diseases are caused by transferable tiny particles or "spores" that could transmit infection by direct or indirect contact or even without contact over long distances.
+5. In 1546 he proposed that epidemic diseases are caused by transferable tiny particles or "spores" that could transmit infection by direct or indirect contact or even without contact over long distances.
 
-12. His theory remained influential for nearly three centuries, before being displaced by germ theory.
+6. His theory remained influential for nearly three centuries, before being displaced by germ theory.
 
-13. The name for syphilis is derived from Fracastoro's 1530 epic poem in three books, Syphilis sive morbus gallicus ("Syphilis or The French Disease"), about a shepherd named Syphilus. The poem suggests using mercury and "guaiaco" as a cure.
+7. The name for syphilis is derived from Fracastoro's 1530 epic poem in three books, Syphilis sive morbus gallicus ("Syphilis or The French Disease"), about a shepherd named Syphilus. The poem suggests using mercury and "guaiaco" as a cure.
 
-14. His 1546 book (De contagione "On Contagion") also gave the first description for typhus. The collected works of Fracastoro appeared for the first time in 1555.
+8. His 1546 book (De contagione "On Contagion") also gave the first description for typhus. The collected works of Fracastoro appeared for the first time in 1555.
 
 |                                                                                                                                      |                           |
 | :----------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
@@ -836,7 +836,7 @@ Listed on the map as Ptolomaeus
 
 3. Note that someone standing near the center would not see the mountainous border since it would be below the horizon. The horizon would be about 2 miles from you.
 
-4. In the past this crater was identified as Ptolemaeus A, before being renamed by the IAU in 1976. (source: https://planetarynames.wr.usgs.gov/Feature/236)
+4. In the past this crater was identified as Ptolemaeus A, before being renamed by the IAU in 1976. (source: <https://planetarynames.wr.usgs.gov/Feature/236>)
 
 |                                                                                                                                      |                           |
 | :----------------------------------------------------------------------------------------------------------------------------------- | ------------------------: |

@@ -1,5 +1,5 @@
-<script src="/js/whatsup.js"></script>
-<script src="/js/utils.js"></script>
+<script src="../../js/whatsup.js"></script>
+<script src="../../js/utils.js"></script>
 <script type="text/javascript">
 	var objectName ="Uranus<br><h3>(YOUR-un-us)</h3>"
 	var objectDesc ="7th Planet from the Sun<br/>The Sideways Planet"

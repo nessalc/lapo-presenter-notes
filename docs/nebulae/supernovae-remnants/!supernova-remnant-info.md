@@ -3,6 +3,7 @@
 |[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Supernova Remnant](../!supernova-remnant-info) |  |
 
 # Supernova Remnant
+
 General Information
 
 1.	Only stars that are very massive become supernovae.
@@ -30,6 +31,7 @@ General Information
 |[Home](/notes/#object-notes) > [Nebulae](/notes/#nebulae) > [Supernova Remnant](../!supernova-remnant-info) > References | [top](#supernova-remnant) |
 
 ###### References
+
 |   |   |   |
 |---|---|---|
 |**Item**|**Updated**|**Notes**|

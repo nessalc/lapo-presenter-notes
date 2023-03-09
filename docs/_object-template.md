@@ -10,7 +10,7 @@ Also, be sure to add entries to the following two pages:
 -->
 
 <!-- Update the variables in the script section below -->
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="object-name"
 	var objectDesc ="object-description"

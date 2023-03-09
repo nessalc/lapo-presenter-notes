@@ -1,4 +1,4 @@
-<script src="/js/whatsup.js"></script>
+<script src="../../js/whatsup.js"></script>
 <script type="text/javascript">
 	var objectName ="Graffias"
 	var objectDesc ="Beta Scorpii<br/>Optical Double Star<br/>in the Constellation<br/>Scorpius"

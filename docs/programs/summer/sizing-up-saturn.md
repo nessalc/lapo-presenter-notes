@@ -1,4 +1,5 @@
-# << TO DO >>: Notes in ROUGH DRAFT ...
+# << TO DO >>: Notes in ROUGH DRAFT
+
 The information in these notes should not duplicate what is found under the specific objects observed during this program ... rather, these notes should supplement the objects' information with regards to the topic of this program... and provide hyperlinks to the object pages that will be used during this program:
 
 These notes are still in DRAFT... edited/reviewed to "TO BE COMPLETED..." below...
@@ -8,6 +9,7 @@ These notes are still in DRAFT... edited/reviewed to "TO BE COMPLETED..." below.
 During this program we will observe the Moon, Saturn and the most distant planet in our solar system, Neptune, as we compare and contrast their different sizes, compositions and features.
 
 ## Suggested Observing List
+
 - Moon Craters
 - Moon Mare
 - Saturn
@@ -17,28 +19,28 @@ During this program we will observe the Moon, Saturn and the most distant planet
 
 - Moon Craters
 
-1.  The Moon is 3.6 times smaller than Earth and over 34 times smaller than Saturn.
+1. The Moon is 3.6 times smaller than Earth and over 34 times smaller than Saturn.
 
-2.  Since the Moon is a piece of rock it is very different from a gas planet like Saturn.
+2. Since the Moon is a piece of rock it is very different from a gas planet like Saturn.
 The biggest difference is that the moon has a solid surface while gas planets don't.
 
-3.  Craters were formed when pieces of rock struck the moon and left large holes. Since
+3. Craters were formed when pieces of rock struck the moon and left large holes. Since
 gas giant planets don’t have surfaces, you won’t find craters on Saturn.
 
-4.  The Moon has no atmosphere, unlike Saturn which has a very thick atmosphere.
+4. The Moon has no atmosphere, unlike Saturn which has a very thick atmosphere.
 Thus the Moon has no cloud bands across its face like Saturn does.
 
-5.  The size of the typical crater visible on the moon is about 50 miles. The smallest
+5. The size of the typical crater visible on the moon is about 50 miles. The smallest
 craters that can be seen with the telescope are a few miles across. However, the
 Apollo astronauts that visited the Moon saw craters as small as a few inches across.
 
-6.  Over 500 thousand craters can be seen on the moon with the largest telescope on
+6. Over 500 thousand craters can be seen on the moon with the largest telescope on
 Earth.
 
-7.  If the area you have chosen has two craters which overlap, you may wish to ask
+7. If the area you have chosen has two craters which overlap, you may wish to ask
 which one was formed first and why.
 
-8.  If the crater you have chosen has a mountain peak or peaks in the center, you may
+8. If the crater you have chosen has a mountain peak or peaks in the center, you may
 wish to ask how the mountain peak got there. If you do ask, it is usually best to start
 by asking how craters are made and if that explanation is consistent with a mountain
 in the center. Of course the mountain peak is formed when material that originally
@@ -47,22 +49,22 @@ dropping a pebble into a thick mud puddle.
 
 - Moon Mare
 
-9.  The smooth dark areas are the mare. The lighter colored regions with numerous craters are the highlands.
+1. The smooth dark areas are the mare. The lighter colored regions with numerous craters are the highlands.
 
-10. People often wonder why the moon map is upside down. While they are looking through the finder, tell them to notice which side of the moon is sunlit and which is dark. Have them do the same with their naked eye and they should realize that telescopes turn images upside down.
+1. People often wonder why the moon map is upside down. While they are looking through the finder, tell them to notice which side of the moon is sunlit and which is dark. Have them do the same with their naked eye and they should realize that telescopes turn images upside down.
 
-11. The maria are the smooth dark areas on the moon. They formed about 3.2 to 4 billion years ago when lava flowed through cracks in the lunar surface and filled in the low lying areas.
+1. The maria are the smooth dark areas on the moon. They formed about 3.2 to 4 billion years ago when lava flowed through cracks in the lunar surface and filled in the low lying areas.
 
-12. The Moon is very different from Saturn. It’s made of rock and has a solid surface.
+1. The Moon is very different from Saturn. It’s made of rock and has a solid surface.
 Since Saturn doesn’t have a solid surface, it doesn’t have features like maré.
 
-13. Generally speaking, our Moon has more in common with the moons of Saturn than Saturn itself. The Moon has a thick, rocky crust, while the moons of Saturn have thick water ice crusts. These ice crusts behave in similarly to the rock crust of the Moon, folding, faulting, eroding and showing impact cratering.
+1. Generally speaking, our Moon has more in common with the moons of Saturn than Saturn itself. The Moon has a thick, rocky crust, while the moons of Saturn have thick water ice crusts. These ice crusts behave in similarly to the rock crust of the Moon, folding, faulting, eroding and showing impact cratering.
 
-14. One of Saturn’s moons, Enceladus, has cryovolcanoes. Although these, cryovolcanoes spew liquid water instead of liquid rock or magma it is a similar mechanism to the one that created the maré on our Moon. .
+1. One of Saturn’s moons, Enceladus, has cryovolcanoes. Although these, cryovolcanoes spew liquid water instead of liquid rock or magma it is a similar mechanism to the one that created the maré on our Moon. .
 
-15. Magma or lave on the Moon is much runnier (less viscous) than it is on Earth. As a result, there are no tall volcanic cones on the Moon like the ones we find here on Earth. Instead the Moon’s lava rapidly oozed out onto the surface building up relatively flat 'volcanic plains'
+1. Magma or lave on the Moon is much runnier (less viscous) than it is on Earth. As a result, there are no tall volcanic cones on the Moon like the ones we find here on Earth. Instead the Moon’s lava rapidly oozed out onto the surface building up relatively flat 'volcanic plains'
 
-16. The majority of cratering took place early in the moon’s history, covering the entire
+1. The majority of cratering took place early in the moon’s history, covering the entire
 surface of the moon somewhat evenly with craters. When the maria formed a few hundred million years later they presented new smooth surfaces on which to record subsequent cratering.
 
 ## SATURN - PLANET
@@ -122,7 +124,7 @@ seen. However, in 1980 and ‘81, the Voyager missions found that each ring is
 actually made up of thousands of tiny ringlets. These ringlets could be compared
 to the grooves on a phonograph album.
 
-# TO BE COMPLETED...
+# TO BE COMPLETED
 
 SATURN’S MOONS BACKGROUND INFORMATION FOR EXPLAINERS:
 SATURN - MOONS
