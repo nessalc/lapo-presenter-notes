@@ -3,6 +3,7 @@ import json
 import ephem
 import pytz
 import pathlib
+import sys
 
 d = datetime.datetime.now()
 d = d.replace(minute=0, second=0, microsecond=0)  # get current hour
@@ -32,6 +33,9 @@ for body in [ephem.Sun, ephem.Mercury, ephem.Venus, ephem.Moon, ephem.Mars,
     if b.name != 'Sun':
         objects[b.name]['sun_distance'] = dict(sundist)
 
-path = pathlib.Path(__file__).parent.joinpath(
-    '../solar-system/data.json').resolve()
+outfile = pathlib.Path(__file__).parent.joinpath('../solar-system/data.json')
+if len(sys.argv) > 1:
+    outfile = pathlib.Path(sys.argv[1])
+
+path = outfile.resolve()
 json.dump(objects, open(path, 'w'), indent=2)
