@@ -1,10 +1,10 @@
 site_name: Lake Afton Public Observatory
 site_description: Object and Program notes for use during the public program at the Lake Afton Public Observatory's 16-inch telescope
 site_author: Chris Ketron
-copyright: '&copy; 2017 Lake Afton Public Observatory'
+copyright: '&copy; 2023 Lake Afton Public Observatory'
 site_url: http://lake-afton-presenter-notes.readthedocs.io/en/latest/
 repo_url: https://github.com/caketron/lake-afton-presenter-notes.git
-theme: cyborg
+theme: slate
 extra_css:
   - 'css/nightvision.css'
 extra_javascript:

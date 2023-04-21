@@ -1,6 +1,6 @@
 function closest_below(table, index) {
-  arr = Object.keys(table).map(function(x) {
-    return parseInt(x);
+  arr = Object.keys(table).map(function (x) {
+    return parseFloat(x);
   });
   var curr = arr[0];
   var diff = Math.abs(index - curr);
@@ -14,8 +14,8 @@ function closest_below(table, index) {
   return curr;
 }
 function closest_above(table, index) {
-  arr = Object.keys(table).map(function(x) {
-    return parseInt(x);
+  arr = Object.keys(table).map(function (x) {
+    return parseFloat(x);
   });
   var curr = arr[0];
   var diff = Math.abs(index - curr);
@@ -40,14 +40,14 @@ function au_to_ls(value) {
   // astronomical unit to light-second
   return (value * 149597870700) / 299792458;
 }
-Number.prototype.numberFormat = function(decimals, dec_point, thousands_sep) {
+Number.prototype.numberFormat = function (decimals, dec_point, thousands_sep) {
   dec_point = typeof dec_point !== 'undefined' ? dec_point : '.';
   thousands_sep = typeof thousands_sep !== 'undefined' ? thousands_sep : ',';
   var parts = this.toFixed(decimals).split('.');
   parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, thousands_sep);
   return parts.join(dec_point);
 };
-Number.prototype.timeFormat = function() {
+Number.prototype.timeFormat = function () {
   d = Number(this);
   var h = Math.floor(d / 3600);
   var m = Math.floor((d % 3600) / 60);
