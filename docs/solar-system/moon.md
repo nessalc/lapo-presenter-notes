@@ -35,15 +35,14 @@
 
 Information about Earth's Moon.
 
-|                                    |                                         |                            |
+|                                    |             Actual             | Compared <br/>to Earth |
 | ---------------------------------- | :-------------------------------------: | :------------------------: |
-|                                    |             <br/>**Actual**             | **Compared <br/>to Earth** |
 | **Distance from Earth** (Average)  |              239,000 miles              |                            |
 | **Distance from Earth** (Closest)  |              221,000 miles              |                            |
 | **Distance from Earth** (Farthest) |              253,000 miles              |                            |
-| **Distance from Earth** (Current)  | <span id="dist_earth">loading...</span><br /><span id="dist_earth_light">loading...</span> |             --             |
+| **Distance from Earth** (Current)  | <span id="dist_earth">loading...</span><br /><span id="dist_earth_light">loading...</span> |                          |
 | **Revolution Period**              |                27.3 days                |                            |
-| **Time from New Moon to New Moon** |                29.5 days                |             --             |
+| **Time from New Moon to New Moon** |                29.5 days                |                          |
 | **Diameter**                       |               2160 miles                |         1/4 (0.25)         |
 | **Mass**                           |                                         |        1/81 (0.012)        |
 | **Surface Gravity**                |           1.6 m/s<sup>2</sup>           |         1/6 (0.17)         |
@@ -51,24 +50,21 @@ Information about Earth's Moon.
 | **Temperature** (Shadow/Dark)      |        -180 &deg;C (-290 &deg;F)        |                            |
 | **Density** (gram/cubic cm)        |         3.34 gm/cm<sup>3</sup>          |            0.61            |
 
-
 ---
 
 #### What to look for through the telescope
 
 ---
 
-1.  Recommended eyepiece:  26mm or 40mm
-
-1.  People often wonder why the moon map is upside down. While they are looking through the finder, tell them to notice which side of the moon is light and which is dark. Have them do the same with their naked eye and they should realize that telescopes turn images upside down.
+1. Recommended eyepiece:  26mm or 40mm
+2. People often wonder why the moon map is upside down. While they are looking through the finder, tell them to notice which side of the moon is light and which is dark. Have them do the same with their naked eye and they should realize that telescopes turn images upside down.
 
 # Lunar Features
 
- - [Mare](../moon-mare)
- - [Craters](../moon-craters)
- - [Mountains](../moon-mountains)
- - [Other Features](../moon-other-features)
-
+* [Mare](../moon-mare)
+* [Craters](../moon-craters)
+* [Mountains](../moon-mountains)
+* [Other Features](../moon-other-features)
 
 |                                                                                                                               |                           |
 | :---------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
@@ -89,7 +85,6 @@ The phases of the Moon, in the sequence of their occurrence (from New Moon to Ne
 |    <img src="../../img/lastquarter.gif" width="75" title="Last Quarter"/>    | **Last Quarter**<br/>(24 days old – 50%)<br/>One-half of the Moon appears to be illuminated by direct sunlight.<br/>The fraction of the Moon's disk that is illuminated is decreasing.                        |
 | <img src="../../img/waningcrescent.gif" width="75" title="Waning Crescent"/> | **Waning Crescent**<br/>(29 days old – 25%)<br/>The Moon appears to be partly but less than one-half illuminated by direct sunlight.<br/>The fraction of the Moon's disk that is illuminated is decreasing.   |
 |        <img src="../../img/newmoon.gif" width="75" title="New Moon"/>        | **New Moon**<br/>(29.5 days old - 0%)<br/>The Moon's unilluminated side is facing the Earth.<br/>The Moon is not visible (except during a solar eclipse).                                                     |
-|                                                                              |                                                                                                                                                                                                               |
 
 <p>Following Waning Crescent is New Moon, beginning a repetition of the complete phase cycle of 29.5-days average duration. The time in days counted from the time of New Moon is called the Moon's "age". Each complete cycle of phases is called a "lunation".</p>
 source<a href="#footnote1" id="footnoteRef1"><sup>1</sup></a>
@@ -103,44 +98,37 @@ source<a href="#footnote1" id="footnoteRef1"><sup>1</sup></a>
 |                                                           |            |
 | :-------------------------------------------------------- | ---------: |
 | Waxing Crescent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | (1-5 days) |
-|                                                           |            |
 
-- [Mare Crisium](../moon-mare#mare-crisium)
-- [Altai Scarp](../moon-mare#altai-scarp)
-- [Serpentine Ridge](moon-mare#serpentine-ridge)
+* [Mare Crisium](../moon-mare#mare-crisium)
+* [Altai Scarp](../moon-mare#altai-scarp)
+* [Serpentine Ridge](moon-mare#serpentine-ridge)
 
 |                                                                     |                |
 | :------------------------------------------------------------------ | -------------: |
 | First Quarter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | (6-9 days old) |
-|                                                                     |                |
 
-- [Mare Fecunditatis](../moon-mare#mare-fecunditatis)
-- [Straight Wall](../moon-mare#straight-wall)
+* [Mare Fecunditatis](../moon-mare#mare-fecunditatis)
+* [Straight Wall](../moon-mare#straight-wall)
 
 |                |                  |
 | :------------- | ---------------: |
 | Waxing Gibbous | (10-13 days old) |
-|                |                  |
 
 |                                                                 |                  |
 | :-------------------------------------------------------------- | ---------------: |
 | Full Moon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | (14-15 days old) |
-|                                                                 |                  |
 
 |                |                  |
 | :------------- | ---------------: |
 | Waning Gibbous | (16-19 days old) |
-|                |                  |
 
 |                                                              |                  |
 | :----------------------------------------------------------- | ---------------: |
 | Last Quarter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | (20-24 days old) |
-|                                                              |                  |
 
 |                 |                  |
 | :-------------- | ---------------: |
 | Waning Crescent | (25-29 days old) |
-|                 |                  |
 
 |                                                                                                                                 |                           |
 | :------------------------------------------------------------------------------------------------------------------------------ | ------------------------: |
@@ -148,16 +136,14 @@ source<a href="#footnote1" id="footnoteRef1"><sup>1</sup></a>
 
 # Apollo Landing Sites
 
-|             |               |              |                                             |
+| Mission | Longitude | Latitude | Location                                |
 | ----------- | :-----------: | :----------: | :------------------------------------------ |
-| **Mission** | **Longitude** | **Latitude** | **Location**                                |
 | Apollo 11   | 23&deg; 29'E  | 00&deg; 40'N | just south of [Hypatia](../moon-craters#hypatia)|
 | Apollo 12   | 23&deg; 24'W  | 03&deg; 12'S | north of the crater [Reinhold](../moon-craters#reinhold)|
 | Apollo 14   | 17&deg; 28'W  | 03&deg; 40'S | southwest of the crater [Gambant](../moon-craters#gambant)|
 | Apollo 15   | 03&deg; 39'E  | 26&deg; 06'N | between craters [Apianus](../moon-craters#apianus) and [Blanchinus](../moon-craters#blanchinus)|
 | Apollo 16   | 15&deg; 31'E  | 09&deg; 00'S | southwest of the crater [Delambre](../moon-craters#delambre)|
 | Apollo 17   | 30&deg; 31'E  | 20&deg; 10'N | in the crater [Fracastorius](../moon-craters#fracastorius) |
-|             |               |              |                                             |
 
 |                                                                                                                             |                           |
 | :-------------------------------------------------------------------------------------------------------------------------- | ------------------------: |
@@ -168,4 +154,3 @@ source<a href="#footnote1" id="footnoteRef1"><sup>1</sup></a>
 |                                                         |            |                                                    |
 | ------------------------------------------------------- | ---------- | -------------------------------------------------- |
 | <a id="footnote1" href="#footnoteRef1"><sup>1</sup></a> | 2017-04-17 | <http://aa.usno.navy.mil/faq/docs/moon_phases.php> |
-|                                                         |            |                                                    |

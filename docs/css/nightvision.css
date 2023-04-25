@@ -64,3 +64,13 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+ol {
+    list-style-type: decimal;
+}
+ol ol {
+    list-style-type: lower-alpha;
+}
+blockquote {
+    border-left: #fff 3px solid;
+    padding-left: 1em;
+}

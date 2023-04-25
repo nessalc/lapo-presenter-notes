@@ -26,12 +26,10 @@
 | ------------: | :-------- | ------------: | :------------- |
 | **Longitude** | 22&deg; E | **Best Seen** | 5-day old moon |
 |  **Latitude** | 28&deg; S |               |                |
-|               |           |               |                |
 
 #### Altai Scarp Feature Information
 
 1. Height: averages 1 mile, but rises to 2.5 miles in some places
-
 2. This is a gigantic irregular cliff with its lower side on the Mare Nectaris side.
 
 |                                                                                                                                                    |                           |
@@ -44,7 +42,6 @@
 | ------------: | :-------- | ------------: | :------------- |
 | **Longitude** | 25&deg; E | **Best Seen** | 5-day old moon |
 |  **Latitude** | 25&deg; N |    **Length** | 250 miles      |
-|               |           |               |                |
 
 #### Serpentine Ridge Feature Information
 
@@ -60,7 +57,6 @@
 | ------------: | :-------- | ------------: | :------------- |
 | **Longitude** | 8&deg; W  | **Best Seen** | 9-day old moon |
 |  **Latitude** | 22&deg; S |    **Length** | 70 miles       |
-|               |           |               |                |
 
 #### Straight Wall Feature Information
 

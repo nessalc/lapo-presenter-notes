@@ -14,7 +14,8 @@
 
 ## Telescope Specifications
 
-#### Primary Telescope 
+#### Primary Telescope
+
 Sigma 16 <br>
 41-cm Cassegrain Telescope System - Reflector
 
@@ -37,29 +38,28 @@ Lunt Engineering ED-APO Refractor<br/>
 |**Aperture**    | 152 mm        |
 |**Focal Ratio** | F/7.9         |
 |**Focal Length**| 1200 mm       |
-|                |               |
 
 ## Telescope Eyepiece Magnification and Information
 
 ### 16" Main Telescope (5486 mm Focal Length)
 
-|         |**Drawer**|**Eyepiece**|**Mag**|**2x Barlow**<br>**Mag**|
+|         |Drawer|Eyepiece|Mag|2&#215; Barlow<br>Mag|
 |--------:|:---:|-------------------------------|:----:|:---:|
 | Default | 1   | 2" Pentax SMC XL 40 mm        | 137  |     |  
-| Options | 1   | 2" Explore Scientific 28 mm   | 196  |     | 
-|         | 1   | Celestron 25 mm Plossl        | 219  | 439 | 
-|         | 1   | Celestron 32 mm Plossl        | 171  | 343 | 
-|         | 2   | Celestron 17mm Plossl         | 323  | 645 | 
-|         | 2   | Tele Vue Wide Angle 19 mm     | 289  | 578 | 
-|         | 2   | Tele Vue Wide Angle 24 mm     | 229  | 457 | 
-|         | 2   | Celestron 25 mm Ortho         | 219  | 439 | 
+| Options | 1   | 2" Explore Scientific 28 mm   | 196  |     |
+|         | 1   | Celestron 25 mm Plossl        | 219  | 439 |
+|         | 1   | Celestron 32 mm Plossl        | 171  | 343 |
+|         | 2   | Celestron 17mm Plossl         | 323  | 645 |
+|         | 2   | Tele Vue Wide Angle 19 mm     | 289  | 578 |
+|         | 2   | Tele Vue Wide Angle 24 mm     | 229  | 457 |
+|         | 2   | Celestron 25 mm Ortho         | 219  | 439 |
 
-### 6" Refractor Telescope (1200 mm Focal Length) 
+### 6" Refractor Telescope (1200 mm Focal Length)
 
-|         |**Drawer**|**Eyepiece**|**Mag**|**2x Barlow**<br>**Mag**|
+|         |Drawer|Eyepiece|Mag|2&#215; Barlow<br>Mag|
 |--------:|:---:|-------------------------------|:----:|:---:|
 | Default | 1   | 2" Explore Scientific 28 mm   |  43  |     |  
-| Options | 1   | 2" Pentax SMC XL 40 mm        |  30  |     | 
+| Options | 1   | 2" Pentax SMC XL 40 mm        |  30  |     |
 |         | 1   | Celestron 25 mm Plossl        |  48  |  96 |
 |         | 1   | Celestron 32 mm Plossl        |  38  |  75 |
 |         | 2   | Celestron 17mm Plossl         |  71  | 141 |

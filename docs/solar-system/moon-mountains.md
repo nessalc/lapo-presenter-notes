@@ -15,9 +15,7 @@
 ### Mountains Information
 
 1. Mountains on the moon were formed very differently from the mountains on Earth.
-
 2. Mountains on Earth are formed when two plates meet; one can be forced to go over the other (as is the case with the Cascade mountains in the Western United States); or they can scrunch up as in the case of the Himalayas in Asia. This is because Earth is an active world with plate tectonics.
-
 3. The Moon has no plate tectonics. Lunar mountains are the rims of ancient large craters. Part of the rims and crater floors were covered by lava billions of years ago.
 
 |                                                                                                                                                     |                           |
@@ -31,7 +29,6 @@
 | **Longitude** | 41&deg; E | **Best Seen** | 5-day old moon          |
 |  **Latitude** | 14&deg; S |  **Diameter** | 200 miles north-south   |
 |               |           |    **Height** | 2.0 miles (10,800 feet) |
-|               |           |               |                         |
 
 #### Pyrenees Mountains Information
 
@@ -49,14 +46,11 @@
 |  **Latitude** | 49&deg; N |    **Length** |                       |
 |               |           |    **Height** | 1.1 - 2.5 miles       |
 |               |           |               | (6,000 - 14,000 feet) |
-|               |           |               |                       |
 
 #### Alps Mountains Information
 
 1. Height: averages 1 mile, but rises to 2.5 miles in some places
-
 2. This is a gigantic irregular cliff with its lower side on the Mare Nectaris side.
-
 3. The highest peaks are found in the western section.
 
 |                                                                                                                                                     |                           |
@@ -70,7 +64,6 @@
 | **Longitude** | 8&deg; E    |**Best Seen**       |7-day old moon         |
 | **Latitude**  | 36&deg; N   |**Length**          |                       |
 |               |             |**Height**          |3.2 miles (17,000 feet)|
-|               |             |                    |                       |
 
 #### Caucaus Mountains Information
 
@@ -87,7 +80,6 @@
 | **Longitude** | 14&deg; E   |**Best Seen**       |7-day old moon         |
 | **Latitude**  | 16&deg; N   |**Length**          |                       |
 |               |             |**Height**          |1.9 miles (10,000 feet)|
-|               |             |                    |                       |
 
 #### Haemus Mountains Information
 
@@ -104,7 +96,6 @@
 | **Longitude** | 20&deg; W | **Best Seen** | 9-day old moon |
 |  **Latitude** | 20&deg; N |    **Length** | 450 miles      |
 |               |           |    **Height** |                |
-|               |           |               |                |
 
 #### Apennine Mountains Information
 
@@ -121,7 +112,6 @@
 | **Longitude** | 24&deg; W | **Best Seen** | 9-day old moon          |
 |  **Latitude** | 15&deg; N |    **Length** | ~200 miles              |
 |               |           |    **Height** | 1.25 miles (6,600 feet) |
-|               |           |               |                         |
 
 #### Carpathian Mountains Information
 
